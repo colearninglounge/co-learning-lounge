@@ -6,7 +6,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the [list guidelines](pull_request_template.md). 
 
-## Creating your own awesome list
+## Creating your own topic
 
 To create a new topic, check out the [instructions](create-list.md).
 
@@ -16,7 +16,7 @@ If you have something awesome to contribute to the co-learning lounge community,
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome list's GitHub page. For example: [colearninglounge/co-learning-lounge](https://github.com/colearninglounge/co-learning-lounge)
+1. Access the topic list from GitHub. For example: [colearninglounge/co-learning-lounge](https://github.com/colearninglounge/co-learning-lounge)
 2. Click on the `readme.md` file: 
 3. Now click on the edit icon. 
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
