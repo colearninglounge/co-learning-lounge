@@ -39,8 +39,8 @@ It doesn’t matter weather you help to solve someone’s doubt or create nice i
 
 Right now, this is very much a self-funded initiative. If you wish to see more and more high-quality content, then support us by giving star to the repo and sharing with your friends and colleagues.
 
-## Where do we live?
-Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglounge/) and be part of our family. Also, Like, Follow and share our [FB page](https://www.facebook.com/Co-learning-lounge-2312708655617417).
+# Where do we live?
+Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglounge/) and be part of our family. Also like, follow and share our [FB page](https://www.facebook.com/Co-learning-lounge-2312708655617417).
 
 # Technology
 
