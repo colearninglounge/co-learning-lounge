@@ -1,1 +1,1 @@
-This folder contain all the images of this repo
+This folder contain all the images of this repo.
