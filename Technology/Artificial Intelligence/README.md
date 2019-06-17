@@ -55,7 +55,7 @@
 
 ## AI vs ML vs Deep Learning
 
-![](../../Images/aivsml.jpeg)
+![](../../Images/aivsml.jpg)
 
 ## What is Deep Learning?
 
@@ -85,3 +85,8 @@ Netflix uses machine learning to give better suggestions to their users of the T
 Artificial Intelligence is a ability of computer program to function like a human brain
 
 Example: Robots like Sophia
+
+## Use cases
+
+- [Computer Vision](https://github.com/kothiyayogesh/co-learning-lounge/tree/master/Technology/Artificial%20Intelligence/Computer%20Vision)
+- [Natural Language Processing](https://github.com/kothiyayogesh/co-learning-lounge/tree/master/Technology/Artificial%20Intelligence/Natural%20Langauge%20Processing)

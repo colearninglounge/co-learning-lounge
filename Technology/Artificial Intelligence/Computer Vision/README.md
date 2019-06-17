@@ -54,7 +54,7 @@ This repo will help you to become zero to hero in Computer Vision.
 
   Computer vision is a field of study focused on the problem of helping computers to see.
 
-![](images/computer_vision_logo.jpg)
+![Computer vision](../../../Images/computer_vision_logo.jpg)
 
 - Challenges of Computer Vision
 
