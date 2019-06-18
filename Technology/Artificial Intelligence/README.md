@@ -57,7 +57,7 @@
 
 ## AI vs ML vs Deep Learning
 
-![AI vs ML](../../Images/aivsml.jpg)
+![AI vs ML](../../images/aivsml.jpg)
 
 ## What is Deep Learning ?
 
