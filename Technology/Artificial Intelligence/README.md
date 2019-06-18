@@ -8,7 +8,7 @@
 - [Popular AI/ML medium channel](#popular-ai/ml-medium-channel)
 - [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
 - [Concepts](#concepts)
-- [People to follow on twitter](#people-to-follow-on-twitter)
+- [People to follow on Twitter](#people-to-follow-on-twitter)
 
 ## Books
 
@@ -56,14 +56,14 @@
   - Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
   - Understanding of [RegEx](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
   
-## People to follow on twitter
+## People to follow on Twitter
 
-- [siraj raval](https://twitter.com/sirajraval)
-- [delip rao](https://twitter.com/deliprao)
+- [Siraj Raval](https://twitter.com/sirajraval)
+- [Delip Rao](https://twitter.com/deliprao)
 - [Geoffrey Hinton](https://twitter.com/geoffreyhinton)
-- [andrew ng](https://twitter.com/AndrewYNg)
+- [Andrew NG](https://twitter.com/AndrewYNg)
 - [Fermat's Library](https://twitter.com/fermatslibrary)
-- [samim](https://twitter.com/samim)
+- [Samim](https://twitter.com/samim)
 - [DynamicWebPaige](https://twitter.com/DynamicWebPaige)
 - [Danilo J. Rezende](https://twitter.com/DeepSpiker)
 - [Jane Wang](https://twitter.com/janexwang)
