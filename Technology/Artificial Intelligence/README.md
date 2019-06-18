@@ -90,5 +90,5 @@ Example: Robots like Sophia
 
 ## Use cases
 
-- [Computer Vision](/Computer%20Vision)
-- [Natural Language Processing](/Natural%20Langauge%20Processing)
+- [Computer Vision](./Computer%20Vision)
+- [Natural Language Processing](./Natural%20Langauge%20Processing)
