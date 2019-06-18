@@ -1,3 +1,5 @@
+# Artificial Intelligence
+
 ## Quick Links
 
 - [Books](#books)
@@ -18,10 +20,10 @@
 
 - [Deep Learning by NPTEL](https://nptel.ac.in/courses/106106184/)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
-- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [Coursera - Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs](https://www.udemy.com/course/computer-vision-a-z/)
-- [Deep Learning : Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
+- [Udemy - Deep Learning: Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
 
 ## Blogs to follow
 
@@ -30,6 +32,7 @@
 - [WildML](http://www.wildml.com/)
 - [DistillPub](https://distill.pub/) (distillpub is unique, blog and publication both)
 - [Sebastian Ruder](http://ruder.io/)
+- [Jack Clark](https://jack-clark.net/)
 
 ## Popular AI/ML medium channel
 
@@ -48,16 +51,15 @@
 ## Concepts
 
 - Prerequisite :
-
- 	-	Working knowledge of python.
- 	- 	Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
- 	- 	Understanding of [RegEx](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/).
+  - Working knowledge of python.
+  - Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
+  - Understanding of [RegEx](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
 
 ## AI vs ML vs Deep Learning
 
-![](../../Images/aivsml.jpg)
+![AI vs ML](../../images/aivsml.jpg)
 
-## What is Deep Learning?
+## What is Deep Learning ?
 
 Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can be taught to accomplish the same tasks for machines.
 
@@ -66,7 +68,7 @@ Just like we use our brains to identify patterns and classify various types of i
 
 - Why Deep Learning now?
 
-   Deep learning exits from 1970 but it became popular in the last 5 years due to the following reasons.
+  Deep learning exits from 1970 but it became popular in the last 5 years due to the following reasons.
     - More availability of Data 
     - Cheaper storage devices
     - More computational power availability
@@ -88,5 +90,5 @@ Example: Robots like Sophia
 
 ## Use cases
 
-- [Computer Vision](https://github.com/kothiyayogesh/co-learning-lounge/tree/master/Technology/Artificial%20Intelligence/Computer%20Vision)
-- [Natural Language Processing](https://github.com/kothiyayogesh/co-learning-lounge/tree/master/Technology/Artificial%20Intelligence/Natural%20Langauge%20Processing)
+- [Computer Vision](./Computer%20Vision)
+- [Natural Language Processing](./Natural%20Langauge%20Processing)
