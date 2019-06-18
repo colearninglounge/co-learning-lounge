@@ -29,4 +29,4 @@ These resources are gathered from **fastai** community curated by Jeremy Howard 
 
 - [Learn x in y minutes](https://learnxinyminutes.com/docs/python3/) : quick overview of main Python 3 features entirely using code examples.
 - [David Beazley’s courses, tutorials, and books](https://www.dabeaz.com/) : generators, yields, descriptors, and other advanced topics
-- [Raymond Hettinger](https://pyvideo.org/speaker/raymond-hettinger.html) : f you want to master python skills then Raymond is the man, he has been a python core developer for many years and tend to give an advance talk.
+- [Raymond Hettinger](https://pyvideo.org/speaker/raymond-hettinger.html) : If you want to master python skills then Raymond is the man, he has been a python core developer for many years and tend to give an advance talk.
