@@ -72,7 +72,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 	NLU is a narrow subset of NLP. It stands for Natural Language Understanding and is one of the most challenging tasks of AI. Its fundamental purpose is handling unstructured content and turning it into structured data that can be easily understood by the computers.
 	Whereas Natural language processing is a field concerned with the ability of a computer to understand, analyze, manipulate, and potentially generate human language(Natural langauge generation).
 	
-	![NLP Vs NLU](../../../Images/NLU-and-NLP.jpg)
+	![NLP Vs NLU](../../Images/NLU-and-NLP.jpg)
 	
 - Why NLP is hard?\
 	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like typos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.

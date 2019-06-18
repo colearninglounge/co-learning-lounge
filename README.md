@@ -34,8 +34,7 @@ Join us with greediness to learn, passionate to help and resolute to grow.
 ## Want to become superhuman ?
 
 It doesn’t matter whether you help to solve someone’s doubt or create nice informative tutorial for the community. Anything and everything is welcome.
-
-*Will update our what you can contribute guide soon.*
+Check our [what you can contribute guide](what_you_can_contribute.md) for more.
 
 Right now, this is very much a self-funded initiative. If you wish to see more and more high-quality content, then support us by giving star to the repo and sharing with your friends and colleagues.
 
