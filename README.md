@@ -45,3 +45,7 @@ Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglo
 ## Technology
 
 [Artificial Intelligence](./Technology/Artificial%20Intelligence)
+
+## Language
+
+[Python](./Language/Python)
