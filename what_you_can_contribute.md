@@ -4,7 +4,7 @@ There are various way you can contribute(mentioned from least to most):
 * Least you can do is help other solving their doubts and guiding other in learning journey.
 * You can always open to share critical feedback about content and community.
 * Help us in addressing and resolving the pending issues, enhancements.
-* Best you can do is curate the relevent content for the community.
+* Best you can do is curate the relevant content for the community.
 * Curate interview questions.
 * Be reviewer of the content you like and improve the quality of content.
 * Participate in our mentorship program and guide others in their learning.
