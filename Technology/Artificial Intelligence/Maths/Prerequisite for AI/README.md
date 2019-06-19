@@ -14,3 +14,12 @@
 
 #### *Interesting facts about Mathematics.*
 - *[17 Equations That Changed the World](https://medium.com/however-mathematics/17-equations-that-changed-the-world-a043a8c24022)*
+
+
+## Interactive Resources
+
+### Seeing Theory: Probability and Stats
+
+A visual introduction to probability and statistics.
+
+[<p align="center"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/seeing_theory.png" width="1000"></p>](https://seeing-theory.brown.edu)
