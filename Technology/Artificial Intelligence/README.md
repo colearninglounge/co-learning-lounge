@@ -152,3 +152,10 @@ Example: Robots like Sophia
 
 - [Computer Vision](./Computer%20Vision)
 - [Natural Language Processing](./Natural%20Langauge%20Processing)
+
+## interview resources 
+
+- [500 Deep Learning questions and answers](https://github.com/scutan90/DeepLearning-500-questions) On the topics from linear algebra, machine learning, deep learning, computer vision and other hot issues. 
+
+- "**Content will be in chineese, use chrome for english translation**"
+
