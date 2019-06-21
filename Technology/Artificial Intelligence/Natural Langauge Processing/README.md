@@ -77,12 +77,12 @@ This repo will help you to become zero to hero in Natural langauge processing.
 - Why NLP is hard?\
 	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like typos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.
 	
-- [Text Preprocessing](https://github.com/kothiyayogesh/NLP-Playground/tree/master/Concepts/Text%20preprocessing)
+- [Text Preprocessing](./Concepts/Text%20preprocessing)
 - Text to Features
-- Feature engineering
 - Topic modeling
 - Document/text Clustering
-- [Text classification](https://github.com/kothiyayogesh/NLP-Playground/tree/master/Concepts/Text%20classification)
+- [Recommendation system](./Concepts/Recommendation%20system)
+- [Text classification](./Concepts/Text%20classification)
 - Text summarization
 - Text matching
 - Language translation
