@@ -1,114 +1,51 @@
 # Co-Learning Lounge
 
-Welcome to Co-Learning Lounge, a non-profitable community where it adds wings to your flying career in the world of Artificial Intelligence. We are a group of Artificial Intelligence experts, Researchers, Data Scientist with rich experience in Machine Learning, Deep Learning, specialized in Natural Language Processing, Imaging, Recommendation systems,Time Series and lots more.
+Welcome to the one-point community-driven encyclopedia for anything in technology.
 
-# Our Motive towards society
+Forget fancy blogs with just disorganized articles or full-fledged courses with just basics thrown at you every next day, Here content is created and consumed by the community.
 
-Our goal is to provide solid learning experience in Artificial Intelligence to everyone who
-wish to groom their career as a Machine Learning Engineer, Deep Learning Engineer, Data
-Analyst, Data Scientist, Statisticians etc.
+Artificial Intelligence, Blockchain, Automation or anything tech: we breakdown the buzzwords here together as a community where you co-learn, collaborate, mentor or get mentored, innovate and grow.
 
-# Our Vision
+## Why Co-learning Lounge ?
 
-We desire to empower in newbies to become budding scientist of tomorrow in Artificial
-intelligence.
+When every other learning community you join is a place where people spam about themselves, their work, events, what better can you visualise? (The engagement astonishes me the most.)
 
-# How Co-learning lounge can help to upskill
+The major problem with 99% of the online or offline communities is that they don’t really ensure a safe and secure place for elites to share their knowledge and expertise with young and passionate mind. It’s pretty simple, You don’t feel like home.
 
-With years of experience we prepared our own contents so that it could be beneficial to
-someone. We use to conduct AI – Boot Camps, Workshops, Group Discussions, Hackathons
-etc. 
+## Our Motive towards society ?
 
-## What to expect?
+We always learn from experience and experienced people. What better place than group of like-minded people? We believe that great community can bring the great content hence **great learning** compared to all expensive or not so expensive full-fledged courses which stick to basics. While every other course is technology specific and only get starts you. Here we completely focus on use case specific project centric approach where you learn from basics to advance.
 
-This repo will help you to become zero to hero in Artificial Intelligence.
+![Others Vs Us](images/OthersVsUs.jpeg)
 
-## Quick Links
+## Our vision ?
 
-- [About us](#about-us)
-- [Support us](#support-us)
-- [Books](#books)
-- [Online Courses](#online-course)
-- [Blogs to follow](#blogs-to-follow)
-- [Popular AI/ML medium channel](#popular-ai/ml-medium-channel)
-- [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
-- [Concepts](#concepts)
+As most of us can’t afford expensive courses or leave full time job to attend the school. Hence, we want to bring power back to you by creating content through community contribution which is free, self-paced with full-fledged community support.
 
-## About us
+## How co-learning lounge can help to upskill and grow ?
 
-If you are a beginner in Artificial Intelligence and looking to learn from basics to advanced then you are at the right place. This repo contains various concepts of Artificial Intelligence. Please star the repo so that others can discover and take maximum benefit out of it. If you would like to collaborate feel free to mail me @ venkatadj@gmail.com I would encourage you to share your critical feedback by submitting a pull request.
+**Co-learning lounge** is not a community, it’s a family of mentors and mentees.
+Here our community members share their knowledge where the content is created and consumed by community with right mentorship. We also help each other in solving doubts. Not just it we also help each other getting job through reference. Here you will find your learning buddy, team member for your next hackathon and friend for lifetime 😊
 
-## Support Us
+## What to expect ?
 
-There's a few ways you can support this initiative:
-Right now this is very much a self funded initiative. If you wish to see more and more high quality tutorials then support us by giving star to the repo and sharing with your friends.
+Join us with greediness to learn, passionate to help and resolute to grow.
 
-## Books
+## Want to become superhuman ?
 
-- [Machine Learning For Dummies Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-- [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
-- [Practical Python and OpenCV + Case Studies](https://github.com/Shivanandroy/Study-Materials/blob/master/Practical%20Python%20and%20OpenCV%2C%203rd%20Edition.pdf)
-- [Computer Vision: Models, Learning, and Inference](https://web.itu.edu.tr/hulyayalcin/Signal_Processing_Books/2010_Szeliski_ComputerVision.pdf)
+It doesn’t matter whether you help to solve someone’s doubt or create nice informative tutorial for the community. Anything and everything is welcome.
+Check our [what you can contribute guide](what_you_can_contribute.md) for more.
 
-## Online Courses
+Right now, this is very much a self-funded initiative. If you wish to see more and more high-quality content, then support us by giving star to the repo and sharing with your friends and colleagues.
 
-- [Deep Learning by NPTEL](https://nptel.ac.in/courses/106106184/)
-- [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
-- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-- [Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs](https://www.udemy.com/course/computer-vision-a-z/)
-- [Deep Learning : Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
+## Where do we live ?
 
-## Blogs to follow
+Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglounge/) and be part of our family. Also like, follow and share our [FB page](https://www.facebook.com/Co-learning-lounge-2312708655617417).
 
-- [Einstein AI](https://einstein.ai/research)
-- [Google AI blog](https://ai.googleblog.com/)
-- [WildML](http://www.wildml.com/)
-- [DistillPub](https://distill.pub/) (distillpub is unique, blog and publication both)
-- [Sebastian Ruder](http://ruder.io/)
+## Technology
 
-## Popular AI/ML medium channel
+Artificial Intelligence [ [Tutorials](./Technology/Artificial%20Intelligence) | [Interview Questions](./Technology/Artificial%20Intelligence/interview_questions.md) ]
 
-- [Towards data science](https://towardsdatascience.com/)
-- [ML review](https://medium.com/mlreview)
-- [Machine learning 101](https://medium.com/machine-learning-101)
-- [Analytics vidhya](https://medium.com/analytics-vidhya)
+## Language
 
-## Popular Deep learning frameworks
-
-- [Tensorflow](https://www.tensorflow.org/)
-- [PyTorch](https://pytorch.org/)
-- [Keras](https://keras.io/)
-- [Caffe2](https://caffe2.ai/)
-
-## Concepts
-
-- Prerequisite :
-
-  - Working knowledge of python.
-  - Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb).
-
-## AI vs ML vs Deep Learning
-
-![](images/aivsml.jpeg)
-
-## What is Deep Learning?
-
-Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can     be taught to accomplish the same tasks for machines.
-
-   Example:
-   Automatic car driving system is a good example of deep learning.
-
-## What is Machine Learning?
-
-Machine Learning is a subset of AI and these are the algorithms which can learn by themselves without being externally programmed.
-
-Example:
-Amazon using machine learning to give better product choice recommendations to there costumers based on their preferences.
-Netflix uses machine learning to give better suggestions to their users of the Tv series or movie or shows that they would like to watch.
-
-## What is Artificial Intelligence?
-
-Artificial Intelligence is a ability of computer program to function like a human brain
-
-Example: Robots like Sophia
+Python [ [Tutorials](./Language/Python) | [Interview Questions](./Language/Python/interview_questions.md) ]
