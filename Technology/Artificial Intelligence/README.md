@@ -150,5 +150,5 @@ Example: Robots like Sophia
 
 ## Use cases
 
-- Computer Vision [ [Tutorial](./Computer%20Vision) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
-- Natural Language Processing [ [Tutorial](./Natural%20Langauge%20Processing) | [Interview Questions](./Natural%20Langauge%20Processing/interview_questions.md) ]
+- Computer Vision [ [Tutorial](./Computer%20Vision/) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
+- Natural Language Processing [ [Tutorial](./Natural%20Langauge%20Processing/) | [Interview Questions](./Natural%20Langauge%20Processing/interview_questions.md) ]
