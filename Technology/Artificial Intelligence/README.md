@@ -3,11 +3,13 @@
 ## Quick Links
 
 - [Books](#books)
-- [Online Courses](#online-course)
+- [Online Courses](#online-courses)
 - [Blogs to follow](#blogs-to-follow)
 - [Popular AI/ML medium channel](#popular-ai/ml-medium-channel)
 - [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
 - [Concepts](#concepts)
+- [People to follow on Twitter](#people-to-follow-on-twitter)
+- [Interactive Tools](#interactive-tools)
 
 ## Books
 
@@ -54,8 +56,66 @@
   - Working knowledge of python.
   - Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
   - Understanding of [RegEx](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+  
+## People to follow on Twitter
 
-## AI vs ML vs Deep Learning
+- [Siraj Raval](https://twitter.com/sirajraval)
+- [Delip Rao](https://twitter.com/deliprao)
+- [Geoffrey Hinton](https://twitter.com/geoffreyhinton)
+- [Andrew NG](https://twitter.com/AndrewYNg)
+- [Fermat's Library](https://twitter.com/fermatslibrary)
+- [Samim](https://twitter.com/samim)
+- [DynamicWebPaige](https://twitter.com/DynamicWebPaige)
+- [Danilo J. Rezende](https://twitter.com/DeepSpiker)
+- [Jane Wang](https://twitter.com/janexwang)
+- [Lex Fridman](https://twitter.com/lexfridman)
+- [Soumith chinthala](https://twitter.com/soumithchintala)
+- [Jeremey Howard](https://twitter.com/jeremyphoward)
+- [Hardmaru](https://twitter.com/hardmaru)
+
+
+## Interactive Tools 
+
+
+### Distill: Exploring Neural Networks with Activation Atlases
+
+Feature inversion to visualize millions of activations from an image classification network leads to an explorable activation atlas of features the network has learned. This can reveal how the network typically represents some concepts.
+
+[<p align="center"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/activation_atlas.png" width="1000"></p>](https://distill.pub/2019/activation-atlas/)
+
+
+
+
+### A visual introduction to Machine Learning
+Available in many different languages.
+
+[<p align="center"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/intro_ML.png" width="1000"></p>](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
+
+### Interactive Deep Learning Playground
+New to Deep Learning? Tinker with a Neural Network in your browser.
+
+[<p align="center"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/dl_playground.png" width="1000"></p>](https://playground.tensorflow.org)
+
+
+### Initializing neural networks
+
+Initialization can have a significant impact on convergence in training deep neural networks. Simple initialization schemes can accelerate training, but they require care to avoid common pitfalls. In this post, deeplearning.ai folks explain how to initialize neural network parameters effectively.
+
+[<p align="center"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/weight_init.png" width="1000"></p>](https://www.deeplearning.ai/ai-notes/initialization/)
+
+
+
+### Write a Neural Network from scratch in NumPy
+
+The best way to understand a neural network is to code it up from scratch! 
+
+[[Read more]](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795?fbclid=IwAR16PwZLqxnXE8kUUJWvu9Tmjf5OlKczRPUJENXNpuUTTz0iaKvS4Z7usa8)
+
+[<p align="left"><img src="https://github.com/ash11sh/co-learning-lounge/raw/master/imagess/nn_from_scratch.gif" width="600"></p>](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795?fbclid=IwAR16PwZLqxnXE8kUUJWvu9Tmjf5OlKczRPUJENXNpuUTTz0iaKvS4Z7usa8)
+
+ ## AI vs ML vs Deep Learning
 
 ![AI vs ML vs DL](../../images/aivsml.jpg)
 
@@ -90,5 +150,5 @@ Example: Robots like Sophia
 
 ## Use cases
 
-- [Computer Vision](./Computer%20Vision)
-- [Natural Language Processing](./Natural%20Langauge%20Processing)
+- Computer Vision [ [Tutorial](./Computer%20Vision) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
+- Natural Language Processing [ [Tutorial](./Natural%20Langauge%20Processing) | [Interview Questions](./Natural%20Langauge%20Processing/interview_questions.md) ]
