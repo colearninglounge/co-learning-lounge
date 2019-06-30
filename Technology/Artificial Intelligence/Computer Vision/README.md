@@ -70,3 +70,6 @@ This repo will help you to become zero to hero in Computer Vision.
     - Object Landmark Detection: What are the key points for the object in the photograph?
     - Object Segmentation: What pixels belong to the object in the image?
     - Object Recognition: What objects are in this photograph and where are they?
+
+- Projects
+![Digit Recognition using Deep learning](Concepts/digit_recognition_keras/)
