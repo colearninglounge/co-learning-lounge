@@ -71,5 +71,5 @@ This repo will help you to become zero to hero in Computer Vision.
     - Object Segmentation: What pixels belong to the object in the image?
     - Object Recognition: What objects are in this photograph and where are they?
 
-- Projects
+## Projects
 - [Digit Recognition using Deep learning](Concepts/digit_recognition_keras/)
