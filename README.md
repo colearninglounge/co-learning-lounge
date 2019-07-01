@@ -18,6 +18,8 @@ We always learn from experience and experienced people. What better place than g
 
 ![Others Vs Us](images/OthersVsUs.jpeg)
 
+Visit our learning unit [here](https://www.facebook.com/groups/colearninglounge/learning_content/) to start your learnings.
+
 ## Our vision ?
 
 As most of us can’t afford expensive courses or leave full time job to attend the school. Hence, we want to bring power back to you by creating content through community contribution which is free, self-paced with full-fledged community support.
