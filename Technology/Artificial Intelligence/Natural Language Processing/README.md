@@ -60,6 +60,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 - [Keras](https://keras.io/)
 
 ## Concepts:
+> Refer our FB group unit [here](https://www.facebook.com/groups/colearninglounge/learning_content/?filter=471702823590059) for discussion/doubt/feedback.
 - Prerequisite :
  	-	Working knowledge of python.
  	- 	Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
