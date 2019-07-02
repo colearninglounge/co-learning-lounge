@@ -1,6 +1,6 @@
 ## Recommendation system
 Recommender systems are pretty self-explanatory; as the name suggests, they are systems or techniques that recommend or suggest a particular product, service, or entity.
-One other definition of a recommender system or a recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of information filtering[here](https://www.facebook.com/groups/colearninglounge/learning_content/) system that seeks to predict the "rating" or "preference" a user would give to an item.They are primarily used in commercial applications.
+One other definition of a recommender system or a recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of [information filtering](https://en.wikipedia.org/wiki/Information_filtering_system) system that seeks to predict the "rating" or "preference" a user would give to an item.They are primarily used in commercial applications.
 And one more simplest definition of recommendation is 
 
 “Recommendation systems are systems that help users discover items they may like”
