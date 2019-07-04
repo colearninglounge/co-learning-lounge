@@ -6,21 +6,20 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## Conversational AI
 - [Haptik.ai](https://haptik.ai/careers/)
-Avaamo
-Niki.ai
+- [Avaamo](https://avaamo.ai/careers/)
+- [Niki.ai](https://niki.ai/careers)
 
 ## Healthcare
-Niramai
-Doxper
+-[Niramai](https://www.niramai.com/careers/)
+-[Doxper](http://www.doxper.com/)
 
 ## Logistics
-LogiNext
-Locus.sh
+-[LogiNext](https://www.loginextsolutions.com/careers)
+-[Locus.sh](https://locus.sh/careers/)
 
 ## Fintech
+- [Rubique](https://www.rubique.com/career)
+- [LendingKart](https://www.lendingkart.com/careers/)
 
-Rubique
-LendingKart
-
-## Others
-CropIn
+## AgTech
+- [CropIn](https://www.cropin.com/careers/)
