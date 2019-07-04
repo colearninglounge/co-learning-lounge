@@ -46,7 +46,7 @@ Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglo
 
 ## Technology
 
-Artificial Intelligence [ [Tutorials](./Technology/Artificial%20Intelligence) | [Interview Questions](./Technology/Artificial%20Intelligence/interview_questions.md) ]
+Artificial Intelligence [ [Tutorials](./Technology/Artificial%20Intelligence) | [Interview Questions](./Technology/Artificial%20Intelligence/interview_questions.md) | [Companies](./Technology/Artificial%20Intelligence/companies.md)]
 
 ## Language
 
