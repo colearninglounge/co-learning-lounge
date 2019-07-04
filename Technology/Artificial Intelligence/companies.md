@@ -71,7 +71,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
-- [h2o.ai]https://www.h2o.ai/careers/
+- [h2o.ai](https://www.h2o.ai/careers/)
 - [neurala](https://www.neurala.com/about/careers/openings)
 - [orbital insight](https://orbitalinsight.com/company/careers/)
 - [openAI](https://openai.com/jobs/)
