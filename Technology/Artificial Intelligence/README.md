@@ -10,6 +10,7 @@
 - [Concepts](#concepts)
 - [People to follow on Twitter](#people-to-follow-on-twitter)
 - [Interactive Tools](#interactive-tools)
+- [AI companies](./companies.md)
 
 ## Books
 
