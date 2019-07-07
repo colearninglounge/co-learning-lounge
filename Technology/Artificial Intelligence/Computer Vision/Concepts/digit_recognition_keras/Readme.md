@@ -4,5 +4,6 @@ Have you ever wondered how to classify an image with numbers 0-9 using deep lear
 
 ## Problem Statement
 
-We need to predict the labels for the images of digits using deep learning with the help of Keras framework.\
+We need to predict the labels for the images of digits using deep learning with the help of Keras framework.
+![Digit Recognition](MNIST.png)
 
