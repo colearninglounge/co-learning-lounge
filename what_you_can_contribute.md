@@ -5,6 +5,9 @@ There are various way you can contribute(mentioned from least to most):
 * You can always open to share critical feedback about content and community.
 * Help us in addressing and resolving the pending issues, enhancements.
 * Best you can do is curate the relevant content for the community.
+  - Curating the domain wise [companies](Technology/Artificial%20Intelligence/companies.md) for specific technology.
+    - Format is add the name to specific sector/domain with the format of "[ company name ] ( company's career website page )". Please ignore space.
+  - Curate/Improve interview question.
 * Curate interview questions.
 * Be reviewer of the content you like and improve the quality of content.
 * Participate in our mentorship program and guide others in their learning.
