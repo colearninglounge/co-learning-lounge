@@ -1,6 +1,6 @@
 # Co-Learning Lounge
 
-Welcome to the one-point community-driven encyclopedia for anything in technology.
+Welcome to the one-point community-driven encyclopedia for anything in technology where we are transforming global education with help of collaborative learning.
 
 Forget fancy blogs with just disorganized articles or full-fledged courses with just basics thrown at you every next day, Here content is created and consumed by the community.
 
