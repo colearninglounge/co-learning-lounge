@@ -20,6 +20,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [freenome](https://www.freenome.com/careers/)
 - [inSilico medicine](https://insilico.com/career)
 - [Zebra medical vision](https://www.zebra-med.com/careers/)
+- [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
@@ -44,6 +45,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [AIbrain](https://aibrain.com/)
 - [cloudminds](https://www.en.cloudminds.com/)
 - [vicarious](https://www.vicarious.com/careers/)
+- [UI path](https://www.uipath.com/company/careers)
+- [Datarobot ](https://www.datarobot.com/careers/)
 
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
@@ -58,12 +61,14 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Automotive
 - [nuTonomy](https://www.nutonomy.com/careers/)
 - [zoox](https://jobs.lever.co/zoox)
+- [Pony.ai](https://www.pony.ai/careers/)
 
 ## Hardware
 - [nVidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
 
 ## IoT
 - [sherpa](https://www.sherpadigitalmedia.com/about/careers/)
+- [C3](https://c3.ai/careers/)
 
 ## Security
 - [sift science](https://sift.com/careers)
