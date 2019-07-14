@@ -80,7 +80,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 	
 - [Text Preprocessing](./Concepts/Text%20preprocessing/)
 - Text to Features
-- Topic modeling
+- [Topic modeling](./Concepts/Topic%20Modelling)
 - Document/text Clustering
 - [Recommendation system](./Concepts/Recommendation%20system)
 - [Text classification](./Concepts/Text%20Classification/)
