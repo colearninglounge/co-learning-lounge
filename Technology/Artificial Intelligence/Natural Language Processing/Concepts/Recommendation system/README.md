@@ -15,9 +15,13 @@ Recommendations systems are a big value-add for large companies like Google, Ama
 So how do recommender systems work? Let’s say Amazon wants to show you the top 10 recommendations in Books category. Here Amazon’s recommender system will start with some kind of data about you so as to figure out your individual tastes and interests. It will then merge this data about you with the collective behaviour of everyone else like you to recommend stuff you might like.
 ## Types of Recommendation System
  
-  ![Type of Recommendation System](https://user-images.githubusercontent.com/19235560/61583026-e8eb1f80-ab4f-11e9-9f3b-0c827141a14f.png)
+ ![Type of Recommendation System](https://user-images.githubusercontent.com/19235560/61583026-e8eb1f80-ab4f-11e9-9f3b-0c827141a14f.png)
 
-## Content Based Recommendation System 
+## Content Based Recommendation System
 Content-based filtering involves recommending items based on the attributes of the items themselves. Recommendations made by content-based filters use an individual’s historical information to inform choices displayed. Such recommenders look for similarities between the items or products that a person had bought or liked in the past to recommend options in the future.
+
+![Content base filtering](https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png)
 ## Colleborative Recommendation System
+
 Collaborative filtering uses the combined power of ratings provided by many users/customers to present recommendations. It means recommending stuff based on other people’s collaborative behaviour.
+![Colleborative filtering](https://user-images.githubusercontent.com/19235560/61583125-64010580-ab51-11e9-848d-b44f1331837c.png)
