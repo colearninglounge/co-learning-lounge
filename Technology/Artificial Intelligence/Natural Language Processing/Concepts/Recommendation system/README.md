@@ -25,3 +25,6 @@ Content-based filtering involves recommending items based on the attributes of t
 
 Collaborative filtering uses the combined power of ratings provided by many users/customers to present recommendations. It means recommending stuff based on other people’s collaborative behaviour.
 ![Colleborative filtering](https://user-images.githubusercontent.com/19235560/61583125-64010580-ab51-11e9-848d-b44f1331837c.png)
+## Hybrid Recommendation System
+Both Content-based and Collaborative approaches have their own strengths and weaknesses and one can end up with a better system by combining many algorithms together in what we call a hybrid approach. Hybrid systems leverage both item data and transaction data to give recommendations.
+![hb](https://user-images.githubusercontent.com/19235560/61583280-8a27a500-ab53-11e9-9d20-eab8c80ef5f0.png)
