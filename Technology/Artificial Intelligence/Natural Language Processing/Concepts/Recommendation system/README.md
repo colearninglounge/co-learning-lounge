@@ -20,7 +20,7 @@ So how do recommender systems work? Let’s say Amazon wants to show you the top
 ## Content Based Recommendation System
 Content-based filtering involves recommending items based on the attributes of the items themselves. Recommendations made by content-based filters use an individual’s historical information to inform choices displayed. Such recommenders look for similarities between the items or products that a person had bought or liked in the past to recommend options in the future.
 
-         ![Content base filtering](https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png)
+![Content base filtering](https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png)
 ## Colleborative Recommendation System
 
 Collaborative filtering uses the combined power of ratings provided by many users/customers to present recommendations. It means recommending stuff based on other people’s collaborative behaviour.
