@@ -26,16 +26,20 @@ So how do recommender systems work? Let’s say Amazon wants to show you the top
 
 ## Content Based Recommendation System
 *Content-based filtering* involves recommending items based on the attributes of the items themselves. Recommendations made by content-based filters use an individual’s historical information to inform choices displayed. Such recommenders look for similarities between the items or products that a person had bought or liked in the past to recommend options in the future.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png">
 </p>
+
 *Content based systems* use meta data such as genre, producer, actor, musician to recommend items say movies or music. Such a recommendation would be for instance recommending Infinity War that featured Vin Disiel because someone watched and liked The Fate of the Furious. Similarly you can get music recommendations from certain artists because you liked their music. Content based systems are based on the idea that if you liked a certain item you are most likely to like something that is similar to it.
 ## Colleborative Recommendation System
 
 Collaborative filtering uses the combined power of ratings provided by many users/customers to present recommendations. It means recommending stuff based on other people’s collaborative behaviour.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/19235560/61583125-64010580-ab51-11e9-848d-b44f1331837c.png">
 </p>
+
 There are two approaches to collaborative filtering:
 1. **Memory-based methods** which are also referred to as neighbourhood based collaborative filtering algorithms in which ratings of          user-item combinations are predicted on the basis of their neighbourhoods. These neighbourhoods can further be defined in one of        two ways:
 
