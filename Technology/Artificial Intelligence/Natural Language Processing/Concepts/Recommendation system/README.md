@@ -1,4 +1,8 @@
-## Recommendation system
+## Recommendation System
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/19235560/61587295-39409c80-aba5-11e9-9a19-3cd0866b8d24.png">
+</p>
+
 Recommender systems are pretty self-explanatory; as the name suggests, they are systems or techniques that recommend or suggest a particular product, service, or entity.
 
 One other definition of a recommender system or a recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of [information filtering](https://en.wikipedia.org/wiki/Information_filtering_system) system that seeks to predict the "rating" or "preference" a user would give to an item.They are primarily used in commercial applications.
@@ -15,20 +19,23 @@ Recommendations systems are a big value-add for large companies like Google, Ama
 So how do recommender systems work? Let’s say Amazon wants to show you the top 10 recommendations in Books category. Here Amazon’s recommender system will start with some kind of data about you so as to figure out your individual tastes and interests. It will then merge this data about you with the collective behaviour of everyone else like you to recommend stuff you might like.
 ## Types of Recommendation System
  
- ![Type of Recommendation System](https://user-images.githubusercontent.com/19235560/61583026-e8eb1f80-ab4f-11e9-9f3b-0c827141a14f.png)
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/19235560/61583026-e8eb1f80-ab4f-11e9-9f3b-0c827141a14f.png">
+</p>
+ 
 
 ## Content Based Recommendation System
 *Content-based filtering* involves recommending items based on the attributes of the items themselves. Recommendations made by content-based filters use an individual’s historical information to inform choices displayed. Such recommenders look for similarities between the items or products that a person had bought or liked in the past to recommend options in the future.
-
-![Content base filtering](https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/19235560/61583152-c5c16f80-ab51-11e9-94e8-aec4b09f2fc1.png">
+</p>
 *Content based systems* use meta data such as genre, producer, actor, musician to recommend items say movies or music. Such a recommendation would be for instance recommending Infinity War that featured Vin Disiel because someone watched and liked The Fate of the Furious. Similarly you can get music recommendations from certain artists because you liked their music. Content based systems are based on the idea that if you liked a certain item you are most likely to like something that is similar to it.
 ## Colleborative Recommendation System
 
 Collaborative filtering uses the combined power of ratings provided by many users/customers to present recommendations. It means recommending stuff based on other people’s collaborative behaviour.
-
-![Colleborative filtering](https://user-images.githubusercontent.com/19235560/61583125-64010580-ab51-11e9-848d-b44f1331837c.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/19235560/61583125-64010580-ab51-11e9-848d-b44f1331837c.png">
+</p>
 There are two approaches to collaborative filtering:
 1. **Memory-based methods** which are also referred to as neighbourhood based collaborative filtering algorithms in which ratings of          user-item combinations are predicted on the basis of their neighbourhoods. These neighbourhoods can further be defined in one of        two ways:
 
@@ -47,8 +54,8 @@ There are two approaches to collaborative filtering:
      
 ## Hybrid Recommendation System
 Both Content-based and Collaborative approaches have their own strengths and weaknesses and one can end up with a better system by combining many algorithms together in what we call a hybrid approach. Hybrid systems leverage both item data and transaction data to give recommendations.
-
-![hb](https://user-images.githubusercontent.com/19235560/61583280-8a27a500-ab53-11e9-9d20-eab8c80ef5f0.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/19235560/61583280-8a27a500-ab53-11e9-9d20-eab8c80ef5f0.png">
+</p>
 A great example of using a Hybrid approach is that of Netflix. At Netflix, recommendations are not only based on what people’s watching and searching habits(collaborative systems)but also movies sharing similar characteristics(content-based) are also recommended.
 
