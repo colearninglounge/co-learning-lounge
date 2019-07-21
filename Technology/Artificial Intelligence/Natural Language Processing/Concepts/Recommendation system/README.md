@@ -42,7 +42,7 @@ There are two approaches to collaborative filtering:
     
 2. **Model-based methods** use machine learning methods to extract predictions for rating data by treating the problem as a normal            machine learning problem. Techniques like PCA, SVD, Matrix Factorisation, Clustering,
      Neural Nets etc can be used.
-     Model-based methods are based on matrix factorization and are better at dealing with sparsity. They are developed using data            mining, machine learning algorithms to predict users’ rating of unrated items. In this approach techniques such as dimensionality        reduction are used to improve the accuracy. Examples of such model-based methods include decision trees, rule-based models,              Bayesian methods and latent factor models.
+     Model-based methods are based on [matrix factorization](https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems))        and are better at dealing with sparsity. They are developed using data mining, machine learning algorithms to predict users’ rating      of unrated items. In this approach techniques such as dimensionality reduction are used to improve the accuracy. Examples of such        model-based methods include decision trees,rule-based models,Bayesian methods and latent factor models.
      
      
 ## Hybrid Recommendation System
