@@ -11,7 +11,8 @@ While building models, it's very important to optimize the **algorithms** on the
 
   
 
-![Maths](../../../../../../images/Maths.png  "15% Of Optimization Theory")
+![Maths](../../../../../images/Maths.png  "15% Of Optimization Theory")
+ 
 
   
   
