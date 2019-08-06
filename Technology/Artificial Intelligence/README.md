@@ -143,13 +143,17 @@ Example:
 Amazon using machine learning to give better product choice recommendations to there costumers based on their preferences.
 Netflix uses machine learning to give better suggestions to their users of the Tv series or movie or shows that they would like to watch.
 
+### ML Concepts
+
+- Feature Engineering [ [Tutorial](./Machine%20learning/Feature%20engineering) | [Interview questions](./Machine%20learning/interview_questions.md) ]
+
 ## What is Artificial Intelligence?
 
 Artificial Intelligence is a ability of computer program to function like a human brain
 
 Example: Robots like Sophia
 
-## Use cases
+### AI Use cases
 
 - Computer Vision [ [Tutorial](./Computer%20Vision/) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
 - Natural Language Processing [ [Tutorial](./Natural%20Language%20Processing/) | [Interview Questions](./Natural%20Language%20Processing/interview_questions.md) ]
