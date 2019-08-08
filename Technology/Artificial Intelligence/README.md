@@ -135,6 +135,10 @@ Just like we use our brains to identify patterns and classify various types of i
     - More computational power availability
     - More optimized algorithms which takes less power and utilizes less resources.
 
+### DL Concepts
+
+- General concepts [ [Tutorial](./Deep%20learning/) | [Interview questions](./Deep%20learning/interview_questions.md) ]
+
 ## What is Machine Learning?
 
 Machine Learning is a subset of AI and these are the algorithms which can learn by themselves without being externally programmed.
@@ -145,6 +149,7 @@ Netflix uses machine learning to give better suggestions to their users of the T
 
 ### ML Concepts
 
+- General concepts [ [Tutorial](./Machine%20learning/) | [Interview questions](./Machine%20learning/interview_questions.md) ]
 - Feature Engineering [ [Tutorial](./Machine%20learning/Feature%20engineering) | [Interview questions](./Machine%20learning/interview_questions.md) ]
 
 ## What is Artificial Intelligence?
