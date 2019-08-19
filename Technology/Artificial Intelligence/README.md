@@ -10,6 +10,7 @@
 - [Concepts](#concepts)
 - [People to follow on Twitter](#people-to-follow-on-twitter)
 - [Interactive Tools](#interactive-tools)
+- [AI companies](./companies.md)
 
 ## Books
 
@@ -134,6 +135,10 @@ Just like we use our brains to identify patterns and classify various types of i
     - More computational power availability
     - More optimized algorithms which takes less power and utilizes less resources.
 
+### DL Concepts
+
+- General concepts [ [Tutorial](./Deep%20learning/) | [Interview questions](./Deep%20learning/interview_questions.md) ]
+
 ## What is Machine Learning?
 
 Machine Learning is a subset of AI and these are the algorithms which can learn by themselves without being externally programmed.
@@ -142,13 +147,19 @@ Example:
 Amazon using machine learning to give better product choice recommendations to there costumers based on their preferences.
 Netflix uses machine learning to give better suggestions to their users of the Tv series or movie or shows that they would like to watch.
 
+### ML Concepts
+
+- General concepts [ [Tutorial](./Machine%20learning/) | [Interview questions](./Machine%20learning/interview_questions.md) ]
+- Feature Engineering [ [Tutorial](./Machine%20learning/Feature%20engineering) | [Interview questions](./Machine%20learning/interview_questions.md) ]
+
 ## What is Artificial Intelligence?
 
 Artificial Intelligence is a ability of computer program to function like a human brain
 
 Example: Robots like Sophia
 
-## Use cases
+### AI Use cases
 
-- Computer Vision [ [Tutorial](./Computer%20Vision) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
-- Natural Language Processing [ [Tutorial](./Natural%20Langauge%20Processing) | [Interview Questions](./Natural%20Langauge%20Processing/interview_questions.md) ]
+- Computer Vision [ [Tutorial](./Computer%20Vision/) | [Interview questions](./Computer%20Vision/interview_questions.md) ]
+- Natural Language Processing [ [Tutorial](./Natural%20Language%20Processing/) | [Interview Questions](./Natural%20Language%20Processing/interview_questions.md) ]
+- Prediction [ [Tutorial](./Prediction/) | [Interview questions](./Prediction/interview_questions.md) ]

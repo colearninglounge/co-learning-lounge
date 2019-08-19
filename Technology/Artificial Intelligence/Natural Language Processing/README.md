@@ -29,6 +29,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 
 ### YouTube
 - [Natural Langauge Processing by Dragomir Radev(PhD), University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
+- [NLP with Deep Learning - Stanford CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 ## Blogs to follow
 > Here’s a list of blogs which we highly recommend for anyone interested in keeping track of what’s new in NLP research.
@@ -60,6 +61,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 - [Keras](https://keras.io/)
 
 ## Concepts:
+> Refer our FB group unit [here](https://www.facebook.com/groups/colearninglounge/learning_content/?filter=471702823590059) for discussion/doubt/feedback.
 - Prerequisite :
  	-	Working knowledge of python.
  	- 	Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
@@ -77,12 +79,12 @@ This repo will help you to become zero to hero in Natural langauge processing.
 - Why NLP is hard?\
 	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like typos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.
 	
-- [Text Preprocessing](./Concepts/Text%20preprocessing)
+- [Text Preprocessing](./Concepts/Text%20preprocessing/)
 - Text to Features
-- Topic modeling
+- [Topic modeling](./Concepts/Topic%20Modelling)
 - Document/text Clustering
 - [Recommendation system](./Concepts/Recommendation%20system)
-- [Text classification](./Concepts/Text%20classification)
+- [Text classification](./Concepts/Text%20Classification/)
 - Text summarization
 - Text matching
 - Language translation

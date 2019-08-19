@@ -1,6 +1,6 @@
 # Co-Learning Lounge
 
-Welcome to the one-point community-driven encyclopedia for anything in technology.
+**Welcome to the one-point community-driven encyclopedia for anything in technology where we are transforming global education with help of collaborative learning.**
 
 Forget fancy blogs with just disorganized articles or full-fledged courses with just basics thrown at you every next day, Here content is created and consumed by the community.
 
@@ -17,6 +17,8 @@ The major problem with 99% of the online or offline communities is that they don
 We always learn from experience and experienced people. What better place than group of like-minded people? We believe that great community can bring the great content hence **great learning** compared to all expensive or not so expensive full-fledged courses which stick to basics. While every other course is technology specific and only get starts you. Here we completely focus on use case specific project centric approach where you learn from basics to advance.
 
 ![Others Vs Us](images/OthersVsUs.jpeg)
+
+Visit our learning unit [here](https://www.facebook.com/groups/colearninglounge/learning_content/) to start your learnings.
 
 ## Our vision ?
 
@@ -44,7 +46,7 @@ Facebook is my home. Join us [here](https://www.facebook.com/groups/colearninglo
 
 ## Technology
 
-Artificial Intelligence [ [Tutorials](./Technology/Artificial%20Intelligence) | [Interview Questions](./Technology/Artificial%20Intelligence/interview_questions.md) ]
+Artificial Intelligence [ [Tutorials](./Technology/Artificial%20Intelligence) | [Interview Questions](./Technology/Artificial%20Intelligence/interview_questions.md) | [Companies](./Technology/Artificial%20Intelligence/companies.md) ]
 
 ## Language
 
