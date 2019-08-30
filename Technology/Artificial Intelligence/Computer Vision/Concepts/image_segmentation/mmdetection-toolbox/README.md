@@ -2,8 +2,7 @@
 
 
 
-![1](images/1.png)
-
+![1](https://github.com/ash11sh/image-segmentation-mmdetection/raw/master/images/1.png)
 
 
 ### Comparison of different visual recognition tasks in computer vision.
