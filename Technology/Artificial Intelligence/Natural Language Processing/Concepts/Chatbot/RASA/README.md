@@ -163,6 +163,6 @@ Also, get added to our [FB community](https://www.facebook.com/groups/colearning
 
 > **This tutorial is intended to be a public resource. As such, if you see any glaring inaccuracies or if a critical topic is missing, please feel free to point it out or (preferably) submit a pull request to improve the tutorial. Also, we are always looking to improve the scope of this article. For anything feel free to mail us @ colearninglounge@gmail.com**
 
-> **Author of this article is Yogesh Kothiya. You can follow him on __[LinkedIn](https://www.linkedin.com/in/yogeshkothiya/)__, __[Medium](https://medium.com/@kothiya.yogesh)__, __[GitHub](https://github.com/kothiyayogesh)__, __[Twitter](https://twitter.com/Yogesh_Kothiya)__.** 
+> **Author of this article is Yogesh Kothiya. You can follow him on __[LinkedIn](https://www.linkedin.com/in/yogeshkothiya/)__, __[Medium](https://medium.com/@kothiya.yogesh)__, __[GitHub](https://github.com/kothiyayogesh)__, __[Twitter](https://twitter.com/Yogesh_Kothiya)__.**   
 > Many thanks for [Vishal Pandey](https://www.linkedin.com/in/vishal-pandey-8243a2107/) and [Harin Joshi](https://www.linkedin.com/in/harin-joshi-44b812183/) for contributing in the project.
 
