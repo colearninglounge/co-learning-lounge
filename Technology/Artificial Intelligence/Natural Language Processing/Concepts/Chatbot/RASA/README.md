@@ -22,7 +22,9 @@ After the key has been created we can see/ copy it by clicking on ‘My Account�
 Now, we have what we needed to start with. Let’s dive in to Postman and get the stuff working.
 
 Look at the below self-explanatory state diagram which shows conversation flow with all required states.
-![Conversation diagram](conversation_flow.jpg)
+<p align="center">
+  <img width="460" height="300" src="conversation_flow.jpg" alt="Conversation diagram">
+</p>
 
 ### What is Rasa?
 [Rasa](https://rasa.com/docs/rasa/) is an open-source machine learning framework for building [contextual AI assistants and chatbots](https://blog.rasa.com/level-3-contextual-assistants-beyond-answering-simple-questions/).  
@@ -79,11 +81,14 @@ Also read this in-depth information about NLU here: https://blog.rasa.com/rasa-n
 Core policy
 Till now we saw how chatbot understands the user sentence and classifies to proper intent and extract entities. 
 But we humans follow natural conversation where we remember context and reply accordingly. Otherwise, it will look something like this. Frustrating 😠 isn't it?  
-![Chatbot and human conversation](chatbot_human_chat.png)
+<p align="center">
+  <img src="chatbot_human_chat.png" alt="chatbot_human_chat.png">
+</p>
 
 So how does rasa handles all this? It is done through various elements of the RASA. Let’s look at the architecture of the RASA.
-![RASA Architecture](rasa_architecture.png)
-
+<p align="center">
+  <img width="460" height="300" src="rasa_architecture.png" alt="RASA Architecture">
+</p>
 
 Here Interpreter is part of NLU and Tracker, policy and action are part of Core.
 * The message is passed to an Interpreter, which converts it into a dictionary including the original text, the intent, and any entities that were found.
@@ -151,3 +156,5 @@ In next phase will add more interesting features which include.
    5. Deployment to Heroku.
    6. ...
 
+Please give a star to the repo and add your self to the watcher list so that you don't miss any of our updates.
+Also, get added to our [FB community](https://www.facebook.com/groups/colearninglounge/)
