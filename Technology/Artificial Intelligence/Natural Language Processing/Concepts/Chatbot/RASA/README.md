@@ -113,7 +113,7 @@ Now we have all the ingredients ready to build a chatbot.
 * Exploring Zomato API ✅
 * Understand RASA and its components ✅
 
-Now let’s set up and develop
+## Now let’s set up and develop
 
 #### Setup and installation instructions:
 
@@ -142,10 +142,12 @@ Keep the all intents mutually exclusive and diversity in its utterance.
 Now it’s time to train the bot. 
 Execute below command and explore this for more training options: https://rasa.com/docs/rasa/user-guide/command-line-interface/#train-a-model  
 `rasa train`  
+
 Let’s see how bot performs with limited training data and let’s explore rasa x and improve it.
 Run the following command in every new tab.  
 `rasa run actions`  
 `rasa x`  
+
 Open rasa x for testing and improving the story through interactive learning. Check [Juste's video intro to Rasa X](https://www.youtube.com/watch?v=VXvWdrr2yw8&feature=youtu.be) for more information.
 
 In next phase will add more interesting features which include. 
@@ -157,4 +159,11 @@ In next phase will add more interesting features which include.
    6. ...
 
 Please give a star to the repo and add your self to the watcher list so that you don't miss any of our updates.
-Also, get added to our [FB community](https://www.facebook.com/groups/colearninglounge/)
+Also, get added to our [FB community](https://www.facebook.com/groups/colearninglounge/).
+
+> **This tutorial is intended to be a public resource. As such, if you see any glaring inaccuracies or if a critical topic is missing, please feel free to point it out or (preferably) submit a pull request to improve the tutorial. Also, we are always looking to improve the scope of this article. For anything feel free to mail us @ colearninglounge@gmail.com**
+
+> **Author of this article is Yogesh Kothiya. You can follow him on __[LinkedIn](https://www.linkedin.com/in/yogeshkothiya/)__, __[Medium](https://medium.com/@kothiya.yogesh)__, __[GitHub](https://github.com/kothiyayogesh)__, __[Twitter](https://twitter.com/Yogesh_Kothiya)__.**
+
+Many thanks for [Vishal Pandey](https://www.linkedin.com/in/vishal-pandey-8243a2107/) and [Harin Joshi](https://www.linkedin.com/in/harin-joshi-44b812183/) for contributing in the project.
+
