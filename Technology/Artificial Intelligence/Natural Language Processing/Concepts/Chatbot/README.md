@@ -57,3 +57,4 @@ Read this thread to find out more apps/software: https://news.chatbotsmagazine.c
 
 ### Development
 - [RASA based AI chatbot for searching restaurant using Zomato API](./RASA)
+- [Multilingual Bot Using LASER](./Multilingual%20Bot%20Using%20LASER)
