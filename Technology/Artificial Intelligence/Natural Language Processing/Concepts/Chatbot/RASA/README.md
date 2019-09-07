@@ -21,6 +21,8 @@ To use the Bing Maps REST API, we will need ‘Bing Maps Key’. Therefore, navi
 After the key has been created we can see/ copy it by clicking on ‘My Account’ -> ‘My Keys’.  
 Now, we have what we needed to start with. Let’s dive in to Postman and get the stuff working.
 
+> Update both the keys in [actions.py](./actions.py) file.
+
 Look at the below self-explanatory state diagram which shows conversation flow with all required states.
 <p align="center">
   <img width="460" height="300" src="conversation_flow.jpg" alt="Conversation diagram">
