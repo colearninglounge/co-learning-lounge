@@ -13,7 +13,7 @@ import ast
 class Zomato:
 
     def __init__(self):
-        self.api_key="797e936d8ac687c396be2fec2a356217"
+        self.api_key=""  ## Update Zomato API key here
         self.base_url = "https://developers.zomato.com/api/v2.1/"
 
 
@@ -127,7 +127,7 @@ class LocationExtractor:
     
     def __init__(self):
        self.bing_baseurl="http://dev.virtualearth.net/REST/v1/Locations"
-       self.bing_api_key="Aiw0X2IXCnSru_O00Rl8c8v6nULH-Z7r1HdFOVW3MQZEJoq6U2kQ_SVabSQui1GU"
+       self.bing_api_key="" ## Update Zomato API key here
 
     def getLocationInfo(self, query, tracker):
         
