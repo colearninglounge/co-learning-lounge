@@ -1,200 +1,119 @@
-# Object detection + Image segmentation using mmdetection toolbox
+# mmdetection toolbox
 
+If you are already into object detection/segmentation, may know about *mmdetection*. This is built on top of Pytorch by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/). The toolbox started from a codebase of MMDet team who won the detection track of COCO Challenge 2018. . It gradually evolves into a unified platform that covers many popular detection methods and contemporary modules. It not only includes training and inference codes, but also provides weights for more than 200 network models. As per now, this toolbox is by far the most complete detection toolbox (SOTA).
 
+##  Supported Frameworks
 
-![1](https://github.com/ash11sh/image-segmentation-mmdetection/raw/master/images/1.png)
+-   Single-stage detector  
+    SSD, RetinaNet, FCOS, FSAF  
+    
+-   Two-stage detectors  
+    Faster R-CNN, R-FCN, Mask R-CNN, Mask Scoring R-CNN, Grid R-CNN  
+    
+-   Multi-stage detector  
+    Cascade R-CNN, Hybrid Task Cascade  
+    
+-   General modules and methods  
+    soft-NMS, DCN, OHEN, Train from Scratch, M2Det, GN, HRNet, Libra R-CNN  
+    
 
+  github address : [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
+  paper link : [https://arxiv.org/pdf/1906.07155.pdf](https://arxiv.org/pdf/1906.07155.pdf)
+  
+## Quick demo
 
-### Comparison of different visual recognition tasks in computer vision.
+Before that, you need to setup the installed environment for running the scripts. 
 
-(a) “Image Classification” only needs to assign categorical class labels to the image.
+### Installation
 
-(b) “Object detection” not only predict categorical labels but also localise each object instance via bounding boxes.
+#### Requirements
 
- (c) “Semantic segmentation” aims to predict categorical labels for each pixel, without differentiating object
-instances. 
+- Linux (Windows is not officially supported)
+- Python 3.5+ (Python 2 is not supported)
+- PyTorch 1.1 or higher
+- CUDA 9.0 or higher
+- NCCL 2
+- GCC(G++) 4.9 or higher
+- [mmcv](https://github.com/open-mmlab/mmcv)
 
-(d) “Instance segmentation”, a special setting of object detection, differentiates different object instances by pixel-level segmentation masks.
+We have tested the following versions of OS and softwares:
 
+- OS: Ubuntu 16.04/18.04 and CentOS 7.2
+- CUDA: 9.0/9.2/10.0
+- NCCL: 2.1.15/2.2.13/2.3.7/2.4.2
+- GCC(G++): 4.9/5.3/5.4/7.3
 
+#### Install mmdetection
 
-### mmdetection toolbox installation
+a. Create a conda virtual environment and activate it.
 
-
-
-![demo image](https://github.com/open-mmlab/mmdetection/raw/master/demo/coco_test_12510.jpg)
-
-
-
-- The toolbox directly supports popular and contemporary detection frameworks, *e.g.* Faster RCNN, Mask RCNN, RetinaNet, etc.
-- Create a conda virtual environment and activate it.
-
-```
+```shell
 conda create -n open-mmlab python=3.7 -y
 conda activate open-mmlab
 ```
 
+b. Install PyTorch stable or nightly and torchvision following the [official instructions](https://pytorch.org/), e.g.,
 
-
-- Install PyTorch stable or nightly and torchvision following the [official instructions](https://pytorch.org/), e.g.,
-
-```
+```shell
 conda install pytorch torchvision -c pytorch
 ```
 
+c. Clone the mmdetection repository.
 
-
-- Clone the mmdetection repository.
-
-```
+```shell
 git clone https://github.com/open-mmlab/mmdetection.git
 cd mmdetection
 ```
 
+d. Install mmdetection (other dependencies will be installed automatically).
 
-
-- install required dependencies via  
-
-```
-pip install -r requirements.txt
-```
-
-
-
-- Install mmdetection (other dependencies will be installed automatically).
-
-```
+```shell
 python setup.py develop
 # or "pip install -v -e ."
 ```
 
+#### for demo: 
+* go through demo/inference_demo.ipynb file.
+* set the configuration file as your requirement.
+* download the checkpoint from [model zoo](https://github.com/open-mmlab/mmdetection/blob/master/docs/MODEL_ZOO.md) and put it in `checkpoints/`
 
-
-
-
-### Dataset preparation
-
-It is recommended to symlink the dataset root to `$MMDETECTION/data`. If your folder structure is different, you may need to change the corresponding paths in config files.
-
-```
-mmdetection
-├── mmdet
-├── tools
-├── configs
-├── data
-│   ├── project_name
-│   │   ├── trainval.json
-│   │   ├── training_images
-
-
-```
-
-
-
-- For labelling you can use tools like CVAT, labelme , labelbox.
-- Personally i have used CVAT & labelme. CVAT installation is bit tedious process.
-- Annotation file should be in COCO format.
-- For conversion of labelme annotation files to COCO format you  can use this python script - [link](https://github.com/wkentaro/labelme/blob/master/examples/instance_segmentation/labelme2coco.py) 
-
-
-
-### Training the model
-
-- For segmentation task select (mask-RCNN/cascade mask-RCNN) configuration files.
-
-- You need to update the configuration file with paths of dataset and annotations, before proceeding to training.
-
-- All outputs (log files and checkpoints) will be saved to the working directory, which is specified by `work_dir` in the config file.
-
-- If you are using only one GPU, learning rate and batch-size should be set accordingly.
 
   
-
-  ***Important\***: The default learning rate in config files is for 8 GPUs and 2 img/gpu (batch size = 8*2 = 16). According to the [Linear Scaling Rule](https://arxiv.org/abs/1706.02677), you need to set the learning rate proportional to the batch size if you use different GPUs or images per GPU, e.g., lr=0.01 for 4 GPUs * 2 img/gpu and lr=0.08 for 16 GPUs * 4 img/gpu.
-
-  
-
-##### Train with a single GPU
-
-```
-python tools/train.py ${CONFIG_FILE}
-```
-
-If you want to specify the working directory in the command, you can add an argument `--work_dir ${YOUR_WORK_DIR}`.
-
-
-
-##### Train with multiple GPUs
-
-```
-./tools/dist_train.sh ${CONFIG_FILE} ${GPU_NUM} [optional arguments]
-```
-
-Optional arguments are:
-
-- `--validate` (**strongly recommended**): Perform evaluation at every k (default value is 1, which can be modified like [this](https://github.com/open-mmlab/mmdetection/blob/master/configs/mask_rcnn_r50_fpn_1x.py#L174)) epochs during the training.
-- `--work_dir ${WORK_DIR}`: Override the working directory specified in the config file.
-- `--resume_from ${CHECKPOINT_FILE}`: Resume from a previous checkpoint file.
-
-Difference between `resume_from` and `load_from`: `resume_from` loads both the model weights and optimizer status, and the epoch is also inherited from the specified checkpoint. It is usually used for resuming the training process that is interrupted accidentally. `load_from` only loads the model weights and the training epoch starts from 0. It is usually used for finetuning.
-
-
-
-***NOTE\***:  for more information about training details go through this [link](https://github.com/open-mmlab/mmdetection/blob/master/docs/GETTING_STARTED.md).
-
-
-
-### Inference demo 
-
-For image:
 
 ```python
-from mmdet.apis import init_detector, inference_detector, show_result
+from mmdet.apis import init_detector, inference_detector, show_result_pyplot
 import mmcv
+```
 
-config_file = 'configs/faster_rcnn_r50_fpn_1x.py'
-checkpoint_file = 'checkpoints/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth'
 
+```python
+config_file = '../configs/faster_rcnn_r50_fpn_1x.py'
+# download the checkpoint from model zoo and put it in `checkpoints/`
+checkpoint_file = '../checkpoints/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth'
+```
+
+
+```python
 # build the model from a config file and a checkpoint file
 model = init_detector(config_file, checkpoint_file, device='cuda:0')
+```
 
-# test a single image and show the results
-img = 'test.jpg'  # or img = mmcv.imread(img), which will only load it once
+
+```python
+# test a single image
+img = 'demo.jpg'
 result = inference_detector(model, img)
-# visualize the results in a new window
-show_result(img, result, model.CLASSES)
-# or save the visualization results to image files
-show_result(img, result, model.CLASSES, out_file='result.jpg')
 ```
 
-
-
-For video:
 
 ```python
-from mmdet.apis import init_detector, inference_detector, show_result
-import mmcv
-
-config_file = 'configs/faster_rcnn_r50_fpn_1x.py'
-checkpoint_file = 'checkpoints/faster_rcnn_r50_fpn_1x_20181010-3d1b3351.pth'
-
-# build the model from a config file and a checkpoint file
-model = init_detector(config_file, checkpoint_file, device='cuda:0')
-
-# test a video and show the results
-video = mmcv.VideoReader('video.mp4')
-for frame in video:
-    result = inference_detector(model, frame)
-    show_result(frame, result, model.CLASSES, wait_time=1)
+# show the results
+show_result_pyplot(img, result, model.CLASSES)
 ```
 
 
-
-### Training and Inference using google colab
-
-- If you want to train the model in google colab, go through this link and start training.
-- Upload your data and trainval.json to google drive
+![png](https://i.ibb.co/LCfxvkQ/output-4-0.png)
 
 
 
-colab link for training  : https://colab.research.google.com/drive/1A7hb3enCzuo0j8fTxLenIxaC6bCNJ5Qm
+#### For training on your own dataset, go through this link
