@@ -116,4 +116,4 @@ show_result_pyplot(img, result, model.CLASSES)
 
 
 
-#### For training on your own dataset, go through this link
+#### For training on your own dataset, go through this [link](https://github.com/colearninglounge/co-learning-lounge/blob/master/Technology/Artificial%20Intelligence/Computer%20Vision/Concepts/image_segmentation/mmdetection-toolbox/blob/master/training_details.md)
