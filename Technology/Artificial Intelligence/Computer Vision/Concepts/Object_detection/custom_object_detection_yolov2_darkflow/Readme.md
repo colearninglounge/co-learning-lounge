@@ -1,4 +1,4 @@
-# CUSTOM OBJECT DETECTION USING YOLO WITH DARKFLOW
+# MOBILE DETECTION USING YOLO WITH DARKFLOW
 
 Have you ever wondered how to detect objects in an image or video using transfer learning. 
 
