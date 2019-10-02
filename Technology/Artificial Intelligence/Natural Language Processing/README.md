@@ -55,6 +55,12 @@ This repo will help you to become zero to hero in Natural langauge processing.
 ## Podcast
 - [NLP highlights by Allen Institute for Artificial Intelligence](https://podcasts.apple.com/us/podcast/nlp-highlights/id1235937471)
 
+### NLP Competitions 
+#### Kaggle
+- [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/)
+- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+- [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
+
 ## Deep learning frameworks
 - [Tensorflow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
