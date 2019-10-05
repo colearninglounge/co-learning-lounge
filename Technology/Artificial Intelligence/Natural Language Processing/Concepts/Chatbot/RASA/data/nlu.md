@@ -53,6 +53,7 @@
 - dont know
 - not sure actualy
 - I am at Kukatpally
+- what else can you do
 
 ## intent:goodbye
 - bye
@@ -97,6 +98,7 @@
 - i hope you are doing great
 - hey bot how are you
 - hello how are you
+- Hello
 
 ## intent:mood_great
 - perfect
@@ -204,6 +206,7 @@
 - i will prefer [chinese](cuisine) food
 - i need [italian](cuisine) food
 - i would like to eat [italian](cuisine) food
+- i want [south indian](cuisine) food
 - i will prefer [italian](cuisine) food
 - i would love to eat [chinese](cuisine) food
 - i would love to eat [chinese](cuisine)
@@ -215,12 +218,20 @@
 - i would love to eat [italian](cuisine) food
 - african
 - australian
+- i want [south indian](cuisine) food
 - i will prefer australian then
 - i will prefer australian
 - i want to eat [italian](cuisine) food
+- i want [south indian](cuisine) food
+- [south indian](cuisine)
+- I want [Italian](cuisine:italian) restaurant
+- i want [south indian](cuisine) food
+- [Italian](cuisine:italian)
 
 ## intent:telling_location
 - my preffered location will be bengaluru
+- kanpur
+- kanpur
 - my location will be in mumbai
 - my location will be in hyderabad
 - i am looking in hyderabad
@@ -230,6 +241,13 @@
 - i am looking to eat in mumbai
 - my area is mumbai
 - my location is hyderabad
+- my location is mathura
+- my location is kanpur
+- my location is chandausi
+- my location is moradabad
+- my location is delhi
+- my location is hyderabad
+- my location is kanpur
 - my prefered location is bengaluru
 - my prefered location will be hyderabad
 - my location will be noida
@@ -258,17 +276,215 @@
 - i am currently living in mumbai
 - i am living near borivali
 - borivali
+- in mathura
+- In Kanpur
 - i am living in madhapur
 - currently living in mumbai
 - i am in mumbai
 - this place seems to be close to hyderabad
 - i feel this place is near to borivali
 - i am near to chennai
+- in mathura
+- In Kanpur
 - i think i am near to mumbai
 - i am looking for restaurants in mumbai
 - i am living in hyderabad
 - I am at Madhapur
 - I am at KPHB
+- in mathura
+- In Kanpur
+- my preffered location will be bengaluru
+- kanpur
+- kanpur
+- my location will be in mumbai
+- my location will be in hyderabad
+- i am looking in hyderabad
+- hyderabad
+- looking to eat in hyderabad
+- get me some food in hyderabad
+- i am looking to eat in mumbai
+- my area is mumbai
+- my location is hyderabad
+- my location is mathura
+- my location is kanpur
+- my location is chandausi
+- my location is moradabad
+- my location is delhi
+- my location is hyderabad
+- my location is kanpur
+- my prefered location is bengaluru
+- my prefered location will be hyderabad
+- my location will be noida
+- my prefered location is chennai
+- my location will be chennai
+- my location is kerala
+- my location is punjab
+- my location will be mumbai
+- i am living in mumbai
+- my location will be hyderabad
+- my location will be kerala
+- my location is mumbai
+- mumbai
+- delhi
+- my location will be in chennai
+- i think i am near to hyderabad
+- i am near to mumbai
+- chennai
+- punjab
+- i am looking in borivali
+- i am living in borivali
+- my location will be in borivali
+- madhapur
+- i am living in madhapur...
+- my location is andheri
+- i am currently living in mumbai
+- i am living near borivali
+- borivali
+- in mathura
+- In Kanpur
+- i am living in madhapur
+- currently living in mumbai
+- i am in mumbai
+- this place seems to be close to hyderabad
+- i feel this place is near to borivali
+- i am near to chennai
+- in mathura
+- In Kanpur
+- i think i am near to mumbai
+- i am looking for restaurants in mumbai
+- i am living in hyderabad
+- I am at Madhapur
+- I am at KPHB
+- in mathura
+- In Kanpur
+- my preffered location will be bengaluru
+- kanpur
+- kanpur
+- my location will be in mumbai
+- my location will be in hyderabad
+- i am looking in hyderabad
+- hyderabad
+- looking to eat in hyderabad
+- get me some food in hyderabad
+- i am looking to eat in mumbai
+- my area is mumbai
+- my location is hyderabad
+- my location is mathura
+- my location is kanpur
+- my location is chandausi
+- my location is moradabad
+- my location is delhi
+- my location is hyderabad
+- my location is kanpur
+- my prefered location is bengaluru
+- my prefered location will be hyderabad
+- my location will be noida
+- my prefered location is chennai
+- my location will be chennai
+- my location is kerala
+- my location is punjab
+- my location will be mumbai
+- i am living in mumbai
+- my location will be hyderabad
+- my location will be kerala
+- my location is mumbai
+- mumbai
+- delhi
+- my location will be in chennai
+- i think i am near to hyderabad
+- i am near to mumbai
+- chennai
+- punjab
+- i am looking in borivali
+- i am living in borivali
+- my location will be in borivali
+- madhapur
+- i am living in madhapur...
+- my location is andheri
+- i am currently living in mumbai
+- i am living near borivali
+- borivali
+- in mathura
+- In Kanpur
+- i am living in madhapur
+- currently living in mumbai
+- i am in mumbai
+- this place seems to be close to hyderabad
+- i feel this place is near to borivali
+- i am near to chennai
+- in mathura
+- In Kanpur
+- i think i am near to mumbai
+- i am looking for restaurants in mumbai
+- i am living in hyderabad
+- I am at Madhapur
+- I am at KPHB
+- in mathura
+- In Kanpur
+- my preffered location will be bengaluru
+- kanpur
+- kanpur
+- my location will be in mumbai
+- my location will be in hyderabad
+- i am looking in hyderabad
+- hyderabad
+- looking to eat in hyderabad
+- get me some food in hyderabad
+- i am looking to eat in mumbai
+- my area is mumbai
+- my location is hyderabad
+- my location is mathura
+- my location is kanpur
+- my location is chandausi
+- my location is moradabad
+- my location is delhi
+- my location is hyderabad
+- my location is kanpur
+- my prefered location is bengaluru
+- my prefered location will be hyderabad
+- my location will be noida
+- my prefered location is chennai
+- my location will be chennai
+- my location is kerala
+- my location is punjab
+- my location will be mumbai
+- i am living in mumbai
+- my location will be hyderabad
+- my location will be kerala
+- my location is mumbai
+- mumbai
+- delhi
+- my location will be in chennai
+- i think i am near to hyderabad
+- i am near to mumbai
+- chennai
+- punjab
+- i am looking in borivali
+- i am living in borivali
+- my location will be in borivali
+- madhapur
+- i am living in madhapur...
+- my location is andheri
+- i am currently living in mumbai
+- i am living near borivali
+- borivali
+- in mathura
+- In Kanpur
+- i am living in madhapur
+- currently living in mumbai
+- i am in mumbai
+- this place seems to be close to hyderabad
+- i feel this place is near to borivali
+- i am near to chennai
+- in mathura
+- In Kanpur
+- i think i am near to mumbai
+- i am looking for restaurants in mumbai
+- i am living in hyderabad
+- I am at Madhapur
+- I am at KPHB
+- in mathura
+- In Kanpur
 
 ## intent:telling_location_cuisine
 - i am looking for some [chinese](cuisine) food in mumbai
@@ -298,17 +514,25 @@
 - i am looking for [italian](cuisine) food in mumbai
 - i am looking to eat [south indian](cuisine) food in chennai
 - i am looking to eat some [italian](cuisine) food in mumbai
+- i will need some [south indian](cuisine) food in bengaluru
 - i am looking for some [italian](cuisine) food in chennai
 - i am looking to eat something [chinese](cuisine) in hyderabad
 - i am looking for [italian](cuisine) food in madhapur
+- i will need some [south indian](cuisine) food in mathura
 - i am looking to eat [italian](cuisine) food in mumbai
+- i will need some [south indian](cuisine) food in bengaluru
 - i would like to eat [north indian](cuisine) food in hyderabad
 - i would like to eat [chinese](cuisine) food in hyderabad
 - i would like to eat [chinese](cuisine) in hyderabad
 - i would like to eat [italian](cuisine) in hyderabad
 - i am looking to eat [italian](cuisine) food in delhi
+- i will need some [south indian](cuisine) food in kanpur
 - would like to eat [italian](cuisine) food in hyderabad
+- i will need some [south indian](cuisine) food in Lucknow
+- i will need some [south indian](cuisine) food in bengaluru
 - i would like to eat [italian](cuisine) food in delhi
 - i am looking to eat some [italian](cuisine) food in chennai
 - i am looking to eat some [italian](cuisine) food in kerala
 - i would love to have [chinese](cuisine) food in chennai
+- I want [Chinese](cuisine:chinese) restaurants in Mathura
+- I want [Italian](cuisine:italian) restaurants in Madhapur

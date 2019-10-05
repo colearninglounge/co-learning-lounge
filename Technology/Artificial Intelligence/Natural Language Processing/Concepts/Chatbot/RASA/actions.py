@@ -13,7 +13,7 @@ import ast
 class Zomato:
 
     def __init__(self):
-        self.api_key=""  ## Update Zomato API key here
+        self.api_key="2433d3017482a36e8c0ba4b76ceec804"  ## Update Zomato API key here
         self.base_url = "https://developers.zomato.com/api/v2.1/"
 
 
@@ -35,7 +35,7 @@ class Zomato:
 
 	## Yogesh: When does the location_suggestions are empty? I see when location is not valid it return empty list. First of all this condition should have been checked during Bing API
         if len(data['location_suggestions']) == 0:
-            raise Exception('invalid_location')
+            print('invalid_location')
             
         else:
             location_info.append(data["location_suggestions"][0]["latitude"])
@@ -127,7 +127,7 @@ class LocationExtractor:
     
     def __init__(self):
        self.bing_baseurl="http://dev.virtualearth.net/REST/v1/Locations"
-       self.bing_api_key="" ## Update Zomato API key here
+       self.bing_api_key="AsT2PniYaJ05PHxls4FpecvSFS5RroCUCVuwvlNbTmeMxZ1EtYzCsyE9ZxkjDC8r" ## Update Bing API key here
 
     def getLocationInfo(self, query, tracker):
         
@@ -200,20 +200,19 @@ class ActionShowRestaurants(Action):
         location_name = tracker.get_slot('location')
         if (not location_name) :
             location_name = le.getLocationInfo(str(user_input), tracker)
-
-        if not location_name :
+        #if not location_name :
             ### Utter template
-            dispatcher.utter_template('utter_ask_location', tracker)
+        #    dispatcher.utter_template('utter_ask_location', tracker)
         else:
             cuisine_type=tracker.get_slot('cuisine')
             list_all_restaurants=zo.get_all_restraunts(location_name[0],str(cuisine_type))
             temp_str = ""
-            
-            for r in range(0,len(list_all_restaurants)-1):
-            	temp_str = temp_str + str(list_all_restaurants[r]) + ", "
-            
-            temp_str = temp_str + "and " + str(list_all_restaurants[-1])
-
-            dispatcher.utter_message("We found " + str(temp_str) + " of " + cuisine_type + " cuisine at "+ location_name[1] +" location. Have a great time :)")
-
+            x = len(list_all_restaurants)
+            if x>0:
+                for r in list_all_restaurants:
+                    temp_str = temp_str + str(r) + ", "
+                    temp_str = temp_str + "and " + str(list_all_restaurants[-1])
+                dispatcher.utter_message("We found some restraunts named: " + str(temp_str) + " of " + cuisine_type + " cuisine at "+ location_name[1] +" location. Have a great time :)")
+            else:
+                dispatcher.utter_message("No Restaurants Found :(")
         return []
