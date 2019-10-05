@@ -152,3 +152,11 @@
     - action_show_restaurants
 * affirm
     - utter_goodbye
+
+## Chat with me
+
+* greet
+    - utter_greet
+* telling_cuisine{"cuisine":"south indian"}
+    - utter_affirm_cuisine
+    - utter_ask_location
