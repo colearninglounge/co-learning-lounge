@@ -92,7 +92,9 @@ Dialogflow created a project on GCP for you to access logs and connect cloud fun
 
 If you would like to handle entities within Dialogflow UI you can click on **Required** checkbox. This will ensure that when an intent matches with the user query, if the entity isn’t present in the query the agent requests the user to enter the entity before continuing to the next step. In this case, we will be handling the entity in fulfilment.
  
-### Now download the agent and import it into Dialogflow.
+## Final Step
+
+#### Now download the agent and import it into Dialogflow.
 
 <div style="text-align:center">
   <img src="img/dialogflow-10.png" alt="Web Integration Step 1">
