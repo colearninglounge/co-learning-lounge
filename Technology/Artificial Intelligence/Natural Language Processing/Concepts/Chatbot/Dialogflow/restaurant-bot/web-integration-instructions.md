@@ -9,11 +9,11 @@ Dialogflow allows users to quickly test their chatbots and have made it easier t
 2.	Then, click on toggle button of the Web Demo 
 
 <div style="text-align:center">
-  <img width="460" height="300" src="img/web-integration-1.png" alt="Web Integration Step 1">
+  <img src="img/web-integration-1.png" alt="Web Integration Step 1">
 </div>
 
 3. User the link to test your bot. If you want to integrate the bot on your website, use the iframe on your website.
 
 <div style="text-align:center">
-  <img width="460" height="300" src="img/web-integration-2.png" alt="Web Integration Step 2">
+  <img src="img/web-integration-2.png" alt="Web Integration Step 2">
 </div>
