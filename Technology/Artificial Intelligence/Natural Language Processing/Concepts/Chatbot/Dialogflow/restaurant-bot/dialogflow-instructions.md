@@ -24,6 +24,7 @@
 </div>
 
 Dialogflow created a project on GCP for you to access logs and connect cloud functions for fulfilment. Once done click on **Create**.
+
 4.	Two intents are created by default. **Default Welcome Intent** (this helps to greet users) and **Default Fallback Intent** (helps catch user queries that the bot cannot recognize an intent for). 
 
 ## Create Intents
