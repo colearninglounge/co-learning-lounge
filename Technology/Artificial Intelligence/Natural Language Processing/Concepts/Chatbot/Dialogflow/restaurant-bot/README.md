@@ -23,5 +23,5 @@ As per the best design practice, the bot should welcome the user with a greeting
 
 #### [Step 1: Setup and Installation](installation-instructions.md)
 #### [Step 2: Conversation Design in Dialogflow](dialogflow-instructions.md)
-#### [Step 3: Firebase Fulfilment](firebase-fulfillment-instructions.md)
+#### [Step 3: Firebase Fulfillment](firebase-fulfillment-instructions.md)
 #### [Step 4: Web Integration](web-integration-instructions.md)
