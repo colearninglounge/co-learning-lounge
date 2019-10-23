@@ -12,11 +12,11 @@ process.env.DEBUG = 'dialogflow:debug'; // enables lib debugging statements
 
 //Bing API
 const bing_base_url = "https://dev.virtualearth.net/REST/v1/Locations";
-const bing_api_key = "AkFMwHJ2an0uANRTqDuvCPsjAwpa8wacvAoOaWXYsWRaEIJgHmWhgOLnGuh-reTF";
+const bing_api_key = "YOUR_BING_API_KEY";
 
 //Zomato API
 const zomato_base_url = "https://developers.zomato.com/api/v2.1/";
-const zomato_api_key = "3373e342c899fb18119697cb2bc648ab";
+const zomato_api_key = "YOUR_ZOMATO_API_KEY";
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
     const agent = new WebhookClient({ request, response });
@@ -204,19 +204,12 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
         var cuisine = agent.parameters['Cuisines'];
 
         var bingApiResult = await get_bing_location_info(agent);
-        // console.log('After the bing API Call');
-        // console.log(bingApiResult);
 
         //fetching city id using location
         var location_info = await get_location_info(bingApiResult, agent);
-        // console.log('After the location API Call');
-        // console.log(location_info);
         
         //fetching cuisines using location info
         var all_cuisines_in_a_city = await get_cuisines(location_info, agent);
-        // console.log('After the cuisines api call');
-        // console.log(all_cuisines_in_a_city.length);
-        // console.log(all_cuisines_in_a_city[0]);
 
         for(var value in all_cuisines_in_a_city){
             if(all_cuisines_in_a_city[value][1].toLowerCase() === cuisine.toLowerCase()) {
@@ -261,22 +254,6 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
         // console.log(original);
         if(original === null) {
             respose = `Which cuisine do you prefer?`;
-            // response = `There are around ${all_cuisines_in_a_city.length} cuisines around this locations. ` +
-            //     `I'll list a few you can either choose from them or let me know your preference and I'll check if ` +
-                // `if any resaturents near by provide that. `;
-
-            // var list_cuisines = ''; 
-            // if(all_cuisines_in_a_city.length > 1) {
-            //     for (i = 0; i < all_cuisines_in_a_city.length - 1 && i <= 6; i++) {
-            //         list_cuisines += `${all_cuisines_in_a_city[i][1]}, `;
-            //     }
-            //     list_cuisines += ` and ${all_cuisines_in_a_city[all_cuisines_in_a_city.length - 1][1]}`;
-            // } else {
-            //     list_cuisines = `${all_cuisines_in_a_city[all_cuisines_in_a_city.length - 1][1]}`;
-            // }
-            // response += list_cuisines;
-
-            response = 'Which cuisine do you prefer?';
             agent.setContext({
                 name: 'loc_info',
                 lifespan: 2,
@@ -301,8 +278,6 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
                     // console.log('Match found');
                 }
             }
-            // console.log('After the comparision');
-            // console.log(selected_cuisine_id);
     
             //check if you found the cusine the user asked
             if(!selected_cuisine_id){
@@ -354,8 +329,6 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
                 // console.log('Match found');
             }
         }
-        // console.log('After the comparision');
-        // console.log(selected_cuisine_id);
 
         //check if you found the cusine the user asked
         if(!selected_cuisine_id){

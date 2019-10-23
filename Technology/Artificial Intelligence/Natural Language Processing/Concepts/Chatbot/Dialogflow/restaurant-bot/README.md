@@ -11,7 +11,7 @@ In this tutorial, we will build a simple flow where users can search restaurants
 As per the best design practice, the bot should welcome the user with a greeting and let the user know what it can do. If the user request matches with the intents and the respective response is sent to the user. If the intent requires an entity and the user hasn’t sent it in the request, then the bot should ask the required entities (like cuisine and location in this case) to complete the action (like search restaurant from Zomato API). We will be training the agent to extract cuisine and will use the Bing maps API to extract location information as it’s a time-consuming task to create an entity that has all the location details of the entire world or even just one country for that matter.
 
 <div style="text-align:center">
-  <img width="460" height="300" src="/img/workflow.png" alt="Restaurant Bot Workflow">
+  <img src="img/workflow.png" alt="Restaurant Bot Workflow">
 </div>
 
 * To get cuisines in a location we need cuisine_id which you will get from /cuisines endpoint. 
