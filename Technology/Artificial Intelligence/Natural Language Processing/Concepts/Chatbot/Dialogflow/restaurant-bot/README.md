@@ -19,7 +19,9 @@ As per the best design practice, the bot should welcome the user with a greeting
 * Once we have all the details we can hit /search endpoint which is the main and final endpoint where you will get all the restaurant details. By default, you will get 20 top matched restaurants. For this development we are going with Top 5 so that we don’t clutter the chat screen. 
 * You can also play around with Zomato API to get comfortable with it. 
 
-### [Step 1: Setup and Installation](installation-instructions.md)
-### [Step 2: Conversation Design in Dialogflow](dialogflow-instructions.md)
-### [Step 3: Firebase Fulfilment](firebase-fulfillment-instructions.md)
-### [Step 4: Web Integration](web-integration-instructions.md)
+## Let's begin
+
+#### [Step 1: Setup and Installation](installation-instructions.md)
+#### [Step 2: Conversation Design in Dialogflow](dialogflow-instructions.md)
+#### [Step 3: Firebase Fulfilment](firebase-fulfillment-instructions.md)
+#### [Step 4: Web Integration](web-integration-instructions.md)
