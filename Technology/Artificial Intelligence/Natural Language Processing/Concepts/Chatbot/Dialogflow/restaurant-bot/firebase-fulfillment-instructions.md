@@ -51,5 +51,5 @@ We prefer not to, so we click on **‘N’**.
   <img width="460" height="300" src="img/fulfillment-4.png" alt="Web Integration Step 1">
 </div>
 
-    Past the firebase functions link we copied earlier then scroll down the same page and click on **Save**.
+    Past the firebase functions link we copied earlier then scroll down the same page and click on <b>Save</b>.
 17.	Now you are set to test the chatbot.
