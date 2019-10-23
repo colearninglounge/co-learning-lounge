@@ -3,10 +3,10 @@
 
 <div style="border-style: solid; border-color: black; text-align: center; background-color: lightgreen; padding: 5px;">
 
-* [Create Agent]()
-* [Create Intent]()
-* [Create Entities]()
-* [Final Step]()
+* [Create Agent](#create-agent)
+* [Create Intent](#create-intents)
+* [Create Entities](#create-entities)
+* [Final Step](#final-step)
 
 ## Create Agent
 
