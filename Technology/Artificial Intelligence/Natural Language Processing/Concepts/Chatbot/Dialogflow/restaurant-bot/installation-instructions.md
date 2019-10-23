@@ -9,10 +9,10 @@
 2.	[Download and install Node.js](https://nodejs.org/en/download/)
 
 3.	Install [Firebase CLI](https://firebase.google.com/docs/cli#install_the_firebase_cli) using **npm**
-    **Step 1**: Open Command line 
-    **Step 2**: Type `npm install -g firebase-tools` and hit **enter** to install firebase cli
-    **Step 3**: Sign into firebase using `firebase login`
-    This command connects your local machine to Firebase and grants you access to your Firebase projects.
+   **Step 1**: Open Command line 
+   **Step 2**: Type `npm install -g firebase-tools` and hit **enter** to install firebase cli
+   **Step 3**: Sign into firebase using `firebase login`
+   This command connects your local machine to Firebase and grants you access to your Firebase projects.
 
 4.	[Getting a Bing Maps Key](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key)
 
