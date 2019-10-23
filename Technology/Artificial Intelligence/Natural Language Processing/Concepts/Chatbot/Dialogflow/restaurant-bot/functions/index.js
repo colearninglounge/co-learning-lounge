@@ -12,11 +12,11 @@ process.env.DEBUG = 'dialogflow:debug'; // enables lib debugging statements
 
 //Bing API
 const bing_base_url = "https://dev.virtualearth.net/REST/v1/Locations";
-const bing_api_key = "AkFMwHJ2an0uANRTqDuvCPsjAwpa8wacvAoOaWXYsWRaEIJgHmWhgOLnGuh-reTF";
+const bing_api_key = "YOUR_BING_API_KEY";
 
 //Zomato API
 const zomato_base_url = "https://developers.zomato.com/api/v2.1/";
-const zomato_api_key = "3373e342c899fb18119697cb2bc648ab";
+const zomato_api_key = "YOUR_ZOMATO_API_KEY";
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
     const agent = new WebhookClient({ request, response });
