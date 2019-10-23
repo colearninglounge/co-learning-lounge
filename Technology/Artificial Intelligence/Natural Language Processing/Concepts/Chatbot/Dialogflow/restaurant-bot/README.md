@@ -11,7 +11,7 @@ In this tutorial, we will build a simple flow where users can search restaurants
 As per the best design practice, the bot should welcome the user with a greeting and let the user know what it can do. If the user request matches with the intents and the respective response is sent to the user. If the intent requires an entity and the user hasn’t sent it in the request, then the bot should ask the required entities (like cuisine and location in this case) to complete the action (like search restaurant from Zomato API). We will be training the agent to extract cuisine and will use the Bing maps API to extract location information as it’s a time-consuming task to create an entity that has all the location details of the entire world or even just one country for that matter.
 
 <div style="text-align:center">
-  <img width="460" height="300" src="img/workflow.png" alt="Restaurant Bot Workflow">
+  <img src="img/workflow.png" alt="Restaurant Bot Workflow">
 </div>
 
 * To get cuisines in a location we need cuisine_id which you will get from /cuisines endpoint. 
@@ -19,7 +19,7 @@ As per the best design practice, the bot should welcome the user with a greeting
 * Once we have all the details we can hit /search endpoint which is the main and final endpoint where you will get all the restaurant details. By default, you will get 20 top matched restaurants. For this development we are going with Top 5 so that we don’t clutter the chat screen. 
 * You can also play around with Zomato API to get comfortable with it. 
 
-### [Step 1: Setup and Installation](installarion-instructions.md)
+### [Step 1: Setup and Installation](installation-instructions.md)
 ### [Step 2: Conversation Design in Dialogflow](dialogflow-instructions.md)
 ### [Step 3: Firebase Fulfilment](firebase-fulfillment-instructions.md)
 ### [Step 4: Web Integration](web-integration-instructions.md)
