@@ -14,13 +14,13 @@
 2.	On your left pane you should be able to see **Create Agent**. Click on it and on the new page should open.
 
 <div style="text-align:center">
-  <img width="250" height="300" src="img/dialogflow-1.png" alt="Web Integration Step 1">
+  <img src="img/dialogflow-1.png" alt="Web Integration Step 1">
 </div>
 
 3.	Provide a name to the bot **Restaurant Bot**.
 
 <div style="text-align:center">
-  <img width="460" height="300" src="img/dialogflow-2.png" alt="Web Integration Step 1">
+  <img src="img/dialogflow-2.png" alt="Web Integration Step 1">
 </div>
 
 Dialogflow created a project on GCP for you to access logs and connect cloud functions for fulfilment. Once done click on **Create**.
@@ -38,7 +38,7 @@ Dialogflow created a project on GCP for you to access logs and connect cloud fun
 3.	Name the intent as **restaurant_search** and let’s skip to the **Training Phrase** section.
  
 <div style="text-align:center">
-  <img width="460" height="300" src="img/dialogflow-4.png" alt="Web Integration Step 1">
+  <img src="img/dialogflow-4.png" alt="Web Integration Step 1">
 </div>
 
 4.	Enter all the training phrases you can think of in this section for training the chatbot.
@@ -73,7 +73,7 @@ Dialogflow created a project on GCP for you to access logs and connect cloud fun
 * Fuzzy matching is used to match entities in user queries. This usually helps when there are spelling errors or partial matches. 
 * Regexp as the name states helps in matching a specific pattern in a user query. It uses Google RE2 Regular Expressions.
 
-**Example**:
+**Example**: 
 **Invoice Number**: Dec/18-19/278
 **Pattern**: [A-Z]{1,3}/[0-9]{1,2}-[0-9]{1,2}/[0-9]{1,3} 
 
