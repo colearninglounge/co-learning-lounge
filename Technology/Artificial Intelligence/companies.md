@@ -189,3 +189,10 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [orbital insight](https://orbitalinsight.com/company/careers/)
 - [openAI](https://openai.com/jobs/)
 - [x.ai](https://x.ai/jobs/)
+
+## AI-ML Consultancy
+- [Quantiphi Inc](https://quantiphi.com/careers/career/)
+- [Fractal.ai](https://fractalanalytics.applytojob.com/)
+
+## Media
+- [athenasowl.tv](https://www.linkedin.com/company/athenasowl/)
