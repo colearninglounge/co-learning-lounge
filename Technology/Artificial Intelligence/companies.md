@@ -181,6 +181,13 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Security
 - [sift science](https://sift.com/careers)
 
+## AI-ML Consultancy
+- [Quantiphi Inc](https://quantiphi.com/careers/career/)
+- [Fractal.ai](https://fractalanalytics.applytojob.com/)
+
+## Media
+- [athenasowl.tv](https://www.linkedin.com/company/athenasowl/)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
