@@ -20,7 +20,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 
 ## Online Course
 ### MOOC Course
-- [Natural Langauge Processing by NPTEL](https://nptel.ac.in/courses/106101007/1)
+- [Natural Langauge Processing by NPTEL](https://onlinecourses.nptel.ac.in/noc19_cs57)
 - [Python text mining on Coursera](https://www.coursera.org/learn/python-text-mining)
 - [Natural Language Processing on Coursera](https://www.coursera.org/learn/language-processing)
 - [Introduction to Natural Language Processing(NLP) on Udemy](https://www.udemy.com/natural-language-processing/)
