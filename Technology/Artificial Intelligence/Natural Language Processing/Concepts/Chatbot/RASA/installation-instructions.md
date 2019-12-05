@@ -10,7 +10,7 @@ Download and install Anaconda Navigator: https://docs.anaconda.com/anaconda/inst
 - Linux user can open terminal in sudo mode
 
 ### Step 3 : Install virtual enviornment
-Install Virtual Environment, Follow sub-steps Below (Type the following commands step by step in the terminal)-<br>
+Follow sub-steps Below (Type the following commands step by step in the terminal)-<br>
 **Check the version of anaconda (latest version should be installed)**<br>
 `conda -V`<br> 
 
