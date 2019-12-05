@@ -11,6 +11,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [next IT](https://www.nextit.com/about-us#careers)
 - [soundhound](https://www.soundhound.com/careers)
 - [zymergen](https://www.zymergen.com/careers/)
+- [kore.ai](https://kore.ai/careers/)
+- [rasa](https://rasa.com/careers/#jobs)
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)

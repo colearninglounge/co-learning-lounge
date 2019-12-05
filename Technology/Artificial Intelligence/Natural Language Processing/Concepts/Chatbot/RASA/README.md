@@ -12,17 +12,6 @@ Here will train our model to extract cuisine and will use Bing map API to extrac
 To hit Zomato API with location we need entity_id, entity_type, lat and long which will get from [/location](https://developers.zomato.com/documentation#!/location/locations) and for cuisine, we need cuisine_id which you will get from [/cuisines](https://developers.zomato.com/documentation#!/common/cuisines)
 Once we have all the details we can hit [/search](https://developers.zomato.com/documentation#!/restaurant/search) which is the main and final endpoint where you will get restaurant details. By default, you will get 20 top matched restaurants. We kept count as 5. Play around with Zomato API to get comfortable with it: https://developers.zomato.com/documentation
 
-#### Zomato API
-To start with, we will need an API key from Zomato, so navigate to [Zomato](https://developers.zomato.com/api) and ‘request an API key’.  
-On being prompted, we may either sign up on Zomato or ‘Continue with Google’. After we have completed the sign up, we should receive the API key
-
-#### Microsoft Bing Maps REST API
-To use the Bing Maps REST API, we will need ‘Bing Maps Key’. Therefore, navigate [here](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key) and then click on ‘Bing Maps Key’ hyperlink. After we have signed up (if we do not have an account on Microsoft) and provided our basic information, we can create a key. Bing Maps API provides a ‘basic’ key, by default (i.e. it can be specified directly in the request header, no need of OAuth complexity).  
-After the key has been created we can see/ copy it by clicking on ‘My Account’ -> ‘My Keys’.  
-Now, we have what we needed to start with. Let’s dive in to Postman and get the stuff working.
-
-> Update both the keys in [actions.py](./actions.py) file.
-
 Look at the below self-explanatory state diagram which shows conversation flow with all required states.
 <p align="center">
   <img width="460" height="300" src="conversation_flow.jpg" alt="Conversation diagram">

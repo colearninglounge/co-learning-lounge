@@ -127,7 +127,7 @@ class LocationExtractor:
     
     def __init__(self):
        self.bing_baseurl="http://dev.virtualearth.net/REST/v1/Locations"
-       self.bing_api_key="" ## Update Zomato API key here
+       self.bing_api_key="" ## Update BING map API key here
 
     def getLocationInfo(self, query, tracker):
         
