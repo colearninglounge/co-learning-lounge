@@ -8,15 +8,15 @@ Step 2:	 - Windows user can open Anaconda Prompt (as an Administrator) from the 
 	 - Linux user can open terminal in sudo mode
 
 Step 3:   Install Virtual Environment, Follow sub-steps Below (Type the following commands step by step in the terminal)-<br>
-	* Check the version of anaconda (latest version should be installed)<br>
+	**Check the version of anaconda (latest version should be installed)**<br>
 `conda -V`<br> 
-	* Update the Anaconda Navigator<br> 
+	**Update the Anaconda Navigator** <br> 
 `conda update conda`<br> 
-	* Create the virtual Environment<br> 
-`conda create -n your_environment_name python=3.7.5 anaconda`<br> 
+	**Create the virtual Environment**<br> 
+`conda create -n your_environment_name pyt**n=3.7.5 anaconda`<br> 
 (replace your_environment_name with any name you want to give to your virtual environment)<br> 
 (press y to proceed whenever it will be asked for confirmation)<br> 
-	* Activate your virtual Environment<br> 
+	**Activate your virtual Environment**<br> 
  `conda activate your_environment_name`<br> 
  (replace your_environment_name with the virtual environment name that you have given earlier)<br> 
 
@@ -34,14 +34,14 @@ If you have performed everything correctly the try running the following command
 
 If it doesn’t give any error then Congratulations you have successfully completed the installation and you are ready to build your chatbot.
 
-Step 6:	Getting a Bing Maps Key<br>
-        	Navigate [here](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key) and then click on ‘Bing Maps Key’ hyperlink. 
-		After we have signed up (if we do not have an account on Microsoft) and provided our basic information, we can create a key. 
-        	Bing Maps API provides a ‘basic’ key, by default (i.e. it can be specified directly in the request header, no need of OAuth complexity).
-        	After the key has been created we can see/ copy it by clicking on ‘My Account’ -> ‘My Keys’.
+Step 6:	Getting a Bing Maps Key <br>
+Navigate [here](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key) and then click on ‘Bing Maps Key’ hyperlink. 
+After we have signed up (if we do not have an account on Microsoft) and provided our basic information, we can create a key. 
+Bing Maps API provides a ‘basic’ key, by default (i.e. it can be specified directly in the request header, no need of OAuth complexity).
+After the key has been created we can see/ copy it by clicking on ‘My Account’ -> ‘My Keys’.
 
 Step 7:	Create Zomato API<br>
-        	We will need an API key from Zomato, so navigate to [Zomato](https://developers.zomato.com/api) and ‘request an API key’.
-        	On being prompted, we may either sign up on Zomato or ‘Continue with Google’. After we have completed the sign up, we should receive the API key
+We will need an API key from Zomato, so navigate to [Zomato](https://developers.zomato.com/api) and ‘request an API key’.
+On being prompted, we may either sign up on Zomato or ‘Continue with Google’. After we have completed the sign up, we should receive the API key
 
 > Update both the keys in [actions.py](./actions.py) file.
