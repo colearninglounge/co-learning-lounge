@@ -4,19 +4,19 @@
 
 Step 1:	 Download and install Anaconda Navigator: https://docs.anaconda.com/anaconda/install/
 
-Step 2:	 - Windows user can open Anaconda Prompt (as an Administrator) from the start menu
+Step 2:	 - Windows user can open Anaconda Prompt (as an Administrator) from the start menu <br> 
 	 - Linux user can open terminal in sudo mode
 
 Step 3:   Install Virtual Environment, Follow sub-steps Below (Type the following commands step by step in the terminal)-<br>
-** Check the version of anaconda (latest version should be installed)<br>
+	* Check the version of anaconda (latest version should be installed)<br>
 `conda -V`<br> 
-** Update the Anaconda Navigator<br> 
+	* Update the Anaconda Navigator<br> 
 `conda update conda`<br> 
-** Create the virtual Environment<br> 
+	* Create the virtual Environment<br> 
 `conda create -n your_environment_name python=3.7.5 anaconda`<br> 
 (replace your_environment_name with any name you want to give to your virtual environment)<br> 
 (press y to proceed whenever it will be asked for confirmation)<br> 
-** Activate your virtual Environment<br> 
+	* Activate your virtual Environment<br> 
  `conda activate your_environment_name`<br> 
  (replace your_environment_name with the virtual environment name that you have given earlier)<br> 
 
