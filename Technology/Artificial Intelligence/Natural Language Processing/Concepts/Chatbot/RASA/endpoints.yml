@@ -13,8 +13,6 @@
 action_endpoint:
  url: "http://localhost:5055/webhook"
 
-
-
 #tracker_store:
 #    type: SQL
 #    dialect: "sqlite"  # the dialect used to interact with the db

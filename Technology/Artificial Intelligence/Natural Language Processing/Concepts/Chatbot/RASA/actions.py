@@ -1,14 +1,58 @@
+# This files contains your custom actions which can be used to run
+# custom Python code.
+#
+# See this guide on how to implement these action:
+# https://rasa.com/docs/rasa/core/actions/#custom-actions/
+
+
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 import requests
 import ast
 from rasa_sdk.events import SlotSet
-from rasa_sdk.events import UserUtteranceReverted
 
-import requests
-import ast
 
+class BingLocationExtractor:
+    
+    def __init__(self):
+       self.bing_baseurl="http://dev.virtualearth.net/REST/v1/Locations"
+       self.bing_api_key="" ## Update Bing API key here
+
+    def getLocationInfo(self, query, tracker):
+        
+       list_cities=[]
+       queryString = {
+                        "query":query,
+                        "key":self.bing_api_key
+                     }
+       res = requests.get(self.bing_baseurl,params=queryString)
+
+       res_data = res.json()
+       
+       if (res.status_code != 200 or "low" == (res_data["resourceSets"][0]["resources"][0]["confidence"]).lower()) :
+           return None, None
+       else:
+           if ("locality" in res_data["resourceSets"][0]["resources"][0]["address"]) :
+            return res_data["resourceSets"][0]["resources"][0]["address"]["locality"], res_data["resourceSets"][0]["resources"][0]["name"]
+           else :
+            return "that", res_data["resourceSets"][0]["resources"][0]["name"]
+
+class ActionSetLocation(Action):
+
+
+    def name(self):
+        return "action_set_location"
+
+    def run(self, dispatcher,tracker, domain):
+
+        user_input = tracker.latest_message['text']
+
+        le = BingLocationExtractor()
+        locality, location_name = le.getLocationInfo(str(user_input), tracker)
+
+        dispatcher.utter_message("Thanks for sharing you location. " + locality.capitalize() + " is pretty place.")
+        return [SlotSet("location",location_name)]
 
 class Zomato:
 
@@ -17,7 +61,7 @@ class Zomato:
         self.base_url = "https://developers.zomato.com/api/v2.1/"
 
 
-    def getLocationInfo(self,location):
+    def getZomatoLocationInfo(self, location):
         '''
         Takes city name as argument.
         Returns the corressponding city_id.
@@ -25,15 +69,14 @@ class Zomato:
         #list storing latitude,longitude...
         location_info=[]
 
-        queryString={"query":location}
+        queryString = { "query" : location }
 
         headers = {'Accept': 'application/json', 'user-key': self.api_key}
 
-        r = requests.get(self.base_url+"locations",params=queryString, headers=headers)
+        res = requests.get(self.base_url+"locations", params=queryString, headers=headers)
 
-        data=r.json()
+        data = res.json()
 
-	## Yogesh: When does the location_suggestions are empty? I see when location is not valid it return empty list. First of all this condition should have been checked during Bing API
         if len(data['location_suggestions']) == 0:
             raise Exception('invalid_location')
             
@@ -53,11 +96,14 @@ class Zomato:
 
         headers = {'Accept': 'application/json', 'user-key': self.api_key}
 
-        queryString={"lat":location_info[0],"lon":location_info[1]}
+        queryString = { 
+                        "lat":location_info[0],
+                        "lon":location_info[1]
+                        }
 
-        r = (requests.get(self.base_url +"cuisines",params=queryString,headers=headers).content).decode("utf-8")
+        res = (requests.get(self.base_url +"cuisines",params=queryString,headers=headers).content).decode("utf-8")
 
-        a = ast.literal_eval(r)
+        a = ast.literal_eval(res)
         all_cuisines_in_a_city = a['cuisines']
 
         cuisines={}
@@ -69,122 +115,90 @@ class Zomato:
         return cuisines
 
 
-    def get_cuisine_id(self,cuisine_name,location_info):
+    def get_cuisine_id(self, cuisine_name, location_info):
         '''
         Takes cuisine name and city id as argument.
         Returns the cuisine id for that cuisine.
         '''
-        cusines = self.get_cuisines(location_info)
+        cuisines = self.get_cuisines(location_info)
 
-        return cusines[cuisine_name.lower()]
+        return cuisines[cuisine_name.lower()]
 
 
-    def get_all_restraunts(self,location,cuisine):
+    def get_all_restraunts(self, location, cuisine):
         '''
         Takes city name and cuisine name as arguments.
         Returns a list of 5 restaurants.
         '''
 
-        location_info=self.getLocationInfo(location)
-        cuisine_id=self.get_cuisine_id(cuisine,location_info)
+        location_info = self.getZomatoLocationInfo(location)
+        cuisine_id = self.get_cuisine_id(cuisine,location_info)
 
-        queryString={"entity_type":location_info[3], "entity_id":location_info[2], "cuisines":cuisine_id, "count":5}
+        queryString = { 
+                        "entity_type":location_info[3], 
+                        "entity_id":location_info[2], 
+                        "cuisines":cuisine_id, 
+                        "count":5
+                        }
 
         headers = {'Accept': 'application/json', 'user-key': self.api_key}
-        r = requests.get(self.base_url + "search",params=queryString, headers=headers)
+        res = requests.get(self.base_url + "search",params=queryString, headers=headers)
 
-        list_ofall_rest=r.json()["restaurants"]
+        list_of_all_rest=res.json()["restaurants"]
 
         names_of_all_rest=[]
-        for rest in list_ofall_rest:
+        for rest in list_of_all_rest:
             names_of_all_rest.append(rest["restaurant"]["name"])
 
         return names_of_all_rest
 
-    def get_all_restraunts_without_cuisne(self,location):
+    def get_all_restraunts_without_cuisne(self, location):
         '''
         Takes city name as arguments.
         Returns a list of 5 restaurants.
         '''
 
-        location_info=self.getLocationInfo(location)
-        
-        queryString={"entity_type":location_info[3],"entity_id":location_info[2],"count":5}
+        location_info = self.getZomatoLocationInfo(location)
+
+        queryString = {
+                        "entity_type": location_info[3],
+                        "entity_id": location_info[2],
+                        "count": 5
+                        }
 
         headers = {'Accept': 'application/json', 'user-key': self.api_key}
-        r =requests.get(self.base_url + "search",params=queryString, headers=headers)
+        res = requests.get(self.base_url + "search", params=queryString, headers=headers)
 
-        list_ofall_rest=r.json()["restaurants"]
-        names_of_all_rest=[]
+        list_ofall_rest = res.json()["restaurants"]
+        names_of_all_rest = []
         for rest in list_ofall_rest:
             names_of_all_rest.append(rest["restaurant"]["name"])
 
         return names_of_all_rest
 
 
-
-class LocationExtractor:
-    
-    def __init__(self):
-       self.bing_baseurl="http://dev.virtualearth.net/REST/v1/Locations"
-       self.bing_api_key="" ## Update BING map API key here
-
-    def getLocationInfo(self, query, tracker):
-        
-       list_cities=[]
-       queryString={"query":query,"key":self.bing_api_key}
-       r = requests.get(self.bing_baseurl,params=queryString)
-       data = r.json()
-       
-       if (r.status_code != 200) :
-           dispatcher.utter_template('utter_ask_location', tracker)
-           return []
-       else:
-           return data["resourceSets"][0]["resources"][0]["point"]["coordinates"],data["resourceSets"][0]["resources"][0]["name"]
-
-class ActionSetLocation(Action):
-
-
-    def name(self):
-        return "action_set_location"
-
-    def run(self, dispatcher,tracker,domain):
-
-        user_input=tracker.latest_message['text']
-
-        le = LocationExtractor()
-        location_name = le.getLocationInfo(str(user_input), tracker)
-
-        return [SlotSet("location",location_name)]
-
-		
 class GetRestaurantsWithoutCuisine(Action):
 
     def name(self):
         return "action_restaurants_nocuisine"
 
+    def run(self, dispatcher, tracker, domain):
+        location_name = tracker.get_slot('location')
 
-    def run(self, dispatcher,tracker,domain):
+        zo = Zomato()
 
-        location_name=tracker.get_slot('location')
-        
-        zom = Zomato()
+        list_all_restaurants = zo.get_all_restraunts_without_cuisne(str(location_name))
 
-        list_all_restaurants = zom.get_all_restraunts_without_cuisne(str(location_name))
-        
         temp_str = ""
-        
-        for r in range(0,len(list_all_restaurants)-1):
-        	temp_str = temp_str + str(list_all_restaurants[r]) + ", "
-        
+
+        for r in range(0, len(list_all_restaurants) - 1):
+            temp_str = temp_str + str(list_all_restaurants[r]) + ", "
+
         temp_str = temp_str + "and " + str(list_all_restaurants[-1])
 
-        dispatcher.utter_message("We found " + str(temp_str) + " at " + location_name[1] +" location. Have a great time :)")
+        dispatcher.utter_message("We found " + str(temp_str) + " at " + location_name[1] + " location. Have a great time :)")
 
         return []
-
-
-
 
 class ActionShowRestaurants(Action):
 
@@ -193,27 +207,32 @@ class ActionShowRestaurants(Action):
 
     def run(self, dispatcher,tracker,domain):
 
-        zo = Zomato()
-        le = LocationExtractor()
         user_input = tracker.latest_message['text']
 
+        zo = Zomato()
+
+        ## Extracting location either from "location" slot or user input
+        le = BingLocationExtractor()
         location_name = tracker.get_slot('location')
         if (not location_name) :
-            location_name = le.getLocationInfo(str(user_input), tracker)
+            locality, location_name = le.getLocationInfo(str(user_input), tracker)
 
         if not location_name :
             ### Utter template
             dispatcher.utter_template('utter_ask_location', tracker)
         else:
-            cuisine_type=tracker.get_slot('cuisine')
-            list_all_restaurants=zo.get_all_restraunts(location_name[0],str(cuisine_type))
+            cuisine_type = tracker.get_slot('cuisine')
+            list_all_restaurants = zo.get_all_restraunts(location=location_name, cuisine=str(cuisine_type))
             temp_str = ""
-            
-            for r in range(0,len(list_all_restaurants)-1):
-            	temp_str = temp_str + str(list_all_restaurants[r]) + ", "
-            
-            temp_str = temp_str + "and " + str(list_all_restaurants[-1])
 
-            dispatcher.utter_message("We found " + str(temp_str) + " of " + cuisine_type + " cuisine at "+ location_name[1] +" location. Have a great time :)")
+            if (list_all_restaurants) :
+                for r in range(0,len(list_all_restaurants)-1):
+                	temp_str = temp_str + str(list_all_restaurants[r]) + ", "
+
+                temp_str = temp_str + "and " + str(list_all_restaurants[-1])
+
+                dispatcher.utter_message("We found " + str(temp_str) + " of " + cuisine_type.capitalize() + " cuisine at "+ location_name +" location. Have a great time :)")
+            else :
+                dispatcher.utter_message("Sorry no such restaurant of " + cuisine_type.capitalize() + " available at " + location_name + ". Try looking for some other cuisine.")
 
         return []

@@ -11,7 +11,6 @@
 * restaurant_search
     - utter_ask_location
 * telling_location
-    - utter_affirm_location
     - action_set_location
     - slot{"location":"Hyderabad"}
     - utter_ask_cuisine
@@ -40,7 +39,6 @@
 * telling_location
     - action_set_location
     - slot{"location":"Mumbai"}
-    - utter_affirm_location
     - utter_ask_cuisine
 * telling_cuisine{"cuisine":"italian"}
     - slot{"cuisine":"italian"}
@@ -69,7 +67,6 @@
 * telling_location
     - action_set_location
     - slot{"location":"Hyderabad"}
-    - utter_affirm_location
     - utter_ask_cuisine
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
@@ -86,7 +83,6 @@
 * telling_location
     - action_set_location
     - slot{"location":"Mumbai"}
-    - utter_affirm_location
     - utter_ask_cuisine
 * telling_cuisine{"cuisine":"south indian"}
     - slot{"cuisine":"south indian"}
@@ -105,7 +101,6 @@
 * telling_location
     - action_set_location
     - slot{"location":"Punjab"}
-    - utter_affirm_location
     - utter_ask_cuisine
 * deny
     - utter_itsok
@@ -132,7 +127,6 @@
 * telling_location
     - action_set_location
     - slot{"location":"Mumbai"}
-    - utter_affirm_location
     - utter_ask_cuisine
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
