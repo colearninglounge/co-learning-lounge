@@ -30,6 +30,7 @@ This repo will help you to become zero to hero in Natural langauge processing.
 ### YouTube
 - [Natural Langauge Processing by Dragomir Radev(PhD), University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 - [NLP with Deep Learning - Stanford CS224N](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 ## Blogs to follow
 > Here’s a list of blogs which we highly recommend for anyone interested in keeping track of what’s new in NLP research.
