@@ -52,6 +52,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
+- [Artivatic](https://artivatic.ai/career)
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
@@ -164,6 +165,9 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [thundersoft](https://www.thundersoft.com/index.php/joinus/index/1-125-125-125)
 - [tusimple](https://www.tusimple.com/careers/)
 - [pyimagejobs](http://jobs.pyimagesearch.com/ref/3/)
+- [Ignitarium](https://ignitarium.com/careers.php)
+- [Artivatic](https://artivatic.ai/career)
+- [Wobot Intelligence](http://www.wobot.ai/careers)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
