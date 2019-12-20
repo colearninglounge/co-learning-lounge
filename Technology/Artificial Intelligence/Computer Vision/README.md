@@ -9,7 +9,7 @@ This repo will help you to become zero to hero in Computer Vision.
 ## Quick Links
 
 - [Books](#books)
-- [Online Courses](#online-course)
+- [Online Courses](#online-courses)
 - [Blogs to follow](#blogs-to-follow)
 - [Popular Channels for Computer Vision](#popular-channels-for-computer-vision)
 - [Concepts](#concepts)
@@ -71,5 +71,8 @@ This repo will help you to become zero to hero in Computer Vision.
     - Object Segmentation: What pixels belong to the object in the image?
     - Object Recognition: What objects are in this photograph and where are they?
 
-## Projects
-- [Hand written Digit Recognition using Deep learning 🔢](Concepts/Image%20recognition/Digit%20recognition%20in%20Keras)
+## Community Projects 🌱
+- [Hand written Digit Recognition using Deep learning](Concepts/Image%20recognition/Digit%20recognition%20in%20Keras)
+- [Object detection using yolo darkflow](Concepts/Object_detection/custom_object_detection_yolov2_darkflow)
+- [Build an Optical character recognition using keras](Concepts/OCR/OCR.ipynb)
+- [Image Stitching to create a Panorama using Opencv](Concepts/Image%20Processing/Image%20Stitching.ipynb)
