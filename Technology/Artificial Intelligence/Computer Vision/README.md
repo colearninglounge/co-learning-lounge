@@ -72,4 +72,4 @@ This repo will help you to become zero to hero in Computer Vision.
     - Object Recognition: What objects are in this photograph and where are they?
 
 ## Projects
-- [Hand written Digit Recognition using Deep learning](Concepts/Image%20recognition/Digit%20recognition%20in%20Keras)
+- [Hand written Digit Recognition using Deep learning 🔢](Concepts/Image%20recognition/Digit%20recognition%20in%20Keras)
