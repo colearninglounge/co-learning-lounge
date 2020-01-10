@@ -32,7 +32,7 @@ To run the notebooks open the link during the session and then select either of 
 <ul>
 <li> Open in Playground mode.
 <p align="center">
-  <img src="/images/playground.PNG" width="350" title="hover text">
+  <img src="/images/playground.PNG" width="350" title="hover text"/>
 </p>
 
 </li>
