@@ -1,4 +1,4 @@
-# PyConf-2019 
+# Tutorial on Interpretability in AI 
 
 # Decrytpting ML models using LIME - Workshop Condusted at PyConf Hyderabad, 2019
 
