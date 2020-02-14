@@ -101,10 +101,6 @@ This repo will help you to become zero to hero in Natural langauge processing.
 	Automatically creating the subtitles of a video for each frame, including a description of the sound cues (such as machinery starting up, people laughing in the background, etc.).
 - [Dialogue system](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf)
 
-
-### Cheetsheets
-https://github.com/abhat222/Data-Science--Cheat-Sheet
-
 ### Popular Python library for NLP
 - [NLTK](https://www.nltk.org/)
 - [SpaCy](https://spacy.io/)

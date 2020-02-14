@@ -24,14 +24,24 @@ Visit our learning unit [here](https://www.facebook.com/groups/colearninglounge/
 
 As most of us can’t afford expensive courses or leave full time job to attend the school. Hence, we want to bring power back to you by creating content through community contribution which is free, self-paced with full-fledged community support.
 
+>  To enable millennials, understand and leverage open source content thereby, providing them an opportunity to give back to the community with good quality content and affordable education.
+
 ## How co-learning lounge can help to upskill and grow ?
 
 **Co-learning lounge** is not a community, it’s a family of mentors and mentees.
 Here our community members share their knowledge where the content is created and consumed by community with right mentorship. We also help each other in solving doubts. Not just it we also help each other getting job through reference. Here you will find your learning buddy, team member for your next hackathon and friend for lifetime 😊
 
+> Our mission is to provide the community with well-organized quality content that helps them solve real-world problems. We as a community will provide open source solutions for real-world problems to ensure we lead by example.
+
+Check [What is in it for you](what_is_in_it_for_you.md)
+
 ## What to expect ?
 
 Join us with greediness to learn, passionate to help and resolute to grow.
+
+## What do we do?
+
+[Workshop](what_do_we_do.md) | [Bootcamp](what_do_we_do.md) | [Talk](what_do_we_do.md) | [Meetup](what_do_we_do.md) | [Podcast](what_do_we_do.md)
 
 ## Want to become superhuman ?
 

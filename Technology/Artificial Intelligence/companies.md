@@ -28,16 +28,14 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [logiNext](https://www.loginextsolutions.com/careers)
 - [locus.sh](https://locus.sh/careers/)
 
-## Fintech
+## FinTech
 - [rubique](https://www.rubique.com/career)
+- [alphaSense](https://www.alpha-sense.com/careers)
 - [lendingKart](https://www.lendingkart.com/careers/)
 
 ## AgTech
 - [cropIn](https://www.cropin.com/careers/)
 - [blue river technology](http://careers.bluerivertechnology.com/)
-
-## FinTech
-- [alphaSense](https://www.alpha-sense.com/careers)
 
 ## AdTech
 - [persado](https://www.persado.com/about/careers/)
