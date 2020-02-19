@@ -1,7 +1,7 @@
-* [Project-based learning](project_based_learning)
+* [Project-based learning](project_based_learning.md)
    - We believe working on real-world projects help hone one’s skills. We collectively curate and select some of these projects and work with experienced community members in solving them. This program is for people who have prior experience in relevant technologies like CV, NLP, ML, etc.
 
-* [Collaborative Learning](collaborative_learning)
+* [Collaborative Learning](collaborative_learning.md)
    - Platform like Kaggle post real-world problems as competitions. Experts solves, share, and discuss their solution. We prefer to start by learning from problems already solved by experts. Hence interested folks from the community come together and try to solve the problem again by keeping existing solution and discussion as a reference. Once you head to the next level, you can work alongside a mentor to work on unsolved problem statements to gain first hand experience time-critical problems.
 
 * Tutorial-based learning
