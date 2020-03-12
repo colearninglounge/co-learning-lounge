@@ -200,3 +200,4 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [orbital insight](https://orbitalinsight.com/company/careers/)
 - [openAI](https://openai.com/jobs/)
 - [x.ai](https://x.ai/jobs/)
+- [couture.ai](https://angel.co/couture-ai/jobs)
