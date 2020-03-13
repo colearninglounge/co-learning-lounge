@@ -13,6 +13,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [zymergen](https://www.zymergen.com/careers/)
 - [kore.ai](https://kore.ai/careers/)
 - [rasa](https://rasa.com/careers/#jobs)
+- [active.a](https://active.ai/careers/)
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
@@ -32,6 +33,10 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [rubique](https://www.rubique.com/career)
 - [alphaSense](https://www.alpha-sense.com/careers)
 - [lendingKart](https://www.lendingkart.com/careers/)
+- [arya.ai](https://angel.co/company/arya-ai/jobs)
+
+## InsurTech
+- [artivatic.ai](https://artivatic.ai/career)
 
 ## AgTech
 - [cropIn](https://www.cropin.com/careers/)
