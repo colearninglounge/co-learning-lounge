@@ -57,6 +57,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Narrative Science](https://narrativescience.com/careers/)
 - [Artivatic](https://artivatic.ai/career)
 - [UNBXD](https://unbxd.com/careers/)
+- [oneorigin](https://www.oneorigin.us/careers/)
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
