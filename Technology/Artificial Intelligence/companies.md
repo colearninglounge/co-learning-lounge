@@ -199,6 +199,9 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Media
 - [athenasowl.tv](https://www.linkedin.com/company/athenasowl/)
 
+## Data science community
+- [Kaggle](https://www.kaggle.com/jobs)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
@@ -208,3 +211,4 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [openAI](https://openai.com/jobs/)
 - [x.ai](https://x.ai/jobs/)
 - [couture.ai](https://angel.co/couture-ai/jobs)
+- [lumiq.ai](https://lumiq.freshteam.com/jobs)
