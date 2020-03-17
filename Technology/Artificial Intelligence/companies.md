@@ -24,6 +24,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [inSilico medicine](https://insilico.com/career)
 - [Zebra medical vision](https://www.zebra-med.com/careers/)
 - [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
+- [Episource LLC](https://www.episource.com/careers/)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
@@ -202,6 +203,12 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Data science community
 - [Kaggle](https://www.kaggle.com/jobs)
 
+## Analytics
+- [sayint.ai](https://sayint.freshteam.com/jobs)
+
+## HRTech
+- [mroads](https://www.mroads.com/#/careers)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
@@ -212,3 +219,4 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [x.ai](https://x.ai/jobs/)
 - [couture.ai](https://angel.co/couture-ai/jobs)
 - [lumiq.ai](https://lumiq.freshteam.com/jobs)
+- [Pramati](https://www.pramati.com/careers/)
