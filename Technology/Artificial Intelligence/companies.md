@@ -14,6 +14,9 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [kore.ai](https://kore.ai/careers/)
 - [rasa](https://rasa.com/careers/#jobs)
 - [active.a](https://active.ai/careers/)
+- [nuacem](https://nuacem.com/careers)
+- [Smartbots.ai](https://www.smartbots.ai/careers/)
+- [IMIMobile](https://imimobile.com/careers)
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
@@ -208,6 +211,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## HRTech
 - [mroads](https://www.mroads.com/#/careers)
+- [inFeedo](https://jobs.infeedo.com/)
 
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
@@ -220,3 +224,4 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [couture.ai](https://angel.co/couture-ai/jobs)
 - [lumiq.ai](https://lumiq.freshteam.com/jobs)
 - [Pramati](https://www.pramati.com/careers/)
+- [Gramener](https://gramener.com/careers/)
