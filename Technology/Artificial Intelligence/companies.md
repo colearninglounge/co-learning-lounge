@@ -13,6 +13,10 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [zymergen](https://www.zymergen.com/careers/)
 - [kore.ai](https://kore.ai/careers/)
 - [rasa](https://rasa.com/careers/#jobs)
+- [active.a](https://active.ai/careers/)
+- [nuacem](https://nuacem.com/careers)
+- [Smartbots.ai](https://www.smartbots.ai/careers/)
+- [IMIMobile](https://imimobile.com/careers)
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
@@ -23,6 +27,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [inSilico medicine](https://insilico.com/career)
 - [Zebra medical vision](https://www.zebra-med.com/careers/)
 - [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
+- [Episource LLC](https://www.episource.com/careers/)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
@@ -32,6 +37,10 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [rubique](https://www.rubique.com/career)
 - [alphaSense](https://www.alpha-sense.com/careers)
 - [lendingKart](https://www.lendingkart.com/careers/)
+- [arya.ai](https://angel.co/company/arya-ai/jobs)
+
+## InsurTech
+- [artivatic.ai](https://artivatic.ai/career)
 
 ## AgTech
 - [cropIn](https://www.cropin.com/careers/)
@@ -51,6 +60,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
 - [Artivatic](https://artivatic.ai/career)
+- [UNBXD](https://unbxd.com/careers/)
+- [oneorigin](https://www.oneorigin.us/careers/)
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
@@ -192,6 +203,16 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Media
 - [athenasowl.tv](https://www.linkedin.com/company/athenasowl/)
 
+## Data science community
+- [Kaggle](https://www.kaggle.com/jobs)
+
+## Analytics
+- [sayint.ai](https://sayint.freshteam.com/jobs)
+
+## HRTech
+- [mroads](https://www.mroads.com/#/careers)
+- [inFeedo](https://jobs.infeedo.com/)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
@@ -200,3 +221,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [orbital insight](https://orbitalinsight.com/company/careers/)
 - [openAI](https://openai.com/jobs/)
 - [x.ai](https://x.ai/jobs/)
+- [couture.ai](https://angel.co/couture-ai/jobs)
+- [lumiq.ai](https://lumiq.freshteam.com/jobs)
+- [Pramati](https://www.pramati.com/careers/)
+- [Gramener](https://gramener.com/careers/)
