@@ -125,7 +125,6 @@ class RestaurnatSearchIntent(AbstractRequestHandler):
                             temp_str) + "at " + location_name + " location. Have a great time"
                     else:
                         speech = "We found " + str(
-                            temp_str) + " of " + cuisine_type.capitalize() + " cuisine at " + location_name + " location. Have a great time :)"
                             temp_str) + " of " + cuisine_type.capitalize() + " cuisine at " + location_name + " location. Have a great time."
                 else:
                     if not cuisine_type:
