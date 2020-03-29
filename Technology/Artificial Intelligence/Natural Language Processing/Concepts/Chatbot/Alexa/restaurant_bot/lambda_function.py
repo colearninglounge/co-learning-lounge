@@ -119,7 +119,8 @@ class RestaurnatSearchIntent(AbstractRequestHandler):
                         temp_str = temp_str + str(list_all_restaurants[r]) + ", "
 
                     temp_str = temp_str + "and " + str(list_all_restaurants[-1])
-
+                    #SSML Special char handling
+                    temp_str = temp_str.replace('&','&#38;').replace('<','&#60;').replace('>','&#62;')
                     if not cuisine_type:
                         speech = "We found " + str(
                             temp_str) + "at " + location_name + " location. Have a great time"
