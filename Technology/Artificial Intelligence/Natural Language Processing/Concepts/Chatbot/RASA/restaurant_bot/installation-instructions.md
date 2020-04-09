@@ -18,7 +18,7 @@ Follow sub-steps Below (Type the following commands step by step in the terminal
 `conda update conda`<br> 
 
 **Create the virtual Environment**<br> 
-`conda create -n your_environment_name pyt**n=3.7.5 anaconda`<br> 
+`conda create -n your_environment_name python=3.7.5`<br> 
 (replace your_environment_name with any name you want to give to your virtual environment)<br> 
 (press y to proceed whenever it will be asked for confirmation)<br> 
 
@@ -32,7 +32,7 @@ Install Microsoft Visual C++ Build tools: https://go.microsoft.com/fwlink/?LinkI
 
 ### Step 5 : Install Rasa
 Install Rasa Framework and its dependencies by running the following commands in the virtual environment Command Prompt Shell<br>
-`pip install --upgrade rasa-x==0.20.2 --extra-index-url https://pypi.rasa.com/simple`  <br>
+`pip install --upgrade rasa-x --extra-index-url https://pypi.rasa.com/simple`  <br>
 `pip install rasa[spacy]` <br>
 `python -m spacy download en_core_web_md`  <br> 
 `python -m spacy link en_core_web_md en` <br>
