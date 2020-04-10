@@ -143,10 +143,15 @@ In next phase will add more interesting features which include.
    3. Will make search query more complex by adding date time, distance, establishment etc
    4. Will add table booking options as well using Form policy in Core.
    5. Deployment to Heroku.
-   6. ...
+   6. _More features coming soon_
 
 Please give a star to the repo and add your self to the watcher list so that you don't miss any of our updates.
 Also, get added to our [FB community](https://www.facebook.com/groups/colearninglounge/).
+
+#### Rasa learning resources
+* [AI assistant building using Rasa - Co-learning lounge | YouTube](https://www.youtube.com/playlist?list=PLH0lCpFdVeJsivOaV1UJo-RxapzZ44-Cq)
+* [Rasa master class | YouTube](https://www.youtube.com/watch?v=rlAQWbhwqLA&list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
+* [Rasa docs | Official](https://rasa.com/docs/)
 
 > **This tutorial is intended to be a public resource. As such, if you see any glaring inaccuracies or if a critical topic is missing, please feel free to point it out or (preferably) submit a pull request to improve the tutorial. Also, we are always looking to improve the scope of this article. For anything feel free to mail us @ colearninglounge@gmail.com**
 
