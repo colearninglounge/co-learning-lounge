@@ -107,11 +107,7 @@ Now we have all the ingredients ready to build a chatbot.
 ## Now let’s set up and develop
 
 #### Setup and installation instructions:
-
-* Download and install anaconda: https://docs.anaconda.com/anaconda/install/ 
-* Create a conda virtual environment: https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
-* Install RASA : https://rasa.com/docs/rasa/user-guide/installation/#quick-installation
-and other missing dependency(spacy) : https://rasa.com/docs/rasa/user-guide/installation/#dependencies-for-spacy
+* Please follow the installation instruction mentioned here: [Installation instructions](installation-instructions.md)
 
 Go through this quick RASA tutorial: https://rasa.com/docs/rasa/user-guide/rasa-tutorial/ for quick setup.
 
