@@ -210,14 +210,17 @@
 - i would love to eat [north indian](cuisine) food
 - [italian](cuisine)
 - [chinese](cuisine)
-- thai
+- [thai](cuisine)
 - i will prefer to eat [chinese](cuisine) food
 - i would love to eat [italian](cuisine) food
-- african
-- australian
-- i will prefer australian then
-- i will prefer australian
+- [african](cuisine)
+- [australian](cuisine)
+- i will prefer [australian](cuisine) then
+- i will prefer [australian](cuisine)
 - i want to eat [italian](cuisine) food
+
+## lookup:cuisine
+data/lookup_tables/cuisine.txt
 
 ## intent:telling_location
 - my preffered location will be bengaluru
