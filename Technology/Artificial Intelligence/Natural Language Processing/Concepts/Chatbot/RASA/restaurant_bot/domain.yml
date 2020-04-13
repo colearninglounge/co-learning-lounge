@@ -1,3 +1,6 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
 intents:
 - greet
 - goodbye
@@ -16,10 +19,10 @@ slots:
     type: text
   location:
     type: text
-templates:
+responses:
   utter_greet:
-  - text: Hey!! I can help you to find restaurants based your preferred location and
-      cuisine.
+  - text: Hey!! How are you..?I can help you to find restaurants based on your preferred
+      location and cuisine.
   utter_did_that_help:
   - text: Did that help you?
   utter_assist:
