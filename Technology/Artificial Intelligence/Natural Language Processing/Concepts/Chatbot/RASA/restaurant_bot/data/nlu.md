@@ -218,6 +218,59 @@
 - i will prefer [australian](cuisine) then
 - i will prefer [australian](cuisine)
 - i want to eat [italian](cuisine) food
+- i would like to eat [Egyptian](cuisine)
+- please provide me [Egyptian](cuisine) food
+- my choice will be [Egyptian](cuisine)
+- i would like to eat [Greek](cuisine)
+- please provide me [Greek](cuisine) food
+- my choice will be [Greek](cuisine)
+- i would like to eat [Iranian](cuisine)
+- please provide me [Iranian](cuisine) food
+- my choice will be [Iranian](cuisine)
+- i would like to eat [Maharashtrian](cuisine)
+- please provide me [Maharashtrian](cuisine) food
+- my choice will be [Maharashtrian](cuisine)
+- i would like to eat [Rajasthani](cuisine)
+- please provide me [Rajasthani](cuisine) food
+- my choice will be [Rajasthani](cuisine)
+- i would like to eat [Seafood](cuisine)
+- please provide me [Seafood](cuisine) food
+- my choice will be [Seafood](cuisine)
+- i would like to eat [Street Food](cuisine)
+- please provide me [Street Food](cuisine)
+- my choice will be [Street Food](cuisine)
+- i would like to eat [Rolls](cuisine)
+- please provide me [Rolls](cuisine) food
+- my choice will be [Rolls](cuisine)
+- [Momos](cuisine)
+- [Kebab](cuisine)
+- [salads](cuisine)
+- i would like to eat [Kebab](cuisine)
+- please provide me [Kashmiri](cuisine) food
+- my choice will be [Healthy Food](cuisine)
+- i would like to eat [Momos](cuisine)
+- please provide me [Fusion](cuisine) food
+- my choice will be [Kashmiri](cuisine)
+- i would like to eat [Wraps](cuisine)
+- please provide me [Wraps](cuisine)
+- my choice will be [Wraps](cuisine)
+- i would like to eat [Healthy Food](cuisine)
+- please provide me [Mongolian](cuisine) food
+- my choice will be [Fusion](cuisine)
+- i would like to eat [Odia](cuisine)
+- please provide me [Odia](cuisine) food
+- my choice will be [Momos](cuisine)
+- i would like to eat [Belgian](cuisine)
+- please provide me [Belgian](cuisine) food
+- [pizza](cuisine)
+- [rolls](cuisine)
+- [salads](cuisine)
+- [Juices](cuisine)
+- [Tea](cuisine)
+- my choice will be [Juices](cuisine)
+- i would like to have [Juices](cuisine)
+- my choice will be [Tea](cuisine)
+- i would like to have [Tea](cuisine)
 
 ## lookup:cuisine
 data/lookup_tables/cuisine.txt
@@ -315,3 +368,57 @@ data/lookup_tables/cuisine.txt
 - i am looking to eat some [italian](cuisine) food in chennai
 - i am looking to eat some [italian](cuisine) food in kerala
 - i would love to have [chinese](cuisine) food in chennai
+- i would like to eat [Egyptian](cuisine) in delhi
+- please provide me [Egyptian](cuisine) food in pune
+- my choice will be [Egyptian](cuisine) in hyderabad
+- i would like to eat [Greek](cuisine) in kerala
+- please provide me [Greek](cuisine) food in delhi
+- my choice will be [Greek](cuisine) in bengaluru
+- i would like to eat [Iranian](cuisine) in jaipur
+- please provide me [Iranian](cuisine) food  in hyderabad
+- my choice will be [Iranian](cuisine) in pune
+- i would like to eat [Maharashtrian](cuisine) in kerala
+- please provide me [Maharashtrian](cuisine) food in jaipur
+- my choice will be [Maharashtrian](cuisine)in delhi
+- i would like to eat [Rajasthani](cuisine) in bengaluru
+- please provide me [Rajasthani](cuisine) food in jaipur
+- my choice will be [Rajasthani](cuisine) in kerala
+- i would like to eat [Seafood](cuisine) in pune
+- please provide me [Seafood](cuisine) food in bengaluru
+- my choice will be [Seafood](cuisine) in kerala
+- i would like to eat [Street Food](cuisine) in pune
+- please provide me [Street Food](cuisine) in kerala
+- my choice will be [Street Food](cuisine) in mumbai
+- i would like to eat [Rolls](cuisine) in bengaluru
+- please provide me [Rolls](cuisine) food in mumbai
+- my choice will be [Rolls](cuisine) in bengaluru
+- [Momos](cuisine) in delhi
+- [Kebab](cuisine) in mumbai
+- [salads](cuisine) in pune
+- i would like to eat [Kebab](cuisine) in bengaluru
+- please provide me [Kashmiri](cuisine) food in bhopal
+- my choice will be [Healthy Food](cuisine) in Ranchi
+- i would like to eat [Momos](cuisine) in pune
+- please provide me [Fusion](cuisine) food in bhopal
+- my choice will be [Kashmiri](cuisine) in jaipur
+- i would like to eat [Wraps](cuisine) in mumbai
+- please provide me [Wraps](cuisine) in jaipur
+- my choice will be [Wraps](cuisine) in hyderabad
+- i would like to eat [Healthy Food](cuisine) in bhopal
+- please provide me [Mongolian](cuisine) food in jaipur
+- my choice will be [Fusion](cuisine) in mumbai
+- i would like to eat [Odia](cuisine) in bhopal
+- please provide me [Odia](cuisine) food in hyderabad
+- my choice will be [Momos](cuisine) in mumbai
+- i would like to eat [Belgian](cuisine) in bhopal
+- please provide me [Belgian](cuisine) food in pune
+- [pizza](cuisine) in hyderabad
+- [rolls](cuisine) in mumbai
+- [salads](cuisine) in hyderabad
+- [Juices](cuisine) in pune
+- [Tea](cuisine) in in delhi
+- my choice will be [Juices](cuisine) in hyderabad
+- i would like to have [Juices](cuisine) in bhopal
+- my choice will be [Tea](cuisine) in hyderabad
+- i would like to have [Tea](cuisine) in mumbai
+
