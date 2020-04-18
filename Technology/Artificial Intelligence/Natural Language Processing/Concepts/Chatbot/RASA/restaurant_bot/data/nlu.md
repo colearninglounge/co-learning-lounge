@@ -422,3 +422,60 @@ data/lookup_tables/cuisine.txt
 - my choice will be [Tea](cuisine) in hyderabad
 - i would like to have [Tea](cuisine) in mumbai
 
+## intent:request_restaurant
+- i would like to make a booking
+- can i also book a table
+- booking
+- make a booking
+- please make a booking also
+- book me a table please
+- can you book me a table
+- i want to do a booking
+- reserve me a table
+- i want to reserve a table
+- can you reserve me a table
+- please reserve me a table
+
+## intent:telling_phonenum
+- i would like to book with the contact number [9436864412](phone_num)
+- please book with [1111111111](phone_num)
+- kindly book with [9999999999](phone_num)
+- ya please take it [5555555555](phone_num)
+- write it down it is [3333333333](phone_num)
+- it's [1010653781](phone_num)
+- sure. [9436864412](phone_num)
+- [8700981533](phone_num)
+- yes please note down it is [9436864412](phone_num)
+- yes please note it down it is [9436864412](phone_num)
+- it is [9711236681](phone_num)
+- my contact number will be [8700981613](phone_num)
+- [8826788729](phone_num)
+- use [1123344556](phone_num)
+
+
+## intent:telling_numpeople
+- please book table for [5](num_people) people
+- please book table for [10](num_people) people
+- yes please book table for [2](num_people) people
+- table for [3](num_people) please
+- i would like to book for [ten](num_people) people
+- please book for [five](num_people) guys
+- can i have a table for [two](num_people)
+- book the table for [2](num_people) please
+- [4](num_people) persons
+- [2](num_people)
+- [6](num_people) people
+- book for [8](num_people) persons please
+- please book for [30](num_people) people
+- i want booking for [20](num_people) people
+
+## intent:telling_datetime
+- book for tomorrow 8pm
+- sunday 9pm
+- i am looking for the booking for 20 jan for 6pm
+- book for 30 apr 11am
+- make booking for 10am today
+- book table for today for 7pm
+- tommorow 17 apr by 9 am
+- i will prefer this wednesday at 5pm
+- i would like to make it for tuesday 11am
