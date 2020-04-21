@@ -14,6 +14,7 @@
 - yes it did
 - na
 - its ok
+- yes please
 
 ## intent:deny
 - no
@@ -52,7 +53,15 @@
 - i dont know my location
 - dont know
 - not sure actualy
-- I am at Kukatpally
+- no thanks
+- no its fine
+- no its ok thanks a lot for your help
+- no i dont want to do any booking
+- no booking required
+- fine without booking
+- not required
+- no just wanted to check out
+- no booking please
 
 ## intent:goodbye
 - bye
@@ -67,7 +76,6 @@
 - bye see you soon
 - bbye nice talking to you
 - bye talk to you later
-- bye see you soon
 - bbye talk to you later
 - bye meet you soon
 - bbye meet you soon
@@ -210,14 +218,66 @@
 - i would love to eat [north indian](cuisine) food
 - [italian](cuisine)
 - [chinese](cuisine)
-- thai
+- [thai](cuisine)
 - i will prefer to eat [chinese](cuisine) food
 - i would love to eat [italian](cuisine) food
-- african
-- australian
-- i will prefer australian then
-- i will prefer australian
+- [african](cuisine)
+- [australian](cuisine)
+- i will prefer [australian](cuisine) then
+- i will prefer [australian](cuisine)
 - i want to eat [italian](cuisine) food
+- i would like to eat [Egyptian](cuisine)
+- please provide me [Egyptian](cuisine) food
+- my choice will be [Egyptian](cuisine)
+- i would like to eat [Greek](cuisine)
+- please provide me [Greek](cuisine) food
+- my choice will be [Greek](cuisine)
+- i would like to eat [Iranian](cuisine)
+- please provide me [Iranian](cuisine) food
+- my choice will be [Iranian](cuisine)
+- i would like to eat [Maharashtrian](cuisine)
+- please provide me [Maharashtrian](cuisine) food
+- my choice will be [Maharashtrian](cuisine)
+- i would like to eat [Rajasthani](cuisine)
+- please provide me [Rajasthani](cuisine) food
+- my choice will be [Rajasthani](cuisine)
+- i would like to eat [Seafood](cuisine)
+- please provide me [Seafood](cuisine) food
+- my choice will be [Seafood](cuisine)
+- i would like to eat [Street Food](cuisine)
+- please provide me [Street Food](cuisine)
+- my choice will be [Street Food](cuisine)
+- i would like to eat [Rolls](cuisine)
+- please provide me [Rolls](cuisine) food
+- my choice will be [Rolls](cuisine)
+- [Momos](cuisine)
+- [Kebab](cuisine)
+- [salads](cuisine)
+- i would like to eat [Kebab](cuisine)
+- please provide me [Kashmiri](cuisine) food
+- my choice will be [Healthy Food](cuisine)
+- i would like to eat [Momos](cuisine)
+- please provide me [Fusion](cuisine) food
+- my choice will be [Kashmiri](cuisine)
+- i would like to eat [Wraps](cuisine)
+- please provide me [Wraps](cuisine)
+- my choice will be [Wraps](cuisine)
+- i would like to eat [Healthy Food](cuisine)
+- please provide me [Mongolian](cuisine) food
+- my choice will be [Fusion](cuisine)
+- i would like to eat [Odia](cuisine)
+- please provide me [Odia](cuisine) food
+- my choice will be [Momos](cuisine)
+- i would like to eat [Belgian](cuisine)
+- please provide me [Belgian](cuisine) food
+- [pizza](cuisine)
+- [rolls](cuisine)
+- [Juices](cuisine)
+- [Tea](cuisine)
+- my choice will be [Juices](cuisine)
+- i would like to have [Juices](cuisine)
+- my choice will be [Tea](cuisine)
+- i would like to have [Tea](cuisine)
 
 ## intent:telling_location
 - my preffered location will be bengaluru
@@ -269,6 +329,7 @@
 - i am living in hyderabad
 - I am at Madhapur
 - I am at KPHB
+- yes its hyderabad
 
 ## intent:telling_location_cuisine
 - i am looking for some [chinese](cuisine) food in mumbai
@@ -312,3 +373,124 @@
 - i am looking to eat some [italian](cuisine) food in chennai
 - i am looking to eat some [italian](cuisine) food in kerala
 - i would love to have [chinese](cuisine) food in chennai
+- i would like to eat [Egyptian](cuisine) in delhi
+- please provide me [Egyptian](cuisine) food in pune
+- my choice will be [Egyptian](cuisine) in hyderabad
+- i would like to eat [Greek](cuisine) in kerala
+- please provide me [Greek](cuisine) food in delhi
+- my choice will be [Greek](cuisine) in bengaluru
+- i would like to eat [Iranian](cuisine) in jaipur
+- please provide me [Iranian](cuisine) food  in hyderabad
+- my choice will be [Iranian](cuisine) in pune
+- i would like to eat [Maharashtrian](cuisine) in kerala
+- please provide me [Maharashtrian](cuisine) food in jaipur
+- my choice will be [Maharashtrian](cuisine)in delhi
+- i would like to eat [Rajasthani](cuisine) in bengaluru
+- please provide me [Rajasthani](cuisine) food in jaipur
+- my choice will be [Rajasthani](cuisine) in kerala
+- i would like to eat [Seafood](cuisine) in pune
+- please provide me [Seafood](cuisine) food in bengaluru
+- my choice will be [Seafood](cuisine) in kerala
+- i would like to eat [Street Food](cuisine) in pune
+- please provide me [Street Food](cuisine) in kerala
+- my choice will be [Street Food](cuisine) in mumbai
+- i would like to eat [Rolls](cuisine) in bengaluru
+- please provide me [Rolls](cuisine) food in mumbai
+- my choice will be [Rolls](cuisine) in bengaluru
+- [Momos](cuisine) in delhi
+- [Kebab](cuisine) in mumbai
+- [salads](cuisine) in pune
+- i would like to eat [Kebab](cuisine) in bengaluru
+- please provide me [Kashmiri](cuisine) food in bhopal
+- my choice will be [Healthy Food](cuisine) in Ranchi
+- i would like to eat [Momos](cuisine) in pune
+- please provide me [Fusion](cuisine) food in bhopal
+- my choice will be [Kashmiri](cuisine) in jaipur
+- i would like to eat [Wraps](cuisine) in mumbai
+- please provide me [Wraps](cuisine) in jaipur
+- my choice will be [Wraps](cuisine) in hyderabad
+- i would like to eat [Healthy Food](cuisine) in bhopal
+- please provide me [Mongolian](cuisine) food in jaipur
+- my choice will be [Fusion](cuisine) in mumbai
+- i would like to eat [Odia](cuisine) in bhopal
+- please provide me [Odia](cuisine) food in hyderabad
+- my choice will be [Momos](cuisine) in mumbai
+- i would like to eat [Belgian](cuisine) in bhopal
+- please provide me [Belgian](cuisine) food in pune
+- [pizza](cuisine) in hyderabad
+- [rolls](cuisine) in mumbai
+- [salads](cuisine) in hyderabad
+- [Juices](cuisine) in pune
+- [Tea](cuisine) in in delhi
+- my choice will be [Juices](cuisine) in hyderabad
+- i would like to have [Juices](cuisine) in bhopal
+- my choice will be [Tea](cuisine) in hyderabad
+- i would like to have [Tea](cuisine) in mumbai
+
+## intent:telling_phonenum
+- i would like to book with the contact number [9436864412](phone_num)
+- please book with [1111111111](phone_num)
+- kindly book with [9999999999](phone_num)
+- ya please take it [5555555555](phone_num)
+- write it down it is [3333333333](phone_num)
+- it's [1010653781](phone_num)
+- sure. [9436864412](phone_num)
+- [8700981533](phone_num)
+- yes please note down it is [9436864412](phone_num)
+- yes please note it down it is [9436864412](phone_num)
+- it is [9711236681](phone_num)
+- my contact number will be [8700981613](phone_num)
+- [8826788729](phone_num)
+- use [1123344556](phone_num)
+- book with [3412367841](phone_num)
+- save it as [8826799364](phone_num)
+- its [7565433221](phone_num)
+
+## intent:telling_numpeople
+- please book table for [5](num_people) people
+- please book table for [10](num_people) people
+- yes please book table for [2](num_people) people
+- table for [3](num_people) please
+- i would like to book for [ten](num_people) people
+- please book for [five](num_people) guys
+- can i have a table for [two](num_people)
+- book the table for [2](num_people) please
+- [4](num_people) persons
+- [2](num_people)
+- [6](num_people) people
+- book for [8](num_people) persons please
+- please book for [30](num_people) people
+- i want booking for [20](num_people) people
+- it is [6](num_people) people
+- [15](num_people) people are coming
+- there are [10](num_people) guests
+- number of guests are [5](num_people)
+- group of [20](num_people) person is coming
+- there will be [10](num_people) people
+- book for [7](num_people) person
+- only [2](num_people) people
+- number of person will be [6](num_people)
+- it's [9](num_people) people
+- it is [12](num_people) person
+
+## intent:telling_datetime
+- book for tomorrow 8pm
+- sunday 9pm
+- i am looking for the booking for 20 jan for 6pm
+- book for 30 apr 11am
+- make booking for 10am today
+- book table for today for 7pm
+- tommorow 17 apr by 9 am
+- i will prefer this wednesday at 5pm
+- i would like to make it for tuesday 11am
+- my visit will be for tuesday around 8pm
+- date and time will be for monday 7pm
+- i will come on thursday at 5pm
+- confirm it for tomorrow at 4pm
+- it is for 22 april around 11 am
+- 25 april 6pm
+- please book for today 7pm
+- confirm it for 2 april around 11am
+
+## lookup:cuisine.txt
+  data/lookup_tables/cuisine.txt
