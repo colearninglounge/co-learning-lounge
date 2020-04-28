@@ -33,7 +33,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
-- [locus.sh](https://locus.sh/careers/)
+- [locus.sh](https://locus.freshteam.com/jobs)
 
 ## FinTech
 - [rubique](https://www.rubique.com/career)
