@@ -20,6 +20,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [vernacular.ai](https://angel.co/company/vernacular-ai/jobs)
 - [saarthi.ai](https://angel.co/company/saarthi-ai/jobs)
 - [boost.ai](https://www.boost.ai/career)
+- [Ori](https://angel.co/company/ori-2/jobs)
+
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
 - [doxper](http://www.doxper.com/)
