@@ -13,7 +13,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [zymergen](https://www.zymergen.com/careers/)
 - [kore.ai](https://kore.ai/careers/)
 - [rasa](https://rasa.com/careers/#jobs)
-- [active.a](https://active.ai/careers/)
+- [active.ai](https://active.ai/careers/)
 - [nuacem](https://nuacem.com/careers)
 - [Smartbots.ai](https://www.smartbots.ai/careers/)
 - [IMIMobile](https://imimobile.com/careers)
