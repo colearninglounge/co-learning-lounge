@@ -21,6 +21,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [saarthi.ai](https://angel.co/company/saarthi-ai/jobs)
 - [boost.ai](https://www.boost.ai/career)
 - [Ori](https://angel.co/company/ori-2/jobs)
+- [floatbot.ai](https://angel.co/company/floatbot-ai-1/jobs)
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
