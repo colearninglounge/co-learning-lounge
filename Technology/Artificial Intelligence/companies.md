@@ -219,6 +219,9 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [mroads](https://www.mroads.com/#/careers)
 - [inFeedo](https://jobs.infeedo.com/)
 
+## VoiceTech
+- [speechmatics](https://www.speechmatics.com/about-us/careers/available-roles/)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
