@@ -234,3 +234,4 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [lumiq.ai](https://lumiq.freshteam.com/jobs)
 - [Pramati](https://www.pramati.com/careers/)
 - [Gramener](https://gramener.com/careers/)
+- [IHS Markit](https://careers.ihsmarkit.com/search.php)
