@@ -8,9 +8,9 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
     ![Support Us](github.gif)<br>
 ✅    Update the missing company name here 👉 [AI companies](companies.md) <br>
 ✅    Subscribe to our YouTube channel and join our community. <br>
-    <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="50" alt="YouTube"></a> | 
-    <a href="https://bit.ly/CLL_TG"> <img src="telegram.png" height="50" width="50" alt="Telegram"></a> | 
-    <a href="https://bit.ly/CLL_FBG"> <img src="facebook.png" height="50" width="50" alt="Facebook"></a>  <br> <br>
+    <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="150" alt="YouTube"></a> 
+    <a href="https://bit.ly/CLL_TG"> <img src="telegram.png" height="50" width="50" alt="Telegram"></a>
+    <a href="https://bit.ly/CLL_FBG"> <img src="facebook.png" height="50" width="120" alt="Facebook"></a>  <br> <br>
 ***All the best for your job hunting 👍***
  ## Computer Vision
  ### [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
