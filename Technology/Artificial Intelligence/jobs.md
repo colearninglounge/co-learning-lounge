@@ -1,18 +1,17 @@
 # Active AI jobs 
-###### _Last updated on {timeStamp}_
+###### _Last updated on 2020-05-23 17:42:45_
 
 Welcome to the [**Co-learning Lounge**](colearninglounge.com). This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
 
-#### Support our initiatives so that we can help you better, <br>
-    ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
+#### Support Us <br>
+✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
     ![Support Us](github.gif)<br>
-    ✅    Update the missing company name here 👉 [AI companies](companies.md) <br>
-    ✅    Subscribe to our YouTube channel and join our community. <br>
+✅    Update the missing company name here 👉 [AI companies](companies.md) <br>
+✅    Subscribe to our YouTube channel and join our community. <br>
     <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="50" alt="YouTube"></a> | 
     <a href="https://bit.ly/CLL_TG"> <img src="telegram.png" height="50" width="50" alt="Telegram"></a> | 
     <a href="https://bit.ly/CLL_FBG"> <img src="facebook.png" height="50" width="50" alt="Facebook"></a>  <br> <br>
 ***All the best for your job hunting 👍***
-
  ## Computer Vision
  ### [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
  - [Algorithm Engineer (AI, ML, Image Processing, Machine Vision, Computer Vision)](https://careers.kla-tencor.com/jobs/4606453-algorithm-engineer-ai-ml-image-processing-machine-vision-computer-vision), _Ann Arbor, MI_
@@ -107,5 +106,5 @@ Welcome to the [**Co-learning Lounge**](colearninglounge.com). This page contain
 #### Contributors
 [Rajasekhar Reddy Kaluri](linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](linkedin.com/in/manoj-biroj),[Jagadeesh Kambampati](linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
 
-Want to contribute? <br>
+Want to contribute?  <br>
 Check this. 
