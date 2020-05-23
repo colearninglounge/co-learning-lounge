@@ -1,5 +1,5 @@
 # Active AI jobs 
-###### _Last updated on 2020-05-23 17:42:45_
+###### _Last updated on 2020-05-23 17:44:08_
 
 Welcome to the [**Co-learning Lounge**](colearninglounge.com). This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
 
@@ -106,5 +106,5 @@ Welcome to the [**Co-learning Lounge**](colearninglounge.com). This page contain
 #### Contributors
 [Rajasekhar Reddy Kaluri](linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](linkedin.com/in/manoj-biroj),[Jagadeesh Kambampati](linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
 
-Want to contribute?  <br>
-Check this. 
+#### Want to contribute?  <br>
+[Check this](jobs.md#support-us-) 
