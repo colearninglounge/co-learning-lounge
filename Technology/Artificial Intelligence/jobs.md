@@ -1,9 +1,13 @@
 # Active AI jobs 
-###### _Last updated on 2020-05-23 16:41:03_
+###### _Last updated on 2020-05-23 16:43:41_
 
 Welcome to the **Co-learning lounge**. This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
 
-Support our initiatives so that we can help you better, 	 1. Give a star to the repo and add yourself to the watch list to never miss any update. 	 2. Update the missing company name here 👉 [AI companies](companies.md) 	 3. Subscribe to our YouTube channel and join our community. 
+Support our initiatives so that we can help you better, &nbsp;
+	 1.    Give a star to the repo and add yourself to the watch list to never miss any update. &nbsp;
+	 2.    Update the missing company name here 👉 [AI companies](companies.md) &nbsp;
+	 3.    Subscribe to our YouTube channel and join our community. &nbsp;
+
 ***All the best for your job hunting 👍***
  ## Computer Vision
  ### [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
@@ -99,5 +103,5 @@ Support our initiatives so that we can help you better, 	 1. Give a star to the 
 #### Contributor's
 [Rajasekhar Reddy Kaluri](linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](linkedin.com/in/manoj-biroj),[Jagadeesh Kambampati](linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
 
-Want to contribute?
-Check this. 
+Want to contribute?  &nbsp;
+Check this.
