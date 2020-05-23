@@ -1,7 +1,7 @@
 # Active AI jobs 
 ###### _Last updated on 2020-05-23 17:44:08_
 
-Welcome to the [**Co-learning Lounge**](colearninglounge.com). This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
+Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
 
 #### Support Us <br>
 ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
