@@ -5,7 +5,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
 
 #### Support Us <br>
 ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
-    <a> <img src="CLL_Git_Star_watch.gif" height="400" width="400" alt="Support Us"></a> 
+    ![Support Us](CLL_Git_Star_watch.gif)<br>
 ✅    Update the missing company name here 👉 [AI companies](companies.md) <br>
 ✅    Subscribe to our YouTube channel and join our community. <br>
     <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="150" alt="YouTube"></a> 
