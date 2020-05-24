@@ -104,7 +104,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Computer Vision Researcher](https://jobs.lever.co/vicarious/7c3b3cd6-8552-43c2-b89f-8a410fd2684a)
  
 #### Contributors
-[Rajasekhar Reddy Kaluri](linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](linkedin.com/in/manoj-biroj),[Jagadeesh Kambampati](linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
+[Rajasekhar Reddy Kaluri](linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](linkedin.com/in/manoj-biroj),[Jagadeesh Chandra Kambampati](linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
 
 #### Want to contribute?  <br>
 [Check this](jobs.md#support-us-) 
