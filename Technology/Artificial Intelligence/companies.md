@@ -9,7 +9,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ### Help us curating the list : <br>
 ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
     ![Support Us](CLL_Git_Star_watch.gif)<br>
-✅    Update the missing company name in the below format, Make sure to add under relevent **Domain** else add it to **Others** <br>
+✅    Update the missing company name in the below format, Make sure to add under relevent **Domain** else add it to [**Others**](./companies.md#others) <br>
      `[Company Name](Company's Career page URL)` <br>
 ✅    Subscribe to our YouTube channel and join our community. <br>
     <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="150" alt="YouTube"></a> 
