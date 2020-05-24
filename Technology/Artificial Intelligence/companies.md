@@ -6,7 +6,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 > This is curated list of AI companies sorted based on industry.
 
-#### Help us curating the list <br>
+### Help us curating the list : <br>
 ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
     ![Support Us](CLL_Git_Star_watch.gif)<br>
 ✅    Update the missing company name in the below format, Make sure to add under relevent **Domain** else add it to **Others** <br>
