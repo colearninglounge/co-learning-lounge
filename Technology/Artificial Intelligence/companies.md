@@ -4,6 +4,19 @@
 
 From Google and Amazon to Apple and Microsoft, every major tech company is dedicating resources to breakthroughs in artificial intelligence. This list has been curated based on the sector/market in which the company plays and the opportunities that it can leverage in that market.
 
+> This is curated list of AI companies sorted based on industry.
+
+#### Help us curating the list <br>
+✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
+    ![Support Us](CLL_Git_Star_watch.gif)<br>
+✅    Update the missing company name in the below format, Make sure to add under relevent **Domain** else add it to **Others** <br>
+     `[Company Name](Company's Career page URL)` <br>
+✅    Subscribe to our YouTube channel and join our community. <br>
+    <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="150" alt="YouTube"></a> 
+    <a href="https://bit.ly/CLL_TG"> <img src="telegram.png" height="50" width="50" alt="Telegram"></a>
+    <a href="https://bit.ly/CLL_FBG"> <img src="facebook.png" height="50" width="100" alt="Facebook"></a>  <br> <br>
+***All the best for your job hunting 👍***
+
 ## Conversational AI
 - [haptik.ai](https://haptik.ai/careers/)
 - [avaamo](https://avaamo.ai/careers/)
