@@ -71,7 +71,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ### [nauto](https://www.nauto.com/jobs_list)
  - [Senior Backend Engineer - AI Platforms](http://www.nauto.com/jobs?gh_jid=2160314), _Palo Alto, CA_
  - [Sr Machine Learning Infrastructure Engineer](http://www.nauto.com/jobs?gh_jid=1767584), _Palo Alto, CA_
- ## Conversational Ai
+ ## Conversational AI
  ### [boost.ai](https://web106.reachmee.com/ext/I002/1350/main?site=6&validator=21304e4cfc10bf6957ad60fe5e4eba40&lang=UK&ref=https%3a%2f%2fwww.boost.ai%2f&ihelper=https://www.boost.ai/career/)
  - [US AI Trainer](https://web106.reachmee.com/ext/I002/1350/job?site=6&lang=UK&validator=21304e4cfc10bf6957ad60fe5e4eba40&ref=https%3A%2F%2Fwww.boost.ai%2F&ihelper=https%3A%2F%2Fwww.boost.ai%2Fcareer%2F&job_id=47), _Stavanger_
  - [AI Trainer (open for all languages)](https://web106.reachmee.com/ext/I002/1350/job?site=6&lang=UK&validator=21304e4cfc10bf6957ad60fe5e4eba40&ref=https%3A%2F%2Fwww.boost.ai%2F&ihelper=https%3A%2F%2Fwww.boost.ai%2Fcareer%2F&job_id=24), _Stavanger_
@@ -97,7 +97,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Software Engineer - Voice AI (C/C++)](https://boards.greenhouse.io/soundhoundinc/jobs/4190756002), _Paris, France_
  - [Sr Software Engineer (C/C++) - Voice AI](https://boards.greenhouse.io/soundhoundinc/jobs/4523925002), _Berlin, Germany_
  - [Sr. Software Engineer - Voice AI (C/C++)](https://boards.greenhouse.io/soundhoundinc/jobs/4248218002), _Paris, France_
- ## Healthcarebiotech
+ ## Healthcare/Biotech
  ### [Zebra medical vision](https://www.zebra-med.com/careers)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager/all)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
@@ -143,7 +143,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Computer Vision/Machine Learning Researcher](https://jobs.lever.co/vicarious/d96c996a-8ed6-4abf-8f1c-0775e60bfc54)
  
 #### Contributors
-[Rajasekhar Reddy Kaluri](https://www.linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](https://www.linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](https://www.linkedin.com/in/manoj-biroj), [Jagadeesh Kambampati](https://www.linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](https://www.linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
+[Rajasekhar Reddy Kaluri](https://www.linkedin.com/in/raja-sekhara-reddy-kaluri-a8b7aa8b),[Vinod Kumar Mukku](https://www.linkedin.com/in/vinod-kumar-mukku-76a124121), [Manoj Biroj](https://www.linkedin.com/in/manoj-biroj), [Jagadeesh Chandra Kambampati](https://www.linkedin.com/in/jagadeesh-chandra-kambampati-99763a7a), [Sita Rama Rao](https://www.linkedin.com/in/venuturumilli-s-v-s-sita-rama-rao/) has worked on this project.
 
 #### Want to contribute?  <br>
 [Check this](jobs.md#support-us-) 
