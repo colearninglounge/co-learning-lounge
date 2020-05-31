@@ -55,7 +55,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Algorithm Engineer - Image Processing & AI/ML](https://careers.kla-tencor.com/jobs/3535453-algorithm-engineer-image-processing-and-ai-slash-ml), _Ann Arbor, MI_
  - [Senior Data Engineer - Cloud Data warehouse](https://careers.kla-tencor.com/jobs/3327502-senior-data-engineer-cloud-data-warehouse), _Chennai_
  - [Image Processing & Machine Learning Researcher](https://careers.kla-tencor.com/jobs/2371992-image-processing-and-machine-learning-researcher), _Milpitas, CA_
- ### [abto software](https://careers.abtosoftware.com/?s=&vacancy-department=)
+  ### [abto software](https://careers.abtosoftware.com/?s=&vacancy-department=)
  - [CV&AI Technical Lead](https://careers.abtosoftware.com/vacancy/cv-ai-technical-lead/), _Lviv, UA_
  ### [clarifai](https://www.clarifai.com/careers)
  - [Senior Research Scientist/Data Scientist, Machine Learning](https://boards.greenhouse.io/clarifai/jobs/2140970?gh_jid=2140970), _DC_
@@ -104,6 +104,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Healthcare/Biotech
  ### [Zebra medical vision](https://www.zebra-med.com/careers)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager/all)
+ - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher/all)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
