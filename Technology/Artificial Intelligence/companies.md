@@ -131,7 +131,6 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Honda Research](http://www.hondaresearch.com/job-opportunities.php)
 - [Image Metrics](http://image-metrics.com/company/#careers)
 - [Graftek Imaging](https://www.graftek.biz/contact)
-- [NVIDIA](http://careers.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/index.jsp)
 - [Microscan](http://www.microscan.com/en-us/aboutus/CareerOpportunities.aspx)
 - [DAQRI](http://daqri.com/careers/)
 - [kairos](https://www.kairos.com/about)
@@ -168,7 +167,6 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [oculus](https://www.oculus.com/careers/)
 - [flir](https://www.flir.com/about/careers/)
 - [Vicator](http://www.vicator.com/)
-- [image metrics](http://image-metrics.com/company/#careers)
 - [Nine Point Medical](http://www.ninepointmedical.com/careers-2/)
 - [Sony ](http://www.playstationjobs.co.uk/vacancy/437-Computer-Vision-Researcher-%28Gaming-interfaces%29&page=1)
 - [Skin Analytics](https://skin-analytics.com/contact-us/)
@@ -195,7 +193,6 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [tusimple](https://www.tusimple.com/careers/)
 - [pyimagejobs](http://jobs.pyimagesearch.com/ref/3/)
 - [Ignitarium](https://ignitarium.com/careers.php)
-- [Artivatic](https://artivatic.ai/career)
 - [Wobot Intelligence](http://www.wobot.ai/careers)
 
 ## Legal
