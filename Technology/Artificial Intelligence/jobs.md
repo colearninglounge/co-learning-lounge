@@ -126,6 +126,15 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Senior Data & Machine Learning Scientist](https://boards.greenhouse.io/tempus/jobs/4262223002), _Chicago_
  - [Senior Data Scientist - Cardiology](https://boards.greenhouse.io/tempus/jobs/4703080002), _Bay Area, CA_
  - [Senior Machine Learning Scientist - Bay Area, CA](https://boards.greenhouse.io/tempus/jobs/4262218002), _Bay Area_
+ 
+ ## Neural Search
+ ### [Jina AI](https://jina.ai)
+ - [Senior AI Engineer](https://github.com/jina-ai/career/blob/master/ai-engineer.md), _Belin, Germany_
+ - [Full-Stack Engineer](https://github.com/jina-ai/career/blob/master/full-stack-engineer.md), _Belin, Germany_
+ - [Open Source Evangelist](https://github.com/jina-ai/career/blob/master/opensource-evangelist.md), _Belin, Germany_
+ - [AI Product Manager](https://github.com/jina-ai/career/blob/master/ai-product-manager.md), _Belin, Germany_
+
+ 
  ## Others
  ### [Gramener](https://gramener.com/careers/#?show=all)
  - [Lead Data Scientist - Machine Learning](https://gramener.com/job/?id=90512), _Hyderabad, Bangalore_
