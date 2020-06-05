@@ -194,6 +194,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [pyimagejobs](http://jobs.pyimagesearch.com/ref/3/)
 - [Ignitarium](https://ignitarium.com/careers.php)
 - [Wobot Intelligence](http://www.wobot.ai/careers)
+- [streamingo.ai](https://angel.co/company/streamingo-solutions-1/jobs)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
