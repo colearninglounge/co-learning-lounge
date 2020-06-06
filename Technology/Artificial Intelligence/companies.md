@@ -84,7 +84,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
-- [nauto](https://www.nauto.com/jobs_list)
+- [nauto](https://www.nauto.com/jobs)
 - [clmtec](http://www.cimtecimaging.com/contact)
 - [ikomed](http://www.ikomed.com/careers/)
 - [algolux](https://algolux.com/careers/)
