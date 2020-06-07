@@ -40,7 +40,7 @@ death of 1502 out of 2224 passengers. Analysis shows that while some amount of l
 involved, some passengers were more likely to survive than others. Train a machine learning 
 model to predict what sort of people were likely to survive.*
 
-**2. [Credit card fraud detection (Intermediate)](https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card)**
+**2. [Credit card fraud detection (Intermediate)](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
 
 *It is important that credit card companies are able to recognize fraudulent credit card 
 transactions so that customers are not charged for items that they did not purchase. Make 
