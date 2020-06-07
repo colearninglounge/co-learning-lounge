@@ -33,20 +33,20 @@ loops, lists, tuples, dictionary, functions.*
 Problems to be undertaken:-
 
 
-**1. [Titanic dataset (Beginner)]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic))**
+**1. [Titanic dataset (Beginner)](https://www.kaggle.com/c/titanic)**
 
 *Titanic is one of the most infamous disaster in recent human history which resulted in the 
 death of 1502 out of 2224 passengers. Analysis shows that while some amount of luck was 
 involved, some passengers were more likely to survive than others. Train a machine learning 
 model to predict what sort of people were likely to survive.*
 
-**2. [Credit card fraud detection (Intermediate)]([https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card](https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card))**
+**2. [Credit card fraud detection (Intermediate)](https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card)**
 
 *It is important that credit card companies are able to recognize fraudulent credit card 
 transactions so that customers are not charged for items that they did not purchase. Make 
 your machine learning model learn to detect these anomalous transactions*
 
-**3. [Santander’s Customer Satisfaction (Advanced)]([https://www.kaggle.com/c/santander-customer-satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction))**
+**3. [Santander’s Customer Satisfaction (Advanced)](https://www.kaggle.com/c/santander-customer-satisfaction)**
 
 *From frontline support teams to C-suites, customer satisfaction is a key measure of success. 
 Unhappy customers don't stick around. Work with hundreds of anonymous features to 
