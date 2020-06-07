@@ -169,7 +169,7 @@ While applying, do let us know:-
    2. **What are your expectations from this course?**
 
 # <div align="center">Training period fee - ₹ 2999/- per person</div>
--  Course starts on **15th June 2020 till completion of the challange OR 15th July 2020**. Whichever comes first.
+-  Course starts on **20th June 2020 till completion of the challange OR 25th July 2020**. Whichever comes first.
 -  To maintain the quality of learning **maximum 12 person** in batch is allowed.
 - Last day to apply is **15th June 2020**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
