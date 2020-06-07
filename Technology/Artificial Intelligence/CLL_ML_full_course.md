@@ -3,12 +3,12 @@
   <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
 </p>
 
-Thanks for showing interest in taking part in our Co-learning activity. We assure you full of learning by solving some problems. To get into the Data Science field, the first and the last thing you need is the portfolio where you have solved a problem using data science. Ask any good Data Scientist and they will tell you the same.
+Thanks for showing interest in taking part in our Co-learning activity. We assure you the journey full of learning by solving some problems. To get into the Data Science field, the first and the last thing you need is the portfolio where you have solved a problem using data science. Ask any good Data Scientist and they will tell you the same.
 
 #### <div align="center">“Let’s put theory into practice”</div>
   
 
-In this activity, we will solve old Kaggle problems to enable you to ongoing Kaggle competitions.
+In this activity, we will solve old Kaggle problems to enable you to participate in ongoing Kaggle competitions.
 
 #### **Why Old Kaggle problems?**
 Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
@@ -141,7 +141,7 @@ Develop an intuition to streamline the parameter optimization process.
 -  You’ll be guided throughout the process by our mentors through daily status checks.
 -  You’ll get to submit your work on Kaggle as a notebook.
 -  You’ll be building a strong LinkedIn profile visible to recruiters.
--  You will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested) 
+-  We will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested) 
 
 ## <div align="center"><ins>Post - course benefits</ins></div>
 
@@ -161,7 +161,8 @@ Develop an intuition to streamline the parameter optimization process.
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you feel you are qualified and are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins>.
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Kaggle based project learning*"
+
 While applying, do let us know:-
 
    1. **Why do you want to join this course?**
