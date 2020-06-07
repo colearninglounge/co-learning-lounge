@@ -1,8 +1,10 @@
-![co-learning%20lounge.jpg](attachment:co-learning%20lounge.jpg)
+<p align="center">
+  <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
+</p>
 
-# <center>Course Outline</center>
+# <div align="center">Course Outline</div>
 
-## <span style="color:rgb(13, 123, 233)"><ins>Python brush up with ML concepts and libraries 3 hours(optional)</ins></span>
+## <div align="center"><ins>Python brush up with ML concepts and libraries 3 hours(optional)</ins></div>
 
 *A brief summary on basic concepts of python syntax, data types and in built data structures such as 
 loops, lists, tuples, dictionary, functions.*
@@ -39,7 +41,7 @@ your machine learning model learn to detect these anomalous transactions*
 Unhappy customers don't stick around. Work with hundreds of anonymous features to 
 predict if a customer is happy with the transaction.*
 
-## <span style="color:rgb(13, 123, 233)"><ins>Exploratory Data Analysis Syllabus- 6-8 hours</ins></span>
+## <div align="center"><ins>Exploratory Data Analysis Syllabus- 6-8 hours</ins></div>
 
 *To delve into machine learning, the first step is to identify and analyze our dataset in order to ascertain 
 different patterns, detect missing values and anomalies and identify different characteristics of our 
@@ -59,7 +61,7 @@ Understand the different approaches to implement Exploratory Data Analysis such 
 10. Correlation Analysis.
 11. Dimensionality Reduction.
 
-## <span style="color:rgb(13, 123, 233)"><ins>Dataset split- 1 hour</ins></span>
+## <div align="center"><ins>Dataset split- 1 hour</ins></div>
 
 *It is a common practice in machine learning to split data into training, testing and validation set 
 allowing us to calibrate our model and test it’s performance on unseen data*
@@ -70,7 +72,7 @@ Learn the concepts and significance of data splitting in model development.
 2. Test
 3. Validation (different types) 
 
-## <span style="color:rgb(13, 123, 233)"><ins>ML Algorithms - 8-10 hours</ins></span>
+## <div align="center"><ins>ML Algorithms - 8-10 hours</ins></div>
 
 *Understanding the theoretical and mathematical of machine learning algorithms is the crux of 
 developing accurate predictive models. Different machine learning algorithms are suited for different 
@@ -91,7 +93,7 @@ Delve into the intricacies of the mathematics and mechanism of the functioning o
 2. **Unsupervised learning**
     - KNN
 
-## <span style="color:rgb(13, 123, 233)"><ins>Evaluation metrics- 3-4 hours</ins></span>
+## <div align="center"><ins>Evaluation metrics- 3-4 hours</ins></div>
 
 *A developed model needs to be evaluated for it’s performance before being actually deployed 
 in real time environment.*
@@ -108,7 +110,7 @@ Learn the concepts to measure the performance of model based on several metrics.
 7. Root Mean Square Error
 8. Cross Validation
 
-## <span style="color:rgb(13, 123, 233)"><ins>Hyperparameter tuning</ins></span>
+## <div align="center"><ins>Hyperparameter tuning</ins></div>
 
 *Once a machine learning algorithm has been identified, it is imperative to choose an optimal set of 
 parameters to tune the model to better fit the data. Such parameters can’t be learn’t during the 
@@ -116,7 +118,7 @@ training process and thus requires an expertise for model tuning.*
 
 Develop an intuition to streamline the parameter optimization process.
 
-## <span style="color:rgb(13, 123, 233)"><ins>What will you get out of this course?</ins></span>
+## <div align="center"><ins>What will you get out of this course?</ins></div>
 
 -  You’ll get to understand the entire machine learning pipeline.
 
@@ -150,7 +152,7 @@ Develop an intuition to streamline the parameter optimization process.
 
 -  You’ll be building a strong LinkedIn profile visible to recruiters.
 
-## <span style="color:rgb(13, 123, 233)"><ins>Post - course benefits</ins></span>
+## <div align="center"><ins>Post - course benefits</ins></div>
 
 -  Get your Resume and GitHub reviewed by experts.
 
@@ -166,7 +168,7 @@ Develop an intuition to streamline the parameter optimization process.
 
 - You will be eligible for intermediate and advance concepts in the same series.
 
-## <span style="color:rgb(13, 123, 233)"><ins>Rules and Regulations</ins></span>
+## <div align="center"><ins>Rules and Regulations</ins></div>
 
 - Since the course time-lines are fixed, you will have to submit the assigned learning module and work within a given time.
 
@@ -179,7 +181,7 @@ Develop an intuition to streamline the parameter optimization process.
 
 -  This course does not provide any certificate. Only certificate won't give you a job. Knowledge and projects will. That is what we primarily focus on.
 
-## <span style="color:rgb(13, 123, 233)"><ins>How to apply?</ins></span>
+## <div align="center"><ins>How to apply?</ins></div>
 
 If you feel you are qualified and are up for the challenge, please send your profile (Resume, LinkedIn, 
 GitHub) to <ins>**colearninglounge@gmail.com**</ins>.
@@ -191,10 +193,10 @@ While applying, do let us know:-
    
    2. **What are your expectations from this course?**
 
-# <center><span style="color:rgb(13, 123, 233)">Training period fee - ₹ 2999/- per person</span></center>
+# <div align="center">Training period fee - ₹ 2999/- per person</div>
 
-## <span style="color:rgb(13, 123, 233)"><ins>Scholarship opportunity</ins></span>
+## <div align="center"><ins>Scholarship opportunity</ins></div>
 
 During the span of the course, if you help us in creating content (learning material) for the course, then based on your contribution we will return the fees.
 
-#### <center>It's our sole decision about contribution and reward.</center>
+#### <div align="center">It's our sole decision about contribution and reward.</div>
