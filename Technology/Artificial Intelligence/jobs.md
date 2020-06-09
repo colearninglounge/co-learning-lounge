@@ -102,6 +102,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Healthcare/Biotech
  ### [Zebra medical vision](https://www.zebra-med.com/careers)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager/all)
+ - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher/all)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
