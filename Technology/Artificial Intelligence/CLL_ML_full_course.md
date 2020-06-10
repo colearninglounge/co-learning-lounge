@@ -141,12 +141,14 @@ Develop an intuition to streamline the parameter optimization process.
 -  You’ll be guided throughout the process by our mentors through daily status checks.
 -  You’ll get to submit your work on Kaggle as a notebook.
 -  You’ll be building a strong LinkedIn profile visible to recruiters.
--  We will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested) 
+-  We will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested)
+-  This course should give enough confidence to solve the ML/DL assignments given by company's for the ML role.
 
 ## <div align="center"><ins>Post - course benefits</ins></div>
 
 -  Get your Resume and GitHub reviewed by experts.
 -  Once you have undertaken and completed the course, you will get full-fledged support from our mentors from the community for any technical help, guidance, etc.
+- As most of the company prefer giving assignment to the candidate for ML role, we can help you to mentor for same.
 - As we have mentored and we know your skills and achievement, we will refer you for any AI/ML job which fits your profile.
 - As we know LinkedIn is the platform to catch recruiters' attention, we will shout out your achievements, help to boost your work on LinkedIn to get visibility.
 - You will be eligible for intermediate and advance concepts in the same series.
