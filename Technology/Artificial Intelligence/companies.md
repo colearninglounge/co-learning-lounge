@@ -46,6 +46,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Zebra medical vision](https://www.zebra-med.com/careers)
 - [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
 - [Episource LLC](https://www.episource.com/careers/)
+- [CitiusTech](https://citiustech.applytojob.com/)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
@@ -193,6 +194,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [pyimagejobs](http://jobs.pyimagesearch.com/ref/3/)
 - [Ignitarium](https://ignitarium.com/careers.php)
 - [Wobot Intelligence](http://www.wobot.ai/careers)
+- [streamingo.ai](https://angel.co/company/streamingo-solutions-1/jobs)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)

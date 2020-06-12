@@ -1,5 +1,9 @@
 # Active AI jobs 
+<<<<<<< HEAD
 ###### _Last updated on 2020-05-30 08:10:04_
+=======
+###### _Last updated on 2020-06-06 09:17:24_
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
 
 Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page contains active AI jobs scrapped from the career page of [curated AI companies](companies.md) by our community so that you don't have to go anywhere on the internet to hunt for jobs. As it is frustrating to visit so many websites frequently and end up getting an outdated job. We VALUE your TIME hence we do that FOR YOU so that you FOCUS on applying for a job not searching for it.
 
@@ -18,7 +22,10 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Computer Vision
  ### [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
  - [Data Engineer 1](https://careers.kla-tencor.com/jobs/5260698-data-engineer-1), _Ann Arbor, MI_
+<<<<<<< HEAD
  - [Business Analyst](https://careers.kla-tencor.com/jobs/5260397-business-analyst), _Milpitas, CA_
+=======
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  - [AI/Algo/SW- Intern](https://careers.kla-tencor.com/jobs/5244443-ai-slash-algo-slash-sw-intern), _Ann Arbor, MI_
  - [AI/Algo/SW- FTE/NCG](https://careers.kla-tencor.com/jobs/5244442-ai-slash-algo-slash-sw-fte-slash-ncg), _Ann Arbor, MI_
  - [Technical Program Manager - AI, SW and Physics](https://careers.kla-tencor.com/jobs/5240595-technical-program-manager-ai-sw-and-physics), _Ann Arbor, MI_
@@ -34,33 +41,46 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [AI Software Engineer](https://careers.kla-tencor.com/jobs/5063233-ai-software-engineer), _Ann Arbor, MI_
  - [AI Engineer](https://careers.kla-tencor.com/jobs/5049060-ai-engineer), _Leuven_
  - [Associate Financial Analyst](https://careers.kla-tencor.com/jobs/4983684-associate-financial-analyst), _Milpitas, CA_
- - [Photophysics Research Engineer](https://careers.kla-tencor.com/jobs/4757387-photophysics-research-engineer), _Singapore_
  - [Senior ML Algorithm Engineer](https://careers.kla-tencor.com/jobs/4745473-senior-ml-algorithm-engineer), _Ann Arbor, MI_
  - [Senior AI Software Engineer](https://careers.kla-tencor.com/jobs/4744789-senior-ai-software-engineer), _Ann Arbor, MI_
- - [Financial Analyst](https://careers.kla-tencor.com/jobs/4735300-financial-analyst), _Milpitas, CA_
  - [Financial Analyst](https://careers.kla-tencor.com/jobs/4669626-financial-analyst), _Ann Arbor, MI_
  - [Algorithm Engineer  (AI, ML, Image Processing, Machine Vision, Computer Vision)](https://careers.kla-tencor.com/jobs/4606454-algorithm-engineer-ai-ml-image-processing-machine-vision-computer-vision), _Ann Arbor, MI_
  - [Algorithm Engineer (AI, ML, Image Processing, Machine Vision, Computer Vision)](https://careers.kla-tencor.com/jobs/4606453-algorithm-engineer-ai-ml-image-processing-machine-vision-computer-vision), _Ann Arbor, MI_
+<<<<<<< HEAD
  - [AI Algorithms Engineer](https://careers.kla-tencor.com/jobs/4591361-ai-algorithms-engineer), _Ann Arbor, MI_
+=======
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  - [ML Algorithm Engineer](https://careers.kla-tencor.com/jobs/4591358-ml-algorithm-engineer), _Ann Arbor, MI_
  - [ML Algorithm Engineer](https://careers.kla-tencor.com/jobs/4591357-ml-algorithm-engineer), _Ann Arbor, MI_
  - [AI Software Engineer](https://careers.kla-tencor.com/jobs/4591356-ai-software-engineer), _Ann Arbor, MI_
  - [AI Software Engineer](https://careers.kla-tencor.com/jobs/4586141-ai-software-engineer), _Ann Arbor, MI_
  - [AI Software Engineer](https://careers.kla-tencor.com/jobs/4585973-ai-software-engineer), _Ann Arbor, MI_
  - [ML Software Engineer](https://careers.kla-tencor.com/jobs/4585750-ml-software-engineer), _Ann Arbor, MI_
- - [ML Algorithms Engineer](https://careers.kla-tencor.com/jobs/4585560-ml-algorithms-engineer), _Ann Arbor, MI_
  - [AI Software Engineer](https://careers.kla-tencor.com/jobs/3915430-ai-software-engineer), _Ann Arbor, MI_
  - [Senior Algorithm & Machine Learning Scientist](https://careers.kla-tencor.com/jobs/3869246-senior-algorithm-and-machine-learning-scientist), _Ann Arbor, MI_
  - [CJO-USA-Financial Analyst](https://careers.kla-tencor.com/jobs/3600534-cjo-usa-financial-analyst), _Milpitas, CA_
- - [Algorithm Engineer - Image Processing & AI/ML](https://careers.kla-tencor.com/jobs/3535453-algorithm-engineer-image-processing-and-ai-slash-ml), _Ann Arbor, MI_
  - [Senior Data Engineer - Cloud Data warehouse](https://careers.kla-tencor.com/jobs/3327502-senior-data-engineer-cloud-data-warehouse), _Chennai_
  - [Image Processing & Machine Learning Researcher](https://careers.kla-tencor.com/jobs/2371992-image-processing-and-machine-learning-researcher), _Milpitas, CA_
+<<<<<<< HEAD
  ### [abto software](https://careers.abtosoftware.com/?s=&vacancy-department=)
  - [CV&AI Technical Lead](https://careers.abtosoftware.com/vacancy/cv-ai-technical-lead/), _Lviv, UA_
  ### [clarifai](https://www.clarifai.com/careers)
  - [Senior Research Scientist/Data Scientist, Machine Learning](https://boards.greenhouse.io/clarifai/jobs/2140970?gh_jid=2140970), _DC_
  ### [hp labs](https://jobs.hp.com/en-us/Search-Results?CloudSearchValue=nonse&CloudSearchLocation=none&CloudSearchRadius=50&radiusUnit=Miles&prefilters=none)
  - [Data Scientist](https://jobs.hp.com/en-us/showjob/jobid/4874), _Porto Alegre, Rio Grande do Sul, Brazil_
+=======
+ ### [TNO](https://www.tno.nl/nl/career/vacatures/?p=0)
+ - [Chemisch Analist/ Research Engineer](https://www.tno.nl/nl/career/vacatures/chemisch-analist-research-engineer/vacid-a0s0x000018lbvwuak/), _Den Haag_
+ ### [Vathos Robotics](https://www.vathos-robotics.com/careers/)
+ - [Computer Vision Engineer (m/f/d)](https://www.vathos-robotics.com/jobs/computer-vision-engineer-m-f-d/)
+ ### [abto software](https://careers.abtosoftware.com/?s=&vacancy-department=)
+ - [CV&AI Technical Lead](https://careers.abtosoftware.com/vacancy/cv-ai-technical-lead/), _Lviv, UA_
+ ### [axis communications](https://www.axis.com/about-axis/career/open-positions?)
+ - [Master Thesis - Enhancing Analysis of Hardware Design Verification Metrics Using Machine Learning & Data Visualization](https://axis.wd3.myworkdayjobs.com/External_Career_Site/job/Sweden---Lund/Master-Thesis---Enhancing-Analysis-of-Hardware-Design-Verification-Metrics-Using-Machine-Learning---Data-Visualization_R-115737)
+ ### [hp labs](https://jobs.hp.com/en-us/Search-Results?CloudSearchValue=nonse&CloudSearchLocation=none&CloudSearchRadius=50&radiusUnit=Miles&prefilters=none)
+ - [Financial Analyst](https://jobs.hp.com/en-us/showjob/jobid/5120), _Taipei City, Taipei City, Taiwan_
+ - [Data Scientist](https://jobs.hp.com/en-us/showjob/jobid/5116), _Sant Cugat del Valles, Barcelona, Spain_
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  - [Lead Data Scientist](https://jobs.hp.com/en-us/showjob/jobid/4913), _San Diego, California, United States of America_
  - [Business Analyst Internship](https://jobs.hp.com/en-us/showjob/jobid/3267), _Sant Cugat del Valles, Barcelona, Spain_
  - [Data scientist](https://jobs.hp.com/en-us/showjob/jobid/5046), _Zapopan, Jalisco, Mexico_
@@ -71,7 +91,10 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Customer Support Data Architect](https://jobs.hp.com/en-us/showjob/jobid/4641), _Boise, Idaho, United States of America_
  - [Senior Financial Analyst -Supply Chain](https://jobs.hp.com/en-us/showjob/jobid/4229), _Spring, Texas, United States of America_
  - [Business Analyst](https://jobs.hp.com/en-us/showjob/jobid/4765), _Tlaquepaque, Jalisco, Mexico_
+<<<<<<< HEAD
  - [Senior Financial Analyst](https://jobs.hp.com/en-us/showjob/jobid/4019), _Spring, Texas, United States of America_
+=======
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  ### [nauto](https://www.nauto.com/jobs_list)
  - [Senior Backend Engineer - AI Platforms](http://www.nauto.com/jobs?gh_jid=2160314), _Palo Alto, CA_
  - [Sr Machine Learning Infrastructure Engineer](http://www.nauto.com/jobs?gh_jid=1767584), _Palo Alto, CA_
@@ -104,6 +127,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Healthcare/Biotech
  ### [Zebra medical vision](https://www.zebra-med.com/careers)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager/all)
+ - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher/all)
  - [Data Operations Manager](https://www.zebra-med.com/careers/co/rd/5F.514/data-operations-manager)
  - [Deep Learning Algorithm Researcher](https://www.zebra-med.com/careers/co/rd/DA.704/deep-learning-algorithm-researcher)
@@ -128,6 +152,7 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Others
  ### [Gramener](https://gramener.com/careers/#?show=all)
  - [Lead Data Scientist - Machine Learning](https://gramener.com/job/?id=90512), _Hyderabad, Bangalore_
+<<<<<<< HEAD
  - [Sr. Data Scientist - Deep Learning](https://gramener.com/job/?id=90514), _Hyderabad, Bangalore_
  - [Data Scientist (Java with SOLR)](https://gramener.com/job/?id=90519), _Bangalore_
  ### [IHS Markit](https://careers.ihsmarkit.com/search.php)
@@ -142,6 +167,29 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-3), _India - Noida, Uttar Pradesh_
  - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668), _India - Bangalore, Karnataka_
  - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-2), _India - Gurgaon, Haryana_
+=======
+ - [Sr. Data Scientist - Deep Learning (NLP)](https://gramener.com/job/?id=90522), _Hyderabad | Bangalore_
+ - [Sr. Data Scientist - Deep Learning](https://gramener.com/job/?id=90514), _Hyderabad, Bangalore_
+ - [Data Scientist (Java with SOLR)](https://gramener.com/job/?id=90519), _Bangalore_
+ ### [IHS Markit](https://careers.ihsmarkit.com/search.php)
+ - [UV Data Engineer IR](https://careers.ihsmarkit.com/job.php?id=R15798), _Belarus - Minsk, Minskaya voblasts'_
+ - [Business Analyst + Business Intelligence Developer (Report Writer)](https://careers.ihsmarkit.com/job.php?id=R12238), _India - Hyderabad, Telangana_
+ - [Business Analyst](https://careers.ihsmarkit.com/job.php?id=R15759), _Singapore - Singapore_
+ - [Associate II Database Administrator](https://careers.ihsmarkit.com/job.php?id=R15489), _India - Noida, Uttar Pradesh_
+ - [Data Visualization Designer](https://careers.ihsmarkit.com/job.php?id=R15471), _India - Gurgaon_
+ - [Machine Learning/Data Science Engineer](https://careers.ihsmarkit.com/job.php?id=R15620), _Belarus - Minsk, Minskaya voblasts'_
+ - [Machine Learning Engineer](https://careers.ihsmarkit.com/job.php?id=R15432), _Belarus - Minsk, Minskaya voblasts'_
+ - [Data Scientist (NLP)](https://careers.ihsmarkit.com/job.php?id=R15433), _Belarus - Minsk, Minskaya voblasts'_
+ - [Senior Data Engineer / Python](https://careers.ihsmarkit.com/job.php?id=R15415), _Belarus - Minsk, Minskaya voblasts'_
+ - [Senior Machine Learning Engineer](https://careers.ihsmarkit.com/job.php?id=R15431), _Belarus - Minsk, Minskaya voblasts'_
+ - [Data Engineer / Python](https://careers.ihsmarkit.com/job.php?id=R15416), _Belarus - Minsk, Minskaya voblasts'_
+ - [Senior Software Engineer (Python or Java) - Data Lake](https://careers.ihsmarkit.com/job.php?id=R14995), _Poland - Gdansk_
+ - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668), _India - Bangalore, Karnataka_
+ - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-3), _India - Noida, Uttar Pradesh_
+ - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-1), _India - Gurgaon_
+ - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-2), _India - Gurgaon, Haryana_
+ - [Full Stack Data Scientist](https://careers.ihsmarkit.com/job.php?id=R14668-4), _India - Noida, Uttar Pradesh_
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  - [Data Scientist](https://careers.ihsmarkit.com/job.php?id=R13488), _India - Gurgaon, Haryana_
  - [Associate II Database Administrator](https://careers.ihsmarkit.com/job.php?id=R12198), _India - Noida, Uttar Pradesh_
  - [Data Engineer](https://careers.ihsmarkit.com/job.php?id=R15417), _Belarus - Minsk, Minskaya voblasts'_
@@ -159,6 +207,10 @@ Welcome to the [**Co-learning Lounge**](https://colearninglounge.com). This page
  ## Robotics
  ### [UI path](https://www.uipath.com/company/careers/jobs)
  - [Software Engineer II (chatbot)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/software-engineer-ii-chatbot)
+<<<<<<< HEAD
+=======
+ - [Data Engineer](https://www.uipath.com/company/careers/europe/eindhoven/processgold-it-processgold-it/data-engineer)
+>>>>>>> 5312fcb379b1922ebe72f9f75157b8acd313c824
  ### [vicarious](https://www.vicarious.com/careers/)
  - [Computer Vision Researcher](https://jobs.lever.co/vicarious/7c3b3cd6-8552-43c2-b89f-8a410fd2684a)
  - [Computer Vision Researcher, 3D Reconstruction](https://jobs.lever.co/vicarious/70a7aa5f-318e-4ffd-873c-0bd06cf65e3b)
