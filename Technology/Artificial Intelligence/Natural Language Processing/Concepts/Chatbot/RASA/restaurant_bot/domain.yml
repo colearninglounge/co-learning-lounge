@@ -12,13 +12,30 @@ intents:
 - telling_location_cuisine
 - telling_location
 - telling_cuisine
+- request_restaurant
+- telling_phonenum
+- telling_numpeople
+- telling_datetime
 entities:
 - cuisine
+- num_people
+- phone_num
+- time
+- number
 slots:
   cuisine:
     type: text
   location:
     type: text
+  num_people:
+    type: unfeaturized
+    auto_fill: false
+  phone_num:
+    type: unfeaturized
+    auto_fill: false
+  time:
+    type: unfeaturized
+    auto_fill: false
 responses:
   utter_greet:
   - text: Hey!! How are you..?I can help you to find restaurants based on your preferred
@@ -61,6 +78,19 @@ responses:
   utter_affirm_cuisine:
   - text: Ahh, Thanks for sharing the cuisine. You have got a good taste :D
   - text: Thanks mate, Even I like {cuisine}.
+  utter_ask_for_booking:
+  - text: Would you like to do the table booking ?
+  utter_ask_num_people:
+  - text: please let me know the number of people coming.
+  utter_ask_phone_num:
+  - text: please share your contact number.
+  utter_ask_time:
+  - text: please specify date and time for your visit.
+  utter_slot_values:
+  - text: "The information recorded is:\n - num_people: {num_people}\n - phone_no:{phone_num}\n\
+      \ - time: {time}"
+  utter_submit:
+  - text: Thanks for all the booking information
 actions:
 - utter_greet
 - utter_did_that_help
@@ -80,3 +110,12 @@ actions:
 - utter_location_denied
 - utter_tryAfter_sometime
 - utter_affirm_cuisine
+- utter_ask_for_booking
+- utter_ask_num_people
+- utter_ask_phone_num
+- utter_slots_values
+- utter_ask_time
+- utter_submit
+- utter_slot_values
+forms:
+- restaurant_form

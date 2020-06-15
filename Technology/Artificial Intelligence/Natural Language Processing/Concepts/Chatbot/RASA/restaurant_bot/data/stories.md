@@ -1,6 +1,6 @@
 ## say goodbye
 * goodbye
-  - utter_goodbye
+    - utter_goodbye
 
 ## greet_mood_great_restaurantSearch_tellingLocation_tellingCuisine
 
@@ -28,6 +28,11 @@
 * telling_location_cuisine{"cuisine":"italian"}
     - slot{"cuisine":"italian"}
     - action_show_restaurants
+* request_restaurant
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
 * goodbye
 
 ## restaurantSearch_tellingLocation_tellingCuisine
@@ -41,7 +46,13 @@
 * telling_cuisine{"cuisine":"italian"}
     - slot{"cuisine":"italian"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## tellingLocationCuisine
@@ -49,7 +60,13 @@
 * telling_location_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## greet_restaurantSearch_tellingLocation_denyLocation_tellingCuisine
@@ -67,7 +84,13 @@
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## restaurantSearch_denyLocation_tellingLocation_tellingCuisine
@@ -99,7 +122,13 @@
 * deny
     - utter_itsok
     - action_restaurants_nocuisine
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## greet_restaurantSearch_denyLocation_denyLocation_bye
@@ -123,7 +152,13 @@
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## tellingCuisine_tellingLocation_showRestaurants
@@ -136,7 +171,13 @@
     - action_set_location
     - slot{"location":"Hyderabad"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
 
 ## greet_restaurantSearch_tellingLocation_tellingCuisine
@@ -169,17 +210,12 @@
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
-    - utter_goodbye
-* goodbye
-
-## New Story
-
-* greet
-    - utter_greet
-* telling_location_cuisine{"cuisine":"chinese"}
-    - slot{"cuisine":"chinese"}
-    - action_show_restaurants
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
 * goodbye
     - utter_goodbye
 
@@ -190,5 +226,27 @@
 * telling_location_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
+    - utter_ask_for_booking
 * affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
+    - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+* telling_location_cuisine{"cuisine":"chinese"}
+    - slot{"cuisine":"chinese"}
+    - action_show_restaurants
+    - utter_ask_for_booking
+* affirm
+    - restaurant_form
+    - form{"name": "restaurant_form"}
+    - form{"name": null}
+    - utter_slot_values
+* goodbye
     - utter_goodbye
