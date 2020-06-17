@@ -4,8 +4,6 @@
 
 From Google and Amazon to Apple and Microsoft, every major tech company is dedicating resources to breakthroughs in artificial intelligence. This list has been curated based on the sector/market in which the company plays and the opportunities that it can leverage in that market.
 
-> This is curated list of AI companies sorted based on industry.
-
 ### Help us curating the list : <br>
 ✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
     ![Support Us](CLL_Git_Star_watch.gif)<br>
