@@ -74,7 +74,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [cloudminds](https://www.en.cloudminds.com/)
 - [vicarious](https://www.vicarious.com/careers/)
 - [UI path](https://www.uipath.com/company/careers/jobs)
-- [Datarobot ](https://www.datarobot.com/careers/)
+- [Datarobot](https://www.datarobot.com/careers/)
 
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
@@ -82,6 +82,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [UNBXD](https://unbxd.com/careers/)
 - [oneorigin](https://www.oneorigin.us/careers/)
 - [sharechat](https://we.sharechat.com/careers)
+- [jina.ai](https://jina.ai/#/jobs)
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
