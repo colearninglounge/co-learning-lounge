@@ -77,7 +77,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
 - [Artivatic](https://artivatic.ai/career)
-- [UNBXD](https://unbxd.com/careers/)
+- [UNBXD](https://unbxd.com/careers/openings/)
 - [oneorigin](https://www.oneorigin.us/careers/)
 - [sharechat](https://we.sharechat.com/careers)
 - [jina.ai](https://jina.ai/#/jobs)
@@ -110,7 +110,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [immersive labs](https://immersivelabs.com/careers/)
 - [intuitive surgical](http://intuitivesurgical.hodesiq.com/job_detail.asp?JobID=2900801)
 - [igbweb](https://www.novetta.com/careers/)
-- [imimtek](https://www.aquifi.com/careers/)
+- [imimtek](https://hire.withgoogle.com/public/jobs/aquificom)
 - [ppt vision](https://www.datalogic.com/eng/company/careers-ca-26.html)
 - [HHMI](https://www.janelia.org/you-janelia/careers)
 - [occipital](http://occipital.com/jobs)
@@ -141,8 +141,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Second Spectrum](https://www.secondspectrum.com/careers.html)
 - [Curalate](https://www.themuse.com/companies/curalate)
 - [Pixm](https://pixm.net/contact/)
-- [GumGum](https://gumgum.com/careers)
-- [iris automation](https://www.irisonboard.com/careers/)
+- [GumGum](https://boards.greenhouse.io/gumgum)
+- [iris automation](https://boards.greenhouse.io/irisautomation)
 - [GE Global Research](https://jobs.gecareers.com/global/en/home)
 - [Yahoo!](http://labs.yahoo.com/)
 - [optra systems](https://www.optrasystems.com/about-us/careers/current-openings)
@@ -202,7 +202,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Automotive
 - [nuTonomy](https://www.nutonomy.com/careers/)
 - [zoox](https://jobs.lever.co/zoox)
-- [Pony.ai](https://www.pony.ai/careers/)
+- [Pony.ai](https://apply.workable.com/pony-dot-ai/)
 
 ## Hardware
 - [nVidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
