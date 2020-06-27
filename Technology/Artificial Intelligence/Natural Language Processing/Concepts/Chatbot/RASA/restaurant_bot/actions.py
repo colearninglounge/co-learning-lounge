@@ -12,6 +12,7 @@ import requests
 import ast
 from rasa_sdk.events import SlotSet
 from rasa_sdk.forms import FormAction
+import time
 
 
 class RestaurantForm(FormAction):
@@ -50,6 +51,24 @@ class RestaurantForm(FormAction):
             ],
         }
 
+    def validate_phone_num(
+            self,
+            value: Text,
+            dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any],
+    ) -> Dict[Text, Any]:
+        """Validate cuisine value."""
+
+        if len(str(value)) == 10:
+            # validation succeeded, set the value of the "cuisine" slot to value
+            return {"phone_num": value}
+        else:
+            dispatcher.utter_message(template="utter_invalid_phone_num")
+            # validation failed, set this slot to None, meaning the
+            # user will be asked for the slot again
+            return {"phone_num": None}
+
     def submit(
             self,
             dispatcher: CollectingDispatcher,
@@ -62,6 +81,29 @@ class RestaurantForm(FormAction):
         # utter submit template
         dispatcher.utter_template(template="utter_submit", tracker=Tracker)
         return []
+
+
+class ActionGetDateTime(Action):
+    def name(self):
+        return 'action_get_date_time'
+
+
+    def run(self, dispatcher, tracker, domain):
+        temp = tracker.get_slot('time')
+
+        slots = []
+
+        data = temp[:-10]
+
+        temps = time.strptime(data, "%Y-%m-%dT%H:%M:%S")
+        date_slot = time.strftime("%d/%m/%Y", temps)
+        time_slot = time.strftime("%H:%M", temps)
+
+        slots.append(SlotSet("date_slot", date_slot))
+        slots.append(SlotSet("time_slot", time_slot))
+
+        return slots
+
 
 class BingLocationExtractor:
 
@@ -101,8 +143,33 @@ class ActionSetLocation(Action):
         le = BingLocationExtractor()
         locality, location_name = le.getLocationInfo(str(user_input), tracker)
 
-        dispatcher.utter_message("Thanks for sharing you location. " + locality.capitalize() + " is pretty place.")
+        dispatcher.utter_message(template="Thanks for sharing you location. " + locality.capitalize() + " is pretty place.")
         return [SlotSet("location", location_name)]
+
+
+class BotGreet(Action):
+    def name(self):
+        return 'action_bot_greet'
+
+    def run(self, dispatcher, tracker, domain):
+        message = {
+            "text": "Hey!! How are you..?I can help you to find restaurants based on your preferred "
+                    "location and cuisine.",
+            "quick_replies": [
+                {
+                    "content_type": "text",
+                    "title": "I'm Hungry",
+                    "payload": "/restaurant_search",
+                }, {
+                    "content_type": "text",
+                    "title": "Nothing",
+                    "payload": "/deny",
+                }
+            ]
+        }
+
+        dispatcher.utter_message(json_message=message)
+        return []
 
 
 class Zomato:
@@ -193,11 +260,17 @@ class Zomato:
 
         list_of_all_rest = res.json()["restaurants"]
 
-        names_of_all_rest = []
+        json = []
         for rest in list_of_all_rest:
-            names_of_all_rest.append(rest["restaurant"]["name"])
+            name = rest["restaurant"]["name"]
+            thumb = rest["restaurant"]["thumb"]
+            url = rest["restaurant"]["url"]
+            json.append(name)
+            json.append(thumb)
+            json.append(url)
 
-        return names_of_all_rest
+
+        return json
 
     def get_all_restraunts_without_cuisne(self, location):
         '''
@@ -219,7 +292,12 @@ class Zomato:
         list_ofall_rest = res.json()["restaurants"]
         names_of_all_rest = []
         for rest in list_ofall_rest:
-            names_of_all_rest.append(rest["restaurant"]["name"])
+            name = rest["restaurant"]["name"]
+            thumb = rest["restaurant"]["thumb"]
+            url = rest["restaurant"]["url"]
+            list_ofall_rest.append(name)
+            list_ofall_rest.append(thumb)
+            list_ofall_rest.append(url)
 
         return names_of_all_rest
 
@@ -236,16 +314,47 @@ class GetRestaurantsWithoutCuisine(Action):
 
         list_all_restaurants = zo.get_all_restraunts_without_cuisne(str(location_name))
 
-        temp_str = ""
+        if list_all_restaurants:
+            findata = []
+            for i in range(len(list_all_restaurants)):
+                if i % 3 != 0:
+                    continue
 
-        for r in range(0, len(list_all_restaurants) - 1):
-            temp_str = temp_str + str(list_all_restaurants[r]) + ", "
+                mydata = {
+                    "title": list_all_restaurants[i],
+                    "image_url": list_all_restaurants[i + 1],
+                    "subtitle": "I don't know anything about it",
+                    "default_action": {
+                        "type": "web_url",
+                        "url": list_all_restaurants[i + 2],
+                        "webview_height_ratio": "tall"
+                    },
+                    "buttons": [
+                        {
+                            "type": "web_url",
+                            "url": list_all_restaurants[i + 2],
+                            "title": "View Website"
+                        }, {
+                            "type": "postback",
+                            "title": "Start Chatting",
+                            "payload": "DEVELOPER_DEFINED_PAYLOAD"
+                        }
+                    ]
+                }
 
-        temp_str = temp_str + "and " + str(list_all_restaurants[-1])
+                findata.append(mydata)
 
-        dispatcher.utter_message(
-            "We found " + str(temp_str) + " at " + location_name[1] + " location. Have a great time :)")
+            message = {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "generic",
+                        "elements": "{}".format(findata)
+                    }
+                }
+            }
 
+            dispatcher.utter_message(json_message=message)
         return []
 
 
@@ -272,20 +381,50 @@ class ActionShowRestaurants(Action):
         else:
             cuisine_type = tracker.get_slot('cuisine')
             list_all_restaurants = zo.get_all_restraunts(location=location_name, cuisine=str(cuisine_type))
-            temp_str = ""
 
             if list_all_restaurants:
-                for r in range(0, len(list_all_restaurants) - 1):
-                    temp_str = temp_str + str(list_all_restaurants[r]) + ", "
+                finaldata = []
+                for i in range(len(list_all_restaurants)):
+                    if i % 3 != 0:
+                        continue
 
-                temp_str = temp_str + "and " + str(list_all_restaurants[-1])
+                    mydata = {
+                        "title": list_all_restaurants[i],
+                        "image_url": list_all_restaurants[i + 1],
+                        "subtitle": "I don't know anything about it",
+                        "default_action": {
+                            "type": "web_url",
+                            "url": list_all_restaurants[i + 2],
+                            "webview_height_ratio": "tall"
+                        },
+                        "buttons": [
+                            {
+                                "type": "web_url",
+                                "url": list_all_restaurants[i + 2],
+                                "title": "View Website"
+                            }, {
+                                "type": "postback",
+                                "title": "Start Chatting",
+                                "payload": "DEVELOPER_DEFINED_PAYLOAD"
+                            }
+                        ]
+                    }
 
-                dispatcher.utter_message("We found " + str(
-                    temp_str) + " of " + cuisine_type.capitalize() + " cuisine at " + location_name + "location. Have "
-                                                                                                      "a great time "
-                                                                                                      ":)")
+                    finaldata.append(mydata)
+
+                message = {
+                    "attachment": {
+                        "type": "template",
+                        "payload": {
+                            "template_type": "generic",
+                            "elements": "{}".format(finaldata)
+                        }
+                    }
+                }
+
+                dispatcher.utter_message(json_message=message)
             else:
-                dispatcher.utter_message(
+                dispatcher.utter_message(template=
                     "Sorry no such restaurant of " + cuisine_type.capitalize() + " available at " + location_name + ". Try looking for some other cuisine.")
 
         return []
