@@ -63,7 +63,6 @@ class RestaurantForm(FormAction):
         dispatcher.utter_template(template="utter_submit", tracker=Tracker)
         return []
 
-
 class BingLocationExtractor:
 
     def __init__(self):

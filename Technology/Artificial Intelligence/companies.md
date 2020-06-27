@@ -4,36 +4,51 @@
 
 From Google and Amazon to Apple and Microsoft, every major tech company is dedicating resources to breakthroughs in artificial intelligence. This list has been curated based on the sector/market in which the company plays and the opportunities that it can leverage in that market.
 
+### Help us curating the list : <br>
+✅    Give a star to the repo and add yourself to the watch list to never miss any update. <br>
+    ![Support Us](CLL_Git_Star_watch.gif)<br>
+✅    Update the missing company name in the below format, Make sure to add under relevent **Domain** else add it to [**Others**](./companies.md#others) <br>
+     `[Company Name](Company's Career page URL)` <br>
+✅    Subscribe to our YouTube channel and join our community. <br>
+    <a href="https://bit.ly/CLLYT"> <img src="youtube.png" height="50" width="150" alt="YouTube"></a> 
+    <a href="https://bit.ly/CLL_TG"> <img src="telegram.png" height="50" width="50" alt="Telegram"></a>
+    <a href="https://bit.ly/CLL_FBG"> <img src="facebook.png" height="50" width="100" alt="Facebook"></a>  <br> <br>
+***All the best for your job hunting 👍***
+
 ## Conversational AI
 - [haptik.ai](https://haptik.ai/careers/)
-- [avaamo](https://avaamo.ai/careers/)
-- [niki.ai](https://niki.ai/careers)
+- [avaamo](https://hire.withgoogle.com/public/jobs/avaamocom)
+- [niki.ai](https://angel.co/company/niki/jobs)
 - [next IT](https://www.nextit.com/about-us#careers)
-- [soundhound](https://www.soundhound.com/careers)
+- [soundhound](https://boards.greenhouse.io/soundhoundinc/)
 - [zymergen](https://www.zymergen.com/careers/)
 - [kore.ai](https://kore.ai/careers/)
-- [rasa](https://rasa.com/careers/#jobs)
-- [active.a](https://active.ai/careers/)
+- [rasa](https://boards.greenhouse.io/rasa)
+- [active.ai](https://active.ai/careers/)
 - [nuacem](https://nuacem.com/careers)
 - [Smartbots.ai](https://www.smartbots.ai/careers/)
 - [IMIMobile](https://imimobile.com/careers)
 - [vernacular.ai](https://angel.co/company/vernacular-ai/jobs)
 - [saarthi.ai](https://angel.co/company/saarthi-ai/jobs)
-- [boost.ai](https://www.boost.ai/career)
+- [boost.ai](https://web106.reachmee.com/ext/I002/1350/main?site=6&validator=21304e4cfc10bf6957ad60fe5e4eba40&lang=UK&ref=https%3a%2f%2fwww.boost.ai%2f&ihelper=https://www.boost.ai/career/)
+- [Ori](https://angel.co/company/ori-2/jobs)
+- [floatbot.ai](https://angel.co/company/floatbot-ai-1/jobs)
+
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
 - [doxper](http://www.doxper.com/)
 - [tempus](https://www.tempus.com/careers/)
-- [cognitive scale](https://www.cognitivescale.com/careers/)
+- [cognitive scale](https://hire.withgoogle.com/public/jobs/cognitivescalecom)
 - [freenome](https://www.freenome.com/careers/)
 - [inSilico medicine](https://insilico.com/career)
-- [Zebra medical vision](https://www.zebra-med.com/careers/)
+- [Zebra medical vision](https://www.zebra-med.com/careers)
 - [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
 - [Episource LLC](https://www.episource.com/careers/)
+- [CitiusTech](https://citiustech.applytojob.com/)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/careers)
-- [locus.sh](https://locus.sh/careers/)
+- [locus.sh](https://locus.freshteam.com/jobs)
 
 ## FinTech
 - [rubique](https://www.rubique.com/career)
@@ -52,23 +67,24 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [persado](https://www.persado.com/about/careers/)
 
 ## Robotics
-- [aeye](https://www.aeye.ai/careers/)
+- [aeye](https://boards.greenhouse.io/embed/job_board?for=aeyeinc)
 - [AIbrain](https://aibrain.com/)
 - [cloudminds](https://www.en.cloudminds.com/)
 - [vicarious](https://www.vicarious.com/careers/)
-- [UI path](https://www.uipath.com/company/careers)
-- [Datarobot ](https://www.datarobot.com/careers/)
+- [UI path](https://www.uipath.com/company/careers/jobs)
+- [Datarobot](https://www.datarobot.com/careers/)
 
 ## Natural language processing
 - [Narrative Science](https://narrativescience.com/careers/)
 - [Artivatic](https://artivatic.ai/career)
-- [UNBXD](https://unbxd.com/careers/)
+- [UNBXD](https://unbxd.com/careers/openings/)
 - [oneorigin](https://www.oneorigin.us/careers/)
 - [sharechat](https://we.sharechat.com/careers)
+- [jina.ai](https://jina.ai/#/jobs)
 
 ## Computer vision
 - [clarifai](https://www.clarifai.com/careers)
-- [nauto](https://www.nauto.com/jobs)
+- [nauto](https://www.nauto.com/jobs_list)
 - [clmtec](http://www.cimtecimaging.com/contact)
 - [ikomed](http://www.ikomed.com/careers/)
 - [algolux](https://algolux.com/careers/)
@@ -86,15 +102,15 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [SentioSports](http://sentiosports.com/career.html)
 - [gentex corporation](http://www.gentex.com/careers/index.html)
 - [a9](https://a9.com/work-with-us/)
-- [COGNEX](https://jobs.cognex.com/)
-- [hp labs](https://www8.hp.com/us/en/jobs/index.html)
+- [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site)
+- [hp labs](https://jobs.hp.com/en-us/Search-Results?CloudSearchValue=nonse&CloudSearchLocation=none&CloudSearchRadius=50&radiusUnit=Miles&prefilters=none)
 - [philips healthcare](https://www.careers.philips.com/apac/en)
 - [Nokia](http://www.nokia.com/global/about-nokia/careers/)
-- [Kla Tencor](https://careers.kla-tencor.com/)
+- [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
 - [immersive labs](https://immersivelabs.com/careers/)
 - [intuitive surgical](http://intuitivesurgical.hodesiq.com/job_detail.asp?JobID=2900801)
 - [igbweb](https://www.novetta.com/careers/)
-- [imimtek](https://www.aquifi.com/careers/)
+- [imimtek](https://hire.withgoogle.com/public/jobs/aquificom)
 - [ppt vision](https://www.datalogic.com/eng/company/careers-ca-26.html)
 - [HHMI](https://www.janelia.org/you-janelia/careers)
 - [occipital](http://occipital.com/jobs)
@@ -114,7 +130,6 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Honda Research](http://www.hondaresearch.com/job-opportunities.php)
 - [Image Metrics](http://image-metrics.com/company/#careers)
 - [Graftek Imaging](https://www.graftek.biz/contact)
-- [NVIDIA](http://careers.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/index.jsp)
 - [Microscan](http://www.microscan.com/en-us/aboutus/CareerOpportunities.aspx)
 - [DAQRI](http://daqri.com/careers/)
 - [kairos](https://www.kairos.com/about)
@@ -126,41 +141,40 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Second Spectrum](https://www.secondspectrum.com/careers.html)
 - [Curalate](https://www.themuse.com/companies/curalate)
 - [Pixm](https://pixm.net/contact/)
-- [GumGum](https://gumgum.com/careers)
-- [iris automation](https://www.irisonboard.com/careers/)
+- [GumGum](https://boards.greenhouse.io/gumgum)
+- [iris automation](https://boards.greenhouse.io/irisautomation)
 - [GE Global Research](https://jobs.gecareers.com/global/en/home)
 - [Yahoo!](http://labs.yahoo.com/)
 - [optra systems](https://www.optrasystems.com/about-us/careers/current-openings)
-- [pixuate](https://pixuate.com/careers/)
+- [pixuate](https://angel.co/company/pixuate/jobs)
 - [Itseez](http://itseez.com/jobs/)
 - [ISS Art](https://issart.com/contacts/)
-- [KritiKal Solutions](http://careers.kritikalvision.ai/)
+- [KritiKal Solutions](http://careers.kritikalvision.ai/jobs/)
 - [FaceX](https://facex.io/about.html)
 - [carl zeiss](http://www.zeiss.de/C12567A100537AB9?Open)
 - [atlas elektronik](https://www.atlas-elektronik.com/career/jobs.html)
 - [Nerian Vision GmbH](https://nerian.com/company/jobs/)
 - [Vathos Robotics](https://www.vathos-robotics.com/careers/)
 - [tordivel](http://www.scorpionvision.com/31.html)
-- [abto software](https://www.abtosoftware.com/careers)
+- [abto software](https://careers.abtosoftware.com/?s=&vacancy-department=)
 - [spacemetric](http://spacemetric.com/vacancies/)
 - [smarteye](https://smarteye.se/about-us-2/career/)
-- [axis communications](https://www.axis.com/en-in/about-axis/career)
+- [axis communications](https://www.axis.com/about-axis/career/open-positions?)
 - [Cella Vision](https://career.cellavision.com/)
 - [anoto](https://www.anoto.com/contact-us/)
 - [tobii](https://careers.tobii.com/jobs)
 - [oculus](https://www.oculus.com/careers/)
 - [flir](https://www.flir.com/about/careers/)
 - [Vicator](http://www.vicator.com/)
-- [image metrics](http://image-metrics.com/company/#careers)
 - [Nine Point Medical](http://www.ninepointmedical.com/careers-2/)
 - [Sony ](http://www.playstationjobs.co.uk/vacancy/437-Computer-Vision-Researcher-%28Gaming-interfaces%29&page=1)
 - [Skin Analytics](https://skin-analytics.com/contact-us/)
 - [Birdi](https://hibirdi.com/careers-in-the-space-industry/)
 - [CMR](https://www.cmr.no/contact-us/)
-- [philips](http://jobs.philips.com/)
+- [philips](https://jobs.philips.com/jobs/#200)
 - [layar](http://www.layar.com/company/jobs/)
 - [ps-tech](http://ps-tech.com/careers)
-- [TNO](http://www.tno.nl/werkenbij/)
+- [TNO](https://www.tno.nl/nl/career/vacatures/?p=0)
 - [SightCorp's website](https://sightcorp.com/jobs/)
 - [Ellips](https://ellips.com/jobs/)
 - [Satelligence](https://satelligence.com/careers)
@@ -178,8 +192,9 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [tusimple](https://www.tusimple.com/careers/)
 - [pyimagejobs](http://jobs.pyimagesearch.com/ref/3/)
 - [Ignitarium](https://ignitarium.com/careers.php)
-- [Artivatic](https://artivatic.ai/career)
 - [Wobot Intelligence](http://www.wobot.ai/careers)
+- [streamingo.ai](https://angel.co/company/streamingo-solutions-1/jobs)
+- [orbo.ai](https://angel.co/company/orbo-ai/jobs)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
@@ -187,14 +202,14 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ## Automotive
 - [nuTonomy](https://www.nutonomy.com/careers/)
 - [zoox](https://jobs.lever.co/zoox)
-- [Pony.ai](https://www.pony.ai/careers/)
+- [Pony.ai](https://apply.workable.com/pony-dot-ai/)
 
 ## Hardware
 - [nVidia](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
 
 ## IoT
 - [sherpa](https://www.sherpadigitalmedia.com/about/careers/)
-- [C3](https://c3.ai/careers/)
+- [C3](https://boards.greenhouse.io/c3iot)
 
 ## Security
 - [sift science](https://sift.com/careers)
@@ -216,15 +231,19 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [mroads](https://www.mroads.com/#/careers)
 - [inFeedo](https://jobs.infeedo.com/)
 
+## VoiceTech
+- [speechmatics](https://www.speechmatics.com/about-us/careers/available-roles/)
+
 ## Others
 - [figure eight](https://www.figure-eight.com/company/careers/)
 - [datarobot](https://www.datarobot.com/careers/)
 - [h2o.ai](https://www.h2o.ai/careers/)
 - [neurala](https://www.neurala.com/about/careers/openings)
 - [orbital insight](https://orbitalinsight.com/company/careers/)
-- [openAI](https://openai.com/jobs/)
+- [openAI](https://jobs.lever.co/openai)
 - [x.ai](https://x.ai/jobs/)
 - [couture.ai](https://angel.co/couture-ai/jobs)
 - [lumiq.ai](https://lumiq.freshteam.com/jobs)
 - [Pramati](https://www.pramati.com/careers/)
-- [Gramener](https://gramener.com/careers/)
+- [Gramener](https://gramener.com/careers/#?show=all)
+- [IHS Markit](https://careers.ihsmarkit.com/search.php)

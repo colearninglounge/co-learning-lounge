@@ -19,6 +19,7 @@ entities:
 - cuisine
 - num_people
 - phone_num
+
 slots:
   cuisine:
     type: text
