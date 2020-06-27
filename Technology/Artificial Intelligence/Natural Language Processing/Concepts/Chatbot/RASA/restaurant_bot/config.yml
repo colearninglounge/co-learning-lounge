@@ -1,26 +1,23 @@
-# Configuration for Rasa NLU.
-# https://rasa.com/docs/rasa/nlu/components/
-
 language: en
 pipeline:
-  - name: "SpacyNLP"
-  - name: "SpacyTokenizer"
-  - name: "SpacyFeaturizer"
-  - name: "RegexFeaturizer"
-  - name: "CRFEntityExtractor"
-  - name: "EntitySynonymMapper"
-  - name: "SklearnIntentClassifier"
-  - name: "DucklingHTTPExtractor"
-    url: "http://localhost:8000"
-    dimensions: ["time","number"]
-    timezone: "Asia/Mumbai"
-    locale: "en_GB"
-
-
-# Configuration for Rasa Core.
-# https://rasa.com/docs/rasa/core/policies/
+- name: SpacyNLP
+- name: SpacyTokenizer
+- name: SpacyFeaturizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: SklearnIntentClassifier
+- name: DucklingHTTPExtractor
+  url: http://localhost:8000
+  dimensions:
+  - time
+  - number
+  - amount-of-money
+  - distance
+  timezone: Asia/Mumbai
+  locale: en_GB
 policies:
-  - name: MemoizationPolicy
-  - name: KerasPolicy
-  - name: FormPolicy
-  - name: MappingPolicy
+- name: MemoizationPolicy
+- name: TEDPolicy
+- name: FormPolicy
+- name: MappingPolicy

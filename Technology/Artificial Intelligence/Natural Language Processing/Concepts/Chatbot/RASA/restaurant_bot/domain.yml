@@ -12,7 +12,6 @@ intents:
 - telling_location_cuisine
 - telling_location
 - telling_cuisine
-- request_restaurant
 - telling_phonenum
 - telling_numpeople
 - telling_datetime
@@ -20,8 +19,7 @@ entities:
 - cuisine
 - num_people
 - phone_num
-- time
-- number
+
 slots:
   cuisine:
     type: text
@@ -113,7 +111,6 @@ actions:
 - utter_ask_for_booking
 - utter_ask_num_people
 - utter_ask_phone_num
-- utter_slots_values
 - utter_ask_time
 - utter_submit
 - utter_slot_values
