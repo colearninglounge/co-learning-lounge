@@ -2,11 +2,14 @@
 * goodbye
     - utter_goodbye
 
+## fallback
+* bot_challenge
+    - action_default_fallback
+   
 ## 2greet_mood_great_restaurantSearch_tellingLocation_tellingCuisine_tablebooking
 
-
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location
@@ -21,13 +24,14 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
 
 ## 3greet_mood_great_tellingLocationCuisine_bye
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location_cuisine{"cuisine":"italian"}
@@ -38,6 +42,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
 
@@ -57,6 +62,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time    
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -71,6 +77,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -78,7 +85,7 @@
 ## 6greet_restaurantSearch_tellingLocation_denyLocation_tellingCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * deny
@@ -89,12 +96,12 @@
     - utter_ask_cuisine
 * telling_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
-    - action_show_restaurants
     - utter_ask_for_booking
 * affirm
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -117,6 +124,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -124,7 +132,7 @@
 ## 8greet_restaurantSearch_tellingLocation_denyCuisine_showRestaurantsWithoutCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location
@@ -139,6 +147,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -146,7 +155,7 @@
 ## 9greet_restaurantSearch_denyLocation_denyLocation_bye
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * deny
@@ -169,6 +178,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -188,13 +198,15 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
 
 ## 12greet_restaurantSearch_tellingLocation_tellingCuisine
+
 * greet
-    - utter_greet
+    - action_bot_greet
 * restaurant_search
     - utter_ask_location
 * telling_location
@@ -209,13 +221,14 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
 
 ## 13greet_restaurantSearch_tellingLocation_tellingCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * restaurant_search
     - utter_ask_location
 * telling_location
@@ -230,6 +243,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -237,7 +251,7 @@
 ## 14greet_telling_location_cuisine_affirm_goodbye
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * telling_location_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
@@ -246,6 +260,7 @@
     - restaurant_form
     - form{"name": "restaurant_form"}
     - form{"name": null}
+    - action_get_date_time
     - utter_slot_values
 * goodbye
     - utter_goodbye
@@ -256,7 +271,7 @@
 ## 15greet_mood_great_restaurantSearch_tellingLocation_tellingCuisine_denytablebooking
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location
@@ -274,7 +289,7 @@
 ## 16greet_mood_great_tellingLocationCuisine_denytablebooking
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location_cuisine{"cuisine":"italian"}
@@ -311,7 +326,7 @@
 ## 19greet_restaurantSearch_tellingLocation_denyLocation_tellingCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * deny
@@ -347,7 +362,7 @@
 ## 21greet_restaurantSearch_tellingLocation_denyCuisine_showRestaurantsWithoutCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * mood_great
     - utter_ask_location
 * telling_location
@@ -393,7 +408,7 @@
 ## 24greet_restaurantSearch_tellingLocation_tellingCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * restaurant_search
     - utter_ask_location
 * telling_location
@@ -410,7 +425,7 @@
 ## 25greet_restaurantSearch_tellingLocation_tellingCuisine
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * restaurant_search
     - utter_ask_location
 * telling_location
@@ -427,10 +442,17 @@
 ## 26greet_telling_location_cuisine_affirm_goodbye
 
 * greet
-    - utter_greet
+    - action_bot_greet
 * telling_location_cuisine{"cuisine":"chinese"}
     - slot{"cuisine":"chinese"}
     - action_show_restaurants
     - utter_ask_for_booking
+* deny
+    - utter_goodbye
+    
+## 27greet_deny_bye
+
+* greet
+    - action_bot_greet
 * deny
     - utter_goodbye

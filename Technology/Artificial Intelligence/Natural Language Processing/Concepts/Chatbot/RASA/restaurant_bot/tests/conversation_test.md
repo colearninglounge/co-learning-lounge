@@ -5,7 +5,7 @@
     - utter_ask_for_booking
 * affirm: yes
     - restaurant_form
-    - form{"name":"restaurant_form"}``
+    - form{"name":"restaurant_form"}
     - slot{"requested_slot":"num_people"}
 * telling_numpeople: book it for [5](num_people[5](number) people
     - restaurant_form
@@ -456,62 +456,17 @@
     
     
 ## Story17
-* greet: hello
+* greet
     - utter_greet
-* mood_great: i am great
+* mood_great
     - utter_ask_location
-* telling_location: its chennai
+* telling_location
     - action_set_location
-    - slot{"location":"Chennai, India"}
+    - slot{"location":"Hyderabad"}
     - utter_ask_cuisine
-* telling_cuisine: [north indian](cuisine)
-    - slot{"cuisine":"north indian"}
+* telling_cuisine{"cuisine":"chinese"}
+    - slot{"cuisine":"chinese"}
     - action_show_restaurants
     - utter_ask_for_booking
-* affirm: yes please
-    - restaurant_form
-    - form{"name":"restaurant_form"}
-    - slot{"requested_slot":"num_people"}
-* telling_numpeople: [3](num_people[3](number) people
-    - restaurant_form
-    - slot{"num_people":3}
-    - slot{"requested_slot":"phone_num"}
-* telling_phonenum: [8877665544]([8877665544](number)
-    - restaurant_form
-    - slot{"phone_num":8877665544}
-    - slot{"requested_slot":"time"}
-* telling_datetime: [2020-05-03T21:00:00.000+00:00](time)
-    - restaurant_form
-    - slot{"time":"2020-05-03T21:00:00.000+00:00"}
-    - form{"name":null}
-    - slot{"requested_slot":null}
-    - action_get_date_time
-    - slot{"date_slot":"03/05/2020"}
-    - slot{"time_slot":"21:00"}
-    - utter_slot_values
-
-
-    
-
-## Story18
-* greet: hey
-    - utter_greet
-* mood_great: i am fine
-    - utter_ask_location
-* deny: not sure
-    - utter_location_denied
-
-
-## Story19
-* telling_cuisine: i want to eat some [mexican](cuisine) food
-    - slot{"cuisine":"mexican"}
-    - utter_affirm_cuisine
-    - utter_ask_location
-* telling_location: yeah its udaipur
-    - action_set_location
-    - slot{"location":"Udaipur, India"}
-    - action_show_restaurants
-    - utter_ask_for_booking
-* deny: no
+* deny
     - utter_goodbye
-    
