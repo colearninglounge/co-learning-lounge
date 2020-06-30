@@ -12,19 +12,20 @@ intents:
 - telling_location_cuisine
 - telling_location
 - telling_cuisine
-- request_restaurant
 - telling_phonenum
 - telling_numpeople
 - telling_datetime
+- bot_challenge
 entities:
 - cuisine
 - num_people
 - phone_num
-- time
-- number
 slots:
   cuisine:
     type: text
+  date_slot:
+    type: unfeaturized
+    auto_fill: false
   location:
     type: text
   num_people:
@@ -36,10 +37,10 @@ slots:
   time:
     type: unfeaturized
     auto_fill: false
+  time_slot:
+    type: unfeaturized
+    auto_fill: false
 responses:
-  utter_greet:
-  - text: Hey!! How are you..?I can help you to find restaurants based on your preferred
-      location and cuisine.
   utter_did_that_help:
   - text: Did that help you?
   utter_assist:
@@ -87,12 +88,14 @@ responses:
   utter_ask_time:
   - text: please specify date and time for your visit.
   utter_slot_values:
-  - text: "The information recorded is:\n - num_people: {num_people}\n - phone_no:{phone_num}\n\
-      \ - time: {time}"
+  - text: "The information recorded is:\n - num_people: {num_people}\n - phone_no:\
+      \ {phone_num}\n - date: {date_slot}\n - time: {time_slot}"
   utter_submit:
   - text: Thanks for all the booking information
+  utter_default:
+  - text: Sorry, Didn’t understand. Please say again
 actions:
-- utter_greet
+- action_bot_greet
 - utter_did_that_help
 - utter_goodbye
 - utter_affirm_info
@@ -113,9 +116,10 @@ actions:
 - utter_ask_for_booking
 - utter_ask_num_people
 - utter_ask_phone_num
-- utter_slots_values
 - utter_ask_time
 - utter_submit
 - utter_slot_values
+- utter_default
+- action_get_date_time
 forms:
 - restaurant_form
