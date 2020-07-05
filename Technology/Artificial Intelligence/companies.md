@@ -195,6 +195,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Wobot Intelligence](http://www.wobot.ai/careers)
 - [streamingo.ai](https://angel.co/company/streamingo-solutions-1/jobs)
 - [orbo.ai](https://angel.co/company/orbo-ai/jobs)
+- [IDfy](https://portal.idfy.com/careers)
+- [hyperverge](https://hyperverge.co/careers)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
