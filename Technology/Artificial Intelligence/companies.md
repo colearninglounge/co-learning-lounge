@@ -47,7 +47,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [CitiusTech](https://citiustech.applytojob.com/)
 
 ## Logistics
-- [logiNext](https://www.loginextsolutions.com/careers)
+- [logiNext](https://www.loginextsolutions.com/job-roles)
 - [locus.sh](https://locus.freshteam.com/jobs)
 
 ## FinTech
@@ -57,7 +57,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [arya.ai](https://angel.co/company/arya-ai/jobs)
 
 ## InsurTech
-- [artivatic.ai](https://artivatic.ai/career)
+- [artivatic.ai](https://new.artivatic.ai/blocks/jobs/#)
 
 ## AgTech
 - [cropIn](https://www.cropin.com/careers/)
@@ -112,7 +112,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [igbweb](https://www.novetta.com/careers/search-jobs/)
 - [imimtek](https://hire.withgoogle.com/public/jobs/aquificom)
 - [ppt vision](https://career2.successfactors.eu/career?company=datalogics)
-- [HHMI](https://www.janelia.org/you-janelia/careers)
+- [HHMI](https://hhmi-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.allpositions&company_id=16908&version=1)
 - [occipital](http://occipital.com/jobs)
 - [ng](http://careers.northropgrumman.com/career_areas.html)
 - [justin.tv](http://jobs.justin.tv/index.html)
@@ -237,7 +237,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [speechmatics](https://www.speechmatics.com/about-us/careers/available-roles/)
 
 ## Others
-- [figure eight](https://www.figure-eight.com/company/careers/)
+- [figure eight](https://talent-appen.icims.com/jobs/search?pr=0&in_iframe=1)
 - [datarobot](https://www.datarobot.com/careers/)
 - [h2o.ai](https://www.h2o.ai/careers/)
 - [neurala](https://www.neurala.com/about/careers/openings)
