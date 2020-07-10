@@ -19,7 +19,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [haptik.ai](https://haptik.ai/careers/)
 - [avaamo](https://hire.withgoogle.com/public/jobs/avaamocom)
 - [niki.ai](https://angel.co/company/niki/jobs)
-- [next IT](https://www.nextit.com/about-us#careers)
+- [next IT](https://chm.tbe.taleo.net/chm03/ats/careers/v2/jobSearch?org=VERINT&cws=72&_ga=2.4630459.982269742)
 - [soundhound](https://boards.greenhouse.io/soundhoundinc/)
 - [zymergen](https://www.zymergen.com/careers/)
 - [kore.ai](https://kore.ai/careers/)
@@ -36,7 +36,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 
 ## Healthcare/Biotech
 - [niramai](https://www.niramai.com/careers/)
-- [doxper](http://www.doxper.com/)
+- [doxper](https://doxper.com/home/careers/)
 - [tempus](https://www.tempus.com/careers/)
 - [cognitive scale](https://hire.withgoogle.com/public/jobs/cognitivescalecom)
 - [freenome](https://www.freenome.com/careers/)
@@ -47,7 +47,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [CitiusTech](https://citiustech.applytojob.com/)
 
 ## Logistics
-- [logiNext](https://www.loginextsolutions.com/careers)
+- [logiNext](https://www.loginextsolutions.com/job-roles)
 - [locus.sh](https://locus.freshteam.com/jobs)
 
 ## FinTech
@@ -57,18 +57,18 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [arya.ai](https://angel.co/company/arya-ai/jobs)
 
 ## InsurTech
-- [artivatic.ai](https://artivatic.ai/career)
+- [artivatic.ai](https://new.artivatic.ai/blocks/jobs/#)
 
 ## AgTech
 - [cropIn](https://www.cropin.com/careers/)
 - [blue river technology](http://careers.bluerivertechnology.com/)
 
 ## AdTech
-- [persado](https://www.persado.com/about/careers/)
+- [persado](https://www.persado.com/about/careers/job-availability/)
 
 ## Robotics
 - [aeye](https://boards.greenhouse.io/embed/job_board?for=aeyeinc)
-- [AIbrain](https://aibrain.com/)
+- [AIbrain](https://aibrain.com/about/careers/)
 - [cloudminds](https://www.en.cloudminds.com/)
 - [vicarious](https://www.vicarious.com/careers/)
 - [UI path](https://www.uipath.com/company/careers/jobs)
@@ -79,7 +79,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Artivatic](https://artivatic.ai/career)
 - [UNBXD](https://unbxd.com/careers/openings/)
 - [oneorigin](https://www.oneorigin.us/careers/)
-- [sharechat](https://we.sharechat.com/careers)
+- [sharechat](https://www.linkedin.com/company/sharechat)
 - [jina.ai](https://jina.ai/#/jobs)
 
 ## Computer vision
@@ -88,7 +88,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [clmtec](http://www.cimtecimaging.com/contact)
 - [ikomed](http://www.ikomed.com/careers/)
 - [algolux](https://algolux.com/careers/)
-- [wrnch](https://wrnch.ai/)
+- [wrnch](https://wrnch.recruitee.com/)
 - [Adaptive Vision](https://www.adaptive-vision.com/pl/firma/oferty-pracy/)
 - [Plastream](http://plastream.net/)
 - [deepvisionai](https://www.deepvisionai.com)
@@ -100,37 +100,37 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [diotasoft](http://www.diotasoft.com/index.php/en/apropos-diota#joboffers)
 - [VideoStitch](http://www.video-stitch.com/jobs/)
 - [SentioSports](http://sentiosports.com/career.html)
-- [gentex corporation](http://www.gentex.com/careers/index.html)
+- [gentex corporation](https://www.gentex.com/careers/search-jobs/)
 - [a9](https://a9.com/work-with-us/)
 - [COGNEX](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site)
 - [hp labs](https://jobs.hp.com/en-us/Search-Results?CloudSearchValue=nonse&CloudSearchLocation=none&CloudSearchRadius=50&radiusUnit=Miles&prefilters=none)
-- [philips healthcare](https://www.careers.philips.com/apac/en)
-- [Nokia](http://www.nokia.com/global/about-nokia/careers/)
+- [philips healthcare](https://www.careers.philips.com/professional/apac/en/search-results?keywords=)
+- [Nokia](https://www.nokia.com/about-us/careers/)
 - [Kla Tencor](https://careers.kla-tencor.com/jobs/search)
 - [immersive labs](https://immersivelabs.com/careers/)
 - [intuitive surgical](http://intuitivesurgical.hodesiq.com/job_detail.asp?JobID=2900801)
-- [igbweb](https://www.novetta.com/careers/)
+- [igbweb](https://www.novetta.com/careers/search-jobs/)
 - [imimtek](https://hire.withgoogle.com/public/jobs/aquificom)
-- [ppt vision](https://www.datalogic.com/eng/company/careers-ca-26.html)
-- [HHMI](https://www.janelia.org/you-janelia/careers)
+- [ppt vision](https://career2.successfactors.eu/career?company=datalogics)
+- [HHMI](https://hhmi-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.allpositions&company_id=16908&version=1)
 - [occipital](http://occipital.com/jobs)
 - [ng](http://careers.northropgrumman.com/career_areas.html)
 - [justin.tv](http://jobs.justin.tv/index.html)
 - [incogna](http://www.incogna.com/?p=careers)
 - [video surf](http://www.videosurf.com/jobs)
-- [tyzx](http://www.tyzx.com/careers/index.html)
+- [tyzx](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 - [object video](https://objectvideolabs.com/careers/)
 - [honeywell](https://www.honeywell.com/en-us/careers)
 - [skybox](http://skyboximaging.com/careers/culture)
 - [park assist](https://www.parkassist.com/contact-us/careers/)
 - [ailive](http://www.ailive.net/careers.html)
-- [hover](http://www.hoverinc.com/hover-jobs.php)
-- [aptina](http://www.aptina.com/careers/)
-- [OptraScan website](https://www.optrascan.com/about-us/careers)
-- [Honda Research](http://www.hondaresearch.com/job-opportunities.php)
+- [hover](https://hover.to/jobs/)
+- [aptina](https://www.onsemi.com/careers)
+- [OptraScan website](https://www.optrascan.com/why-optrascan/careers)
+- [Honda Research](https://www.honda.com/careers/find-a-job)
 - [Image Metrics](http://image-metrics.com/company/#careers)
 - [Graftek Imaging](https://www.graftek.biz/contact)
-- [Microscan](http://www.microscan.com/en-us/aboutus/CareerOpportunities.aspx)
+- [Microscan](https://microscan.com/company/careers)
 - [DAQRI](http://daqri.com/careers/)
 - [kairos](https://www.kairos.com/about)
 - [LTU Technologies](https://www.ltutech.com/job/)
@@ -151,7 +151,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [ISS Art](https://issart.com/contacts/)
 - [KritiKal Solutions](http://careers.kritikalvision.ai/jobs/)
 - [FaceX](https://facex.io/about.html)
-- [carl zeiss](http://www.zeiss.de/C12567A100537AB9?Open)
+- [carl zeiss](https://www.zeiss.com/corporate/int/careers/job-openings-and-applications.html)
 - [atlas elektronik](https://www.atlas-elektronik.com/career/jobs.html)
 - [Nerian Vision GmbH](https://nerian.com/company/jobs/)
 - [Vathos Robotics](https://www.vathos-robotics.com/careers/)
@@ -180,7 +180,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Satelligence](https://satelligence.com/careers)
 - [ayonix](http://ayonix.com/)
 - [morpho](https://www.morphoinc.com/careers)
-- [crisalix home](https://www.crisalix.com/en/careers)
+- [crisalix home](https://apply.workable.com/crisalix/)
 - [picscout website](https://picscout.com/contact)
 - [RSIP Vision Website](https://www.rsipvision.com/careers/)
 - [Odd Concepts](https://oddconcepts.kr/index.en.html)
@@ -195,6 +195,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Wobot Intelligence](http://www.wobot.ai/careers)
 - [streamingo.ai](https://angel.co/company/streamingo-solutions-1/jobs)
 - [orbo.ai](https://angel.co/company/orbo-ai/jobs)
+- [IDfy](https://portal.idfy.com/careers)
+- [hyperverge](https://hyperverge.co/careers)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
@@ -235,7 +237,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [speechmatics](https://www.speechmatics.com/about-us/careers/available-roles/)
 
 ## Others
-- [figure eight](https://www.figure-eight.com/company/careers/)
+- [figure eight](https://talent-appen.icims.com/jobs/search?pr=0&in_iframe=1)
 - [datarobot](https://www.datarobot.com/careers/)
 - [h2o.ai](https://www.h2o.ai/careers/)
 - [neurala](https://www.neurala.com/about/careers/openings)

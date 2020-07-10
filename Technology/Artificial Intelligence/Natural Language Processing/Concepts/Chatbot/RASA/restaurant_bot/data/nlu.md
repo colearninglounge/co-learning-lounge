@@ -14,10 +14,12 @@
 - yes it did
 - na
 - its ok
+- yes please
 
 ## intent:deny
 - no
 - never
+- nothing
 - I don't think so
 - don't like that
 - no way
@@ -52,7 +54,15 @@
 - i dont know my location
 - dont know
 - not sure actualy
-- I am at Kukatpally
+- no thanks
+- no its fine
+- no its ok thanks a lot for your help
+- no i dont want to do any booking
+- no booking required
+- fine without booking
+- not required
+- no just wanted to check out
+- no booking please
 
 ## intent:goodbye
 - bye
@@ -67,7 +77,6 @@
 - bye see you soon
 - bbye nice talking to you
 - bye talk to you later
-- bye see you soon
 - bbye talk to you later
 - bye meet you soon
 - bbye meet you soon
@@ -264,16 +273,12 @@
 - please provide me [Belgian](cuisine) food
 - [pizza](cuisine)
 - [rolls](cuisine)
-- [salads](cuisine)
 - [Juices](cuisine)
 - [Tea](cuisine)
 - my choice will be [Juices](cuisine)
 - i would like to have [Juices](cuisine)
 - my choice will be [Tea](cuisine)
 - i would like to have [Tea](cuisine)
-
-## lookup:cuisine
-data/lookup_tables/cuisine.txt
 
 ## intent:telling_location
 - my preffered location will be bengaluru
@@ -325,6 +330,7 @@ data/lookup_tables/cuisine.txt
 - i am living in hyderabad
 - I am at Madhapur
 - I am at KPHB
+- yes its hyderabad
 
 ## intent:telling_location_cuisine
 - i am looking for some [chinese](cuisine) food in mumbai
@@ -422,20 +428,6 @@ data/lookup_tables/cuisine.txt
 - my choice will be [Tea](cuisine) in hyderabad
 - i would like to have [Tea](cuisine) in mumbai
 
-## intent:request_restaurant
-- i would like to make a booking
-- can i also book a table
-- booking
-- make a booking
-- please make a booking also
-- book me a table please
-- can you book me a table
-- i want to do a booking
-- reserve me a table
-- i want to reserve a table
-- can you reserve me a table
-- please reserve me a table
-
 ## intent:telling_phonenum
 - i would like to book with the contact number [9436864412](phone_num)
 - please book with [1111111111](phone_num)
@@ -451,7 +443,9 @@ data/lookup_tables/cuisine.txt
 - my contact number will be [8700981613](phone_num)
 - [8826788729](phone_num)
 - use [1123344556](phone_num)
-
+- book with [3412367841](phone_num)
+- save it as [8826799364](phone_num)
+- its [7565433221](phone_num)
 
 ## intent:telling_numpeople
 - please book table for [5](num_people) people
@@ -468,6 +462,17 @@ data/lookup_tables/cuisine.txt
 - book for [8](num_people) persons please
 - please book for [30](num_people) people
 - i want booking for [20](num_people) people
+- it is [6](num_people) people
+- [15](num_people) people are coming
+- there are [10](num_people) guests
+- number of guests are [5](num_people)
+- group of [20](num_people) person is coming
+- there will be [10](num_people) people
+- book for [7](num_people) person
+- only [2](num_people) people
+- number of person will be [6](num_people)
+- it's [9](num_people) people
+- it is [12](num_people) person
 
 ## intent:telling_datetime
 - book for tomorrow 8pm
@@ -479,3 +484,14 @@ data/lookup_tables/cuisine.txt
 - tommorow 17 apr by 9 am
 - i will prefer this wednesday at 5pm
 - i would like to make it for tuesday 11am
+- my visit will be for tuesday around 8pm
+- date and time will be for monday 7pm
+- i will come on thursday at 5pm
+- confirm it for tomorrow at 4pm
+- it is for 22 april around 11 am
+- 25 april 6pm
+- please book for today 7pm
+- confirm it for 2 april around 11am
+
+## lookup:cuisine.txt
+  data/lookup_tables/cuisine.txt
