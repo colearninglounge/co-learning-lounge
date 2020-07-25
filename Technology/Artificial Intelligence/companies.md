@@ -47,6 +47,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [CitiusTech](https://citiustech.applytojob.com/)
 
 ## Logistics
+- [Uncanny Vision](https://www.uncannyvision.com/)
 - [logiNext](https://www.loginextsolutions.com/job-roles)
 - [locus.sh](https://locus.freshteam.com/jobs)
 
@@ -83,6 +84,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [jina.ai](https://jina.ai/#/jobs)
 
 ## Computer vision
+- [NetraDyne](https://www.netradyne.com/)
 - [clarifai](https://www.clarifai.com/careers)
 - [nauto](https://www.nauto.com/jobs_list)
 - [clmtec](http://www.cimtecimaging.com/contact)
