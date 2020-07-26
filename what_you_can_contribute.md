@@ -2,7 +2,7 @@
 
 ##### There are numerous ways you can contribute(mentioned from least to most):
    *  Least you can do is help others solving their doubts and guiding others in the learning adventure in our FB/Slack/Telegram group.
-   *  You can always open to share critical feedback about content and community. Write to us at colearninglounge@gmail.com
+   *  You are always open to share critical feedback about content and community. Write to us at colearninglounge@gmail.com
    *  Help us in addressing and resolving the pending [Github issues](https://github.com/colearninglounge/co-learning-lounge/issues).
    *  The best you can do is curate the relevant content for the community.
    *  Curating the domain wise companies for a specific technology.
