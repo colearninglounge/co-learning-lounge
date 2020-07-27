@@ -45,6 +45,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Butterfly Network](https://angel.co/company/butterfly-network/jobs)
 - [Episource LLC](https://www.episource.com/careers/)
 - [CitiusTech](https://citiustech.applytojob.com/)
+- [qure.ai](https://angel.co/company/qure-ai-technologies/jobs)
 
 ## Logistics
 - [logiNext](https://www.loginextsolutions.com/job-roles)
