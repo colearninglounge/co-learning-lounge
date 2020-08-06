@@ -1,6 +1,6 @@
 # <div align="center">Build a Teachable Machine using TensorFlow JS</div>
  
-![Demo GIF]()
+![Demo GIF](https://github.com/navendu-pottekkat/co-learning-lounge/blob/patch-1/Technology/Artificial%20Intelligence/project_based_learning/demo-teachable-machine.gif)
 *<div align="center">Live demo at https://navendu.me/teachable-machine</div>*
 
 # <div align="center">What is a Teachable Machine?</div>
