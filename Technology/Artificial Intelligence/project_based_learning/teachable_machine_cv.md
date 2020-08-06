@@ -43,11 +43,6 @@ Should be able to spend minimum 2 hours on weekdays and a minimum of 5 hours on 
     * [Getting started with Computer Vision](https://towardsdatascience.com/classifying-fashion-apparel-getting-started-with-computer-vision-271aaf1baf0).
     * [Getting started with Convolutional Neural Networks](https://towardsdatascience.com/classifying-fashion-apparel-getting-started-with-convolutional-neural-networks-3ae4fc5d9f76).
 
-# <div align="center">Project schedule and fees</div>
-
-The duration of the project will be 4 weeks. 
-Maximum of 10 people will be selected at ₹1999/- per person.
-
 # <div align="center">Course Outline</div>
 
 ## <div align="center">Phase 1- Creating the web interface using HTML (2 Hours)</div>
@@ -94,7 +89,7 @@ We will learn how to save and load models on TensorFlow JS.
 
 # <div align="center">How to apply?</div>
 
-If you feel you are qualified and fit the requirements mentioned above, please send your profile (Resume, LinkedIn, GitHu
+If you feel you are qualified and fit the requirements mentioned above, please send your profile (Resume, LinkedIn, GitHub) to colearninglounge@gmail.com with the subject line **Project-based project learning | CV | Teachable Machine**
 - Why do you want to join this project?
 - What are your expectations for this project?
 
@@ -110,3 +105,5 @@ For any query email us to colearninglounge@gmail.com.
 # <div align="center">Scholarship opportunity</div>
 
 During the span of the course, if you help us in creating content (learning material) for the course, then based on your contribution we will return the fees.
+
+#### <div align="center">It's our sole decision about contribution and reward.</div>
