@@ -57,7 +57,8 @@ In the following series of training with **RASA** we shall start building a **_R
 ![Conversation flow](https://raw.githubusercontent.com/colearninglounge/co-learning-lounge/master/Technology/Artificial%20Intelligence/Natural%20Language%20Processing/Concepts/Chatbot/RASA/restaurant_bot/conversation_flow.jpg)
 
 ## Project Demo
-![ProjectDemo](https://imgur.com/SyZqt0W.gif)
+
+[![](http://img.youtube.com/vi/6qssyfDLogQ/0.jpg)](http://www.youtube.com/watch?v=6qssyfDLogQ "Restaurant Bot Demo")
 
 ## Additional Benefits
 - Expand your peer group by connecting with like minded people.
