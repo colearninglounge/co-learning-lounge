@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
+</p>
+
 # <div align="center">Machine Translation</div>
 
 > _“Words travel worlds. Translators do the driving”_ 
@@ -5,7 +9,7 @@
 
 Well, there are roughly 6,500 languages spoken in the world today. Each one of them makes the world a diverse and beautiful place. Though language is indeed an art that must be mastered through hundreds and thousands of hours of practice. But with the advancement of technology like deep learning made the whole process damn simple and just one click away. 
 
-![img]()
+![img](https://www.strakertranslations.com/wp-content/uploads/2018/12/languages-1.png)
 
 Machine Translation (MT) is the task of automatically converting one natural language into another, preserving the semantic meaning of the input text, and producing a fluent translation in the output language.
 
