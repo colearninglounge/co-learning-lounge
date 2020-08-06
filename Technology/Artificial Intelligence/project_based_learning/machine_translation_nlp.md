@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
+</p>
+
 # <div align="center">Machine Translation</div>
 
 > _“Words travel worlds. Translators do the driving”_ 
