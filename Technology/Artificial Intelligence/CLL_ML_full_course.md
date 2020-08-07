@@ -14,7 +14,13 @@ In this activity, we will solve old Kaggle problems to enable you to participate
 Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
 
 # <div align="center"> Testimonial</div>
-[![Kaggle Batch 1 | Success Story [ https://youtu.be/6o_htflJWtc ] ](http://img.youtube.com/vi/6o_htflJWtc/0.jpg)](http://www.youtube.com/watch?v=6o_htflJWtc "Kaggle Batch 1 | Success Story")
+
+<p align="center">
+ <img>
+  <a href="http://www.youtube.com/watch?v=6o_htflJWtc"> <img src="http://img.youtube.com/vi/6o_htflJWtc/0.jpg" /></a>
+  </img>
+</p>
+
 
 # <div align="center">Course Outline</div>
 
