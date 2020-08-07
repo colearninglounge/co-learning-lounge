@@ -1,5 +1,5 @@
 # <div align="center">Build a Teachable Machine using TensorFlow JS</div>
-
+ 
 <p align="center">
   <img src="https://github.com/navendu-pottekkat/co-learning-lounge/blob/patch-1/Technology/Artificial%20Intelligence/project_based_learning/demo-teachable-machine.gif">
 </p>
