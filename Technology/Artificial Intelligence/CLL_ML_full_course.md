@@ -1,4 +1,4 @@
-
+  
 <p align="center">
   <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
 </p>
@@ -12,6 +12,8 @@ In this activity, we will solve old Kaggle problems to enable you to participate
 
 #### **Why Old Kaggle problems?**
 Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
+
+# <div align="center"> Testimonial</div>
 
 # <div align="center">Course Outline</div>
 
@@ -30,8 +32,22 @@ loops, lists, tuples, dictionary, functions.*
 6. Brief summary of ‘Scikit learn’.
 7. Understanding the problem statement for Kaggle problems.
 
-Problems to be undertaken:-
+## <div align="center"><ins>Batch Categories</ins></div>
 
+*For enrollment into any batch a one on one discussion session would be scheduled with our team where our team will understand your aspiration for joining this course and your
+understanding about field of Data Science and Kaggle.Based on batch category problems have been categorised accordingly.*
+
+**1. Beginner**
+
+*Begineer batch will consist of people who have knowledge of Data science conceptually and want to transition in this field. Who have worked with small/academic datasets only and want to understand how really world problems are and how to begin with those problems. This batch is for people who are newbies in world of Data Science and want guidance to get their hands dirty with kaggle problems.*
+
+**2. Intermediate**
+
+*Intermediate batch would consist of people who have already embraced the world of Data Science but still face challenges with real life datasets. One who wants to move a step further in Data Science. People who have knowledge and hands on experience in Data Science problem solving. This batch is for people who want to stengthen their skill in Data Science by plunging in complex kaggle problem solving.*
+
+The whole idea is to mentor and guide you well in your Data Science journey. Like others, we don't want to give you **False hopes** and then fail at making a successful career transition. Also, once you join our course and after finishing you can solve plenty of Kaggle problems with help of close and premium community of Kagglers and guidance from mentors.
+
+## <div align="center"><ins>Problems to be undertaken</ins></div>
 
 **1. [Titanic dataset (Beginner)](https://www.kaggle.com/c/titanic)**
 
@@ -40,19 +56,15 @@ death of 1502 out of 2224 passengers. Analysis shows that while some amount of l
 involved, some passengers were more likely to survive than others. Train a machine learning 
 model to predict what sort of people were likely to survive.*
 
-**2. [Credit card fraud detection (Intermediate)](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
+**2. [Predicting a Pulsar Star(Intermediate)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)**
 
-*It is important that credit card companies are able to recognize fraudulent credit card 
-transactions so that customers are not charged for items that they did not purchase. Make 
-your machine learning model learn to detect these anomalous transactions*
+*Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter. Machine learning tools are now being used to automatically label pulsar candidates to facilitate rapid analysis. Classification systems in particular are being widely adopted,which treat the candidate data sets as binary classification problems.*
 
-**3. [Santander’s Customer Satisfaction (Advanced)](https://www.kaggle.com/c/santander-customer-satisfaction)**
+**3. [Chronic KIdney Disease dataset (Intermediate)](https://www.kaggle.com/mansoordaku/ckdisease)**
 
-*From frontline support teams to C-suites, customer satisfaction is a key measure of success. 
-Unhappy customers don't stick around. Work with hundreds of anonymous features to 
-predict if a customer is happy with the transaction.*
+*The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not*
 
-## <div align="center"><ins>Exploratory Data Analysis Syllabus- 6-8 hours</ins></div>
+## <div align="center"><ins>Exploratory Data Analysis Syllabus (6-8 hours)</ins></div>
 
 *To delve into machine learning, the first step is to identify and analyze our dataset in order to ascertain 
 different patterns, detect missing values and anomalies and identify different characteristics of our 
@@ -66,13 +78,16 @@ data. In other words, we attempt to understand what the data is trying to tell u
 4. Univariate Analysis- Non-Graphical.
 5. Univariate Analysis-Graphical (VDA).
 6. Bivariate Analysis.
-7. Variable transformations.
+7. Pair Plot Analysis
 8. Missing value treatment.
 9. Outlier treatment.
 10. Correlation Analysis.
 11. Dimensionality Reduction.
+12. Binning
+13. Log Transformation
+14. Scaling
 
-## <div align="center"><ins>Dataset split- 1 hour</ins></div>
+## <div align="center"><ins>Dataset split- (1 hour)</ins></div>
 
 *It is a common practice in machine learning to split data into training, testing and validation set 
 allowing us to calibrate our model and test it’s performance on unseen data*
@@ -83,7 +98,7 @@ allowing us to calibrate our model and test it’s performance on unseen data*
 2. Test
 3. Validation (different types) 
 
-## <div align="center"><ins>ML Algorithms - 8-10 hours</ins></div>
+## <div align="center"><ins>ML Algorithms- Supervised learning (8-10 hours)</ins></div>
 
 *Understanding the theoretical and mathematical of machine learning algorithms is the crux of 
 developing accurate predictive models. Different machine learning algorithms are suited for different 
@@ -91,20 +106,16 @@ types and distribution of data*
 
 <U> Delve into the intricacies of the mathematics and mechanism of the functioning of these algorithms: </U>
 
-1. **Supervised learning**
-    - Linear Regression
-    - Logistic Regression
-    - Decision Trees
-    - SVM
-    - Naive Bayes
-    - K means
-    - Random Forest
+   1. Linear Regression
+   2. Logistic Regression
+   3. Decision Trees
+   4. SVM
+   5. Naive Bayes
+   6. Random Forest
+   7. XGBoost
+   8. LightGBM
     
-    
-2. **Unsupervised learning**
-    - KNN
-
-## <div align="center"><ins>Evaluation metrics- 3-4 hours</ins></div>
+## <div align="center"><ins>Evaluation metrics (3-4 hours)</ins></div>
 
 *A developed model needs to be evaluated for it’s performance before being actually deployed 
 in real time environment.*
@@ -120,7 +131,16 @@ in real time environment.*
 7. Root Mean Square Error
 8. Cross Validation
 
-## <div align="center"><ins>Hyperparameter tuning</ins></div>
+## <div align="center"><ins>ML Explainability (3-4 hours)</ins></div>
+
+*Towards a better understanding of why machine learning models make the decisions they do, and why it matters*
+
+<U> Learn the concepts to measure the interpretability of the ML models : </U>
+
+1. LIME
+2. Algorithimc Generalisation
+
+## <div align="center"><ins>Hyperparameter tuning (3-4 hours)</ins></div>
 
 *Once a machine learning algorithm has been identified, it is imperative to choose an optimal set of 
 parameters to tune the model to better fit the data. Such parameters can’t be learn’t during the 
@@ -130,23 +150,22 @@ Develop an intuition to streamline the parameter optimization process.
 
 ## <div align="center"><ins>What will you get out of this course?</ins></div>
 
--  You’ll get to understand the entire machine learning pipeline.
--  You’ll get to learn abstract topics such as Exploratory Data Analysis.
--  You’ll learn methods to identify outliers and methods to eliminate it’s effects.
--  You’ll get to learn dimensionality reduction.
--  You’ll be delving into the intricacies of different machine learning algorithms.
--  You’ll get to understand the nuances of Hyperparameter tuning.
+-  You’ll get to understand the entire **Machine Learning** pipeline.
+-  You’ll get to learn abstract topics such as **Statistics** & **Exploratory Data Analysis**.
+-  You’ll learn methods to identify **Outliers** and methods to eliminate it’s effects.
+-  You’ll get to learn **Dimensionality Reduction**.
+-  You’ll be delving into the **intricacies** of different ML algorithms.
+-  You’ll get to understand the nuances of **Hyperparameter tuning**.
 -  You’ll be getting hands on experience through Weekly Assignments.
--  You’ll be able to reach out to peers and mentors through sync ups occurring twice per week.
--  You’ll be guided throughout the process by our mentors through daily status checks.
--  You’ll get to submit your work on Kaggle as a notebook.
--  You’ll be building a strong LinkedIn profile visible to recruiters.
--  We will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested)
--  This course should give enough confidence to solve the ML/DL assignments given by company's for the ML role.
+-  You’ll be able to reach out to peers and mentors through sync ups every Wednesday and Friday.
+-  You’ll get to submit your work on **Kaggle** as a notebook.
+-  You’ll be building a strong **LinkedIn profile** visible to recruiters.
+-  We will teach you to **create the content** and increase LinkedIn presence to **build your self-brand** during the course(If you are interested)
+-  This course should give enough **confidence to solve** the ML/DL assignments given by company's for the ML role.
 
 ## <div align="center"><ins>Post - course benefits</ins></div>
 
--  Get your Resume and GitHub reviewed by experts.
+-  Get your Resume and GitHub reviewed by experts. *[Additional service at cheaper price]*
 -  Once you have undertaken and completed the course, you will get full-fledged support from our mentors from the community for any technical help, guidance, etc.
 - As most of the company prefer giving assignment to the candidate for ML role, we can help you to mentor for same.
 - As we have mentored and we know your skills and achievement, we will refer you for any AI/ML job which fits your profile.
@@ -170,10 +189,11 @@ While applying, do let us know:-
    1. **Why do you want to join this course?**
    2. **What are your expectations from this course?**
 
-# <div align="center">Training period fee - ₹ 2999/- per person</div>
--  Course starts on **20th June 2020 till completion of the challenge OR 25th July 2020**. Whichever comes first.
--  To maintain the quality of learning **maximum 12 person** in batch is allowed.
-- Last day to apply is **15th June 2020**.
+# <div align="center">Training period fee - ₹ 5999/- per person</div>
+
+-  Course starts on **22nd August 2020 till completion of the challenge OR 27th September 2020**. *Whichever comes first.*
+-  To maintain the quality of learning **maximum 20 person** in batch is allowed.
+- Last day to apply is **12th August 2020**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
 
 
