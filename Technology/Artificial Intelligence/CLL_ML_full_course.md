@@ -13,7 +13,7 @@ In this activity, we will solve old Kaggle problems to enable you to participate
 #### **Why Old Kaggle problems?**
 Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
 
-# <div align="center"> Testimonial</div>
+# <div align="center"> Testimonial (Watch video)</div>
 
 <p align="center">
  <img>
