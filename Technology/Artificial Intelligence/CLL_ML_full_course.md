@@ -172,6 +172,15 @@ Develop an intuition to streamline the parameter optimization process.
 - As we know LinkedIn is the platform to catch recruiters' attention, we will shout out your achievements, help to boost your work on LinkedIn to get visibility.
 - You will be eligible for intermediate and advance concepts in the same series.
 
+## <div align="center"><ins>Resume and LinkedIn Review</ins></div>
+-	Design and formatting 
+-	Content, Buzzwords, Matrix
+-	Objective/Summary strength
+-	ATS Score (With screenshot) & how to Improve
+-	LinkedIn Profile strength review
+-	Activity/Content review 
+-	LinkedIn Profile score (With screenshot) & How to Improve
+
 ## <div align="center"><ins>Rules and Regulations</ins></div>
 
 - Since the course time-lines are fixed, you will have to submit the assigned learning module and work within a given time.
