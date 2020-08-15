@@ -15,10 +15,6 @@ Machine Translation (MT) is the task of automatically converting one natural lan
 
 In this project-based learning, we will translate from German to English while building the end to end project from scratch with the step-by-step implementation of Deep Learning models in [Pytorch](http://pytorch.org/) along with exploring [Torchtext](https://pytorch.org/text/) and [Spacy](https://spacy.io/) library and creating [Streamlit](https://www.streamlit.io/) app(fastest and easiest way for data scientists to create beautiful, performant apps)
 
-## <div align="center">Project Demo</div>
-
-![demo]()
-
 ## <div align="center"> Project Demo </div>
 
 <p align="center">
