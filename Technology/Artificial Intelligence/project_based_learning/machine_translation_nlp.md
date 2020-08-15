@@ -19,6 +19,12 @@ In this project-based learning, we will translate from German to English while b
 
 ![demo]()
 
+## <div align="center"> Project Demo </div>
+
+<p align="center">
+	<img src="https://github.com/colearninglounge/co-learning-lounge/blob/master/Technology/Artificial%20Intelligence/project_based_learning/machine-translation-demo.gif?raw=true" alt="animated">
+</p>
+
 
 ## <div align="center">Requirements</div>
 
