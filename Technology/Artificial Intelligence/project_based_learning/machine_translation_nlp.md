@@ -9,7 +9,9 @@
 
 Well, there are roughly 6,500 languages spoken in the world today. Each one of them makes the world a diverse and beautiful place. Though language is indeed an art that must be mastered through hundreds and thousands of hours of practice. But with the advancement of technology like deep learning made the whole process damn simple and just one click away. 
 
-![img](https://www.strakertranslations.com/wp-content/uploads/2018/12/languages-1.png)
+<p align="center">
+<img src="https://www.strakertranslations.com/wp-content/uploads/2018/12/languages-1.png" />
+</p>
 
 Machine Translation (MT) is the task of automatically converting one natural language into another, preserving the semantic meaning of the input text, and producing a fluent translation in the output language.
 
@@ -140,10 +142,10 @@ While applying, do let us know:-
 
 # <div align="center">Training period fee - ₹ 1999/- per person</div>
 
-The project starts on 23rd Aug 2020 till completion of the project OR 27th September 2020. Whichever comes first.
+- The project starts on **_23rd Aug 2020_** till completion of the project OR **_27th September 2020._** Whichever comes first.
+- To maintain the quality of learning maximum of **10 people** in the batch is allowed.
 
-To maintain the quality of learning maximum 10 people in the batch is allowed.
-The last day to apply is 19th Aug 2020.
+The last day to apply is **_19th Aug 2020._**
 
 For any query email us to colearninglounge@gmail.com.
 
