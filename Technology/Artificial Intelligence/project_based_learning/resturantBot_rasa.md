@@ -124,10 +124,11 @@ In the following series of training with **RASA** we shall start building a **_R
 	- What are your expectations for this project?
 <h2 align="center"> Training period fee is ₹1999/- per person</h2>
 
-- The project starts on **_12th Aug 2020_** till completion of the project OR **_20th September 2020._** Whichever comes first.
+- The project starts on **_23rd Aug 2020_** till completion of the project OR **_27th September 2020._** Whichever comes first.
 - To maintain the quality of learning maximum of **10 people** in the batch is allowed.
 
-The last day to apply is **_9th Aug 2020._**
+The last day to apply is **_19th Aug 2020._**
+
 
 **For any query email us to [colearninglounge@gmail.com](mailto:colearninglounge@gmail.com).**
 
