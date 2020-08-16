@@ -140,10 +140,10 @@ While applying, do let us know:-
 
 # <div align="center">Training period fee - ₹ 1999/- per person</div>
 
-The project starts on 12th Aug 2020 till completion of the project OR 20th September 2020. Whichever comes first.
+The project starts on 23rd Aug 2020 till completion of the project OR 27th September 2020. Whichever comes first.
 
 To maintain the quality of learning maximum 10 people in the batch is allowed.
-The last day to apply is 9th Aug 2020.
+The last day to apply is 19th Aug 2020.
 
 For any query email us to colearninglounge@gmail.com.
 
