@@ -71,6 +71,10 @@ model to predict what sort of people were likely to survive.*
 
 *The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not*
 
+**4. [Employee Attrition (Intermediate)](https://www.kaggle.com/patelprashant/employee-attrition)**
+
+*The key to success in any organization is attracting and retaining top talent. As an HR analyst one of the key task is to determine which factors keep employees at the company and which prompt others to leave. Given in the data is a set of data points on the employees who are either currently working within the company or have resigned. The objective is to identify and improve these factors to prevent loss of good people.*
+
 ## <div align="center"><ins>Exploratory Data Analysis Syllabus (6-8 hours)</ins></div>
 
 *To delve into machine learning, the first step is to identify and analyze our dataset in order to ascertain 
