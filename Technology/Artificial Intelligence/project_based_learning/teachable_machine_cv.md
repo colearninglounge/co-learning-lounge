@@ -1,10 +1,16 @@
 # <div align="center">Build a Teachable Machine using TensorFlow JS</div>
  
 <p align="center">
-  <img src="https://github.com/navendu-pottekkat/co-learning-lounge/blob/patch-1/Technology/Artificial%20Intelligence/project_based_learning/demo-teachable-machine.gif">
+  <img src="./teachable-machine-image-classifier.gif">
 </p>
 
-*<div align="center">Live demo at https://navendu.me/teachable-machine</div>*
+*<div align="center">Teachable Image Classifier: Live demo at https://navendu.me/teachable-machine</div>*
+
+<p align="center">
+  <img src="./teachable-machine-audio-classifier.gif">
+</p>
+
+*<div align="center">Teachable Audio Classifier: Live demo at https://editor.p5js.org/navendu-pottekkat/present/NggxLAXXM</div>*
 
 # <div align="center">What is a Teachable Machine?</div>
 
