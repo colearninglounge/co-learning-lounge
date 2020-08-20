@@ -1,10 +1,16 @@
 # <div align="center">Build a Teachable Machine using TensorFlow JS</div>
  
 <p align="center">
-  <img src="https://github.com/navendu-pottekkat/co-learning-lounge/blob/patch-1/Technology/Artificial%20Intelligence/project_based_learning/demo-teachable-machine.gif">
+  <img src="./teachable-machine-image-classifier.gif">
 </p>
 
-*<div align="center">Live demo at https://navendu.me/teachable-machine</div>*
+*<div align="center">Teachable Image Classifier: Live demo at https://navendu.me/teachable-machine</div>*
+
+<p align="center">
+  <img src="./teachable-machine-audio-classifier.gif">
+</p>
+
+*<div align="center">Teachable Audio Classifier: Live demo at https://editor.p5js.org/navendu-pottekkat/present/NggxLAXXM</div>*
 
 # <div align="center">What is a Teachable Machine?</div>
 
@@ -12,13 +18,18 @@ A Teachable Machine is a web-based tool that makes training a Machine Learning m
 
 In this project, we will be building a Teachable Machine that lets anyone teach their computer to recognize images using their webcam.
 
+We will also use the [Teachable Machine from Google](https://teachablemachine.withgoogle.com/) to train a custom Audio Classifier and use it in our projects.
+
 We will look into TensorFlow JS, a JavaScript library developed by Google for training and using Machine Learning models in the browser and use it to create our own Machine Learning model.
 
-By the end of the project, we will have built a Teachable Machine that runs in your browser and can be hosted on the Internet.
+We will also learn about p5.js a JavaScript Library for creative coding and ml5.js, a "Machine Learning for web" library built on top of TensorFlow JS.
+
+By the end of the project, we will have built a **Teachable Machine that runs in your browser** and can be hosted on the Internet and an **Audio Classifier that uses a trained model from Teachable Machine**. 
 
 # <div align="center">What will you learn?</div>
 
 * TensorFlow and TensorFlow JS, one of the most popular libraries for Machine Learning.
+* High level JavaScript libraries like p5.js and ml5.js which are great for prototyping.
 * How Computer Vision works and how you can create a Computer Vision model.
 * Leveraging the power of pre-trained state-of-the-art models using Transfer Learning.
 * Deploying Deep Learning models on edge(web browser).
@@ -45,6 +56,7 @@ Should be able to spend minimum 2 hours on weekdays and a minimum of 5 hours on 
 * If you are new to Computer Vision and have no idea about Convolutional Neural Networks, go through these articles even just to refresh your memory.
     * [Getting started with Computer Vision](https://towardsdatascience.com/classifying-fashion-apparel-getting-started-with-computer-vision-271aaf1baf0).
     * [Getting started with Convolutional Neural Networks](https://towardsdatascience.com/classifying-fashion-apparel-getting-started-with-convolutional-neural-networks-3ae4fc5d9f76).
+* [Optional] Go through [p5.js](https://p5js.org/) documentation. We will use only some basic p5.js for building the Audio Classifier. 
 
 # <div align="center">Course Outline</div>
 
@@ -54,7 +66,7 @@ We will start the project by first creating the front-end web page interface for
 
 We will create a basic web page which we can connect with the brain of our project, which we will build in the coming weeks.
 
-## <div align="center">Phase 2- Creating the “brain” with TensorFlow JS (3 Hours)</div>
+## <div align="center">Phase 2- Creating the “brain” with TensorFlow JS and deploying to GitHub(3 Hours)</div>
 
 We will now create the Machine Learning model that powers this project. 
 
@@ -62,21 +74,28 @@ We will start by loading a pre-trained Convolutional Neural Network and connect 
 
 We will then see how we can use the webcam to capture images and perform inference on them using our loaded model in real-time.
 
-## <div align="center">Phase 3- Deploying the Teachable Machine (2 Hours)</div>
-
 We will finally deploy our Teachable Machine on GitHub for the whole World to see.
 
-We will talk about the next steps and see how we can improve the project by adding more features.
+## <div align="center">Phase 3- Making the Audio Classifier (2 Hours)</div>
 
-## <div align="center">Phase 4- Save and reuse the trained model and further improvements (3 Hours)</div>
+We will train an Audio Classifier and use it for our project.
 
-We will now save the model from our Teachable Machine so that we can use it for other projects.
+We will use p5.js and ml5.js for loading our pre-trained Classifier.
 
-We will learn how to save and load models on TensorFlow JS.
+We will learn how we can prototype for the web faster with the two libraries(p5.js and ml5.js).
+
+## <div align="center">Phase 4- Taking it ahead (3 Hours)</div>
+
+We will look into what we have built so far and make improvements. 
+
+We will look into how we can add new features and improve the projects.
+
+With the basics covered, you would be able to use TensorFlow JS for a wide range of projects and we will look into some of these.
 
 ## <div align="center">Furthur Improvements</div>
 
 * Add more teachable models using [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+* Improve the UI
 
 # <div align="center">Post-course benefits</div>
 
