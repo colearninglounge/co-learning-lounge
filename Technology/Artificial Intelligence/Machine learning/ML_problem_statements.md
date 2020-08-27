@@ -10,6 +10,15 @@ _Start here! Predict survival on the Titanic and get familiar with ML basics_ <b
 - Playground problem for beginner in Data Science
 - ...
 
+### House Price Prediction - Regression problem
+_Start here! predict the final price of each home and get familiar with ML basics_ <br>
+This is a perfect competition for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition.<br>
+**Kaggle** : https://www.kaggle.com/c/house-prices-advanced-regression-techniques <br>
+**Problem Statement**: 
+- Playground problem for beginner in Data Science
+- Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+
 
 # Intermediate
 
@@ -20,6 +29,12 @@ _Anonymized credit card transactions labeled as fraudulent or genuine_ <br>
 - Highly imbalanced classes
 - Anonymous features
 - ...
+
+### Google Analytics Customer Revenue Prediction - Regression problem
+_predict revenue per customer_ <br>
+**Kaggle** : https://www.kaggle.com/c/house-prices-advanced-regression-techniques <br>
+**Problem Statement**: 
+- In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. Hopefully, the outcome will be more actionable operational changes and a better use of marketing budgets for those companies who choose to use data analysis on top of GA data.
 
 # Advance
 
