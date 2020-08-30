@@ -24,7 +24,9 @@ This is also a great tool in your arsenal for future projects.
 
 We will learn how to use Bootstrap as we build the front-end.
 
-The complete code for this session can be found on this [Gist](https://getbootstrap.com/).
+Check the [different components](https://getbootstrap.com/docs/4.5/components/alerts/) available in Bootstrap and how we have used that in our code.
+
+The complete code for this session can be found on this [Gist](https://gist.github.com/navendu-pottekkat/0cd345b5e3458de2ce1c7fdd804548c9).
 
 ## Step 1- Create an index.html file
 
