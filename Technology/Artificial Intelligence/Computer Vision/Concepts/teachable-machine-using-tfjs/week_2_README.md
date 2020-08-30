@@ -171,6 +171,8 @@ The model will not run on the server but on each user's browser. Isn't that neat
 * It will automatically detect the index.html file and it will show the link to the website.
 * Enforce HTTPS for security.
 
+You can check [this](https://pages.github.com/) for more info.
+
 You can now share this with anybody over the Internet!
 
 Share away!
