@@ -7,7 +7,7 @@
     1. There exists a pattern. <br>
     2. You cannot solve it mathematically (even by writing exponential equations). <br>
     3. You have data on it. <br>
-    Always look for these three factors to decide if machine learning is a tool to solve a particular problem.
+    Always look for these three factors to decide if machine learning is a tool to solve a particular problem. <br>
     Check [this](https://colearninglounge.discourse.group/t/how-to-decide-if-the-given-problem-can-be-solved-with-machine-learning-or-not/81) thread for more detailed discussion. Also, you can share your views there.
 </details>
 
