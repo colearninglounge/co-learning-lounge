@@ -63,15 +63,15 @@ death of 1502 out of 2224 passengers. Analysis shows that while some amount of l
 involved, some passengers were more likely to survive than others. Train a machine learning 
 model to predict what sort of people were likely to survive.*
 
-**2. [Predicting a Pulsar Star(Intermediate)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)**
+**2. [Predicting a Pulsar Star(Intermediate)](https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate)**
 
 *Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter. Machine learning tools are now being used to automatically label pulsar candidates to facilitate rapid analysis. Classification systems in particular are being widely adopted,which treat the candidate data sets as binary classification problems.*
 
-**3. [Chronic KIdney Disease dataset (Intermediate)](https://www.kaggle.com/mansoordaku/ckdisease)**
+**3. [Chronic KIdney Disease dataset (Intermediate)](https://www.kaggle.com/colearninglounge/chronic-kidney-disease)**
 
 *The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not*
 
-**4. [Employee Attrition (Intermediate)](https://www.kaggle.com/patelprashant/employee-attrition)**
+**4. [Employee Attrition (Intermediate)](https://www.kaggle.com/colearninglounge/employee-attrition)**
 
 *The key to success in any organization is attracting and retaining top talent. As an HR analyst one of the key task is to determine which factors keep employees at the company and which prompt others to leave. Given in the data is a set of data points on the employees who are either currently working within the company or have resigned. The objective is to identify and improve these factors to prevent loss of good people.*
 
