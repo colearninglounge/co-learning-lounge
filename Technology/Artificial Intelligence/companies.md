@@ -48,6 +48,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [qure.ai](https://angel.co/company/qure-ai-technologies/jobs)
 
 ## Logistics
+- [Uncanny Vision](https://www.uncannyvision.com/)
 - [logiNext](https://www.loginextsolutions.com/job-roles)
 - [locus.sh](https://locus.freshteam.com/jobs)
 
@@ -84,6 +85,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [jina.ai](https://jina.ai/#/jobs)
 
 ## Computer vision
+- [NetraDyne](https://www.netradyne.com/careers/)
 - [clarifai](https://www.clarifai.com/careers)
 - [nauto](https://www.nauto.com/jobs_list)
 - [clmtec](http://www.cimtecimaging.com/contact)
@@ -198,6 +200,14 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [orbo.ai](https://angel.co/company/orbo-ai/jobs)
 - [IDfy](https://portal.idfy.com/careers)
 - [hyperverge](https://hyperverge.co/careers)
+- [Playment](https://playment.io/jobs/)
+- [Qualitas Tech](https://qualitastech.com/careers/)
+- [Intello Labs](https://www.intellolabs.com/career/)
+- [Streamoid Technologies](https://angel.co/company/streamoid/jobs)
+- [SensoVision](http://sensoviz.com/)
+- [MintM](https://www.mintm.com/)
+- [SigTuple](https://sigtuple.com/#s-careers)
+- [AIndra Labs](https://www.aindralabs.com/careers/)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
