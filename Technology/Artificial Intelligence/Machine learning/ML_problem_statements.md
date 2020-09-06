@@ -6,9 +6,16 @@ For additional insight more information about the problem is shared so reader ge
 ### Titanic: Machine Learning from Disaster
 _Start here! Predict survival on the Titanic and get familiar with ML basics_ <br>
 **Kaggle** : https://www.kaggle.com/c/titanic <br>
-**Problem Statement**: 
+**Problem Statement**: Titanic is one of the most infamous disaster in recent human history which resulted in the death of 1502 out of 2224 passengers. Analysis shows that while some amount of luck was involved, some passengers were more likely to survive than others. Train a machine learning model to predict what sort of people were likely to survive.
 - Playground problem for beginner in Data Science
-- ...
+- Beginner friendly problem
+- Binary classification
+- Evaluation metrics is 'Accuracy'
+- Easy to make intuition based on features
+- Comparitively smaller dataset
+- Missing values present in a few features
+- 'Cabin' feature poses a challenge with 77% missing values
+
 
 ### House Price Prediction - Regression problem
 _Start here! predict the final price of each home and get familiar with ML basics_ <br>
@@ -23,11 +30,19 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ### Credit Card Fraud Detection
 _Anonymized credit card transactions labeled as fraudulent or genuine_ <br>
-**Kaggle** : https://www.kaggle.com/mlg-ulb/creditcardfraud <br>
-**Problem Statement**: 
+**Kaggle** : https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card/overview/evaluation <br>
+**Problem Statement**: It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. There is a lack of public available datasets on financial services and especially in the emerging mobile money transactions domain. Part of the problem is the intrinsically private nature of financial transactions, which leads to no publicly available datasets.
+
+PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
+
 - Highly imbalanced classes
 - Anonymous features
-- ...
+- PCA transformed features
+- Binary classification
+- Evaluation metrics is 'AUC'
+- Challenging Exploratory Data Analysis
+- Challenge to make intuition based on features
+- Time factor involved
 
 ### Google Analytics Customer Revenue Prediction - Regression problem
 _predict revenue per customer_ <br>
@@ -46,4 +61,8 @@ Santander Bank is asking Kagglers to help them identify dissatisfied customers e
 
 In this competition, you'll work with hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience. <br>
 - Too many features
-- ...
+- Anonymous features
+- Binary classification
+- Evaluation metrics is 'AUC'
+- Challenging Exploratory Data Analysis
+- Challenge to make intuition based on features
