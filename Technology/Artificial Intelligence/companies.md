@@ -46,6 +46,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Episource LLC](https://www.episource.com/careers/)
 - [CitiusTech](https://citiustech.applytojob.com/)
 - [qure.ai](https://angel.co/company/qure-ai-technologies/jobs)
+- [binah.ai](https://www.binah.ai/careers/)
 
 ## Logistics
 - [Uncanny Vision](https://www.uncannyvision.com/)
