@@ -208,6 +208,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [MintM](https://www.mintm.com/)
 - [SigTuple](https://sigtuple.com/#s-careers)
 - [AIndra Labs](https://www.aindralabs.com/careers/)
+- [facet.ai](https://facet.ai/jobs)
 
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
