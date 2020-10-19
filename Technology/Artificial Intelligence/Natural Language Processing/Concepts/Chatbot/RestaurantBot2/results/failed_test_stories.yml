@@ -1,0 +1,6 @@
+version: "2.0"
+stories:
+- story: bot challenge (/tmp/tmp2hrfu5we/e44a31d3d21b4018b964e24ce42b6e41_test_stories.yml)
+  steps:
+  - intent: bot_challenge  # predicted: nlu_fallback: are you a bot?
+  - action: utter_iamabot
