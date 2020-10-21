@@ -1,0 +1,107 @@
+version: "2.0"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- restaurant_search
+- cuisine
+- location
+- location_cuisine
+- get_menu
+- order
+- get_order
+- get_address
+- get_contact
+entities:
+- cuisine
+slots:
+  cuisine:
+    type: text
+  location:
+    type: text
+  order:
+    type: text
+  address:
+    type: text
+  contact:
+    type: text
+responses:
+  utter_greet:
+  - text: Hi! I'm a Restaurant Bot! How may I help you?
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Nice to hear it!
+  utter_goodbye:
+  - text: Bye, hope you have a good day ahead.
+  utter_iamabot:
+  - text: I am a Restau-bot, powered by Rasa.
+  utter_ask_location:
+  - text: Can you share your location with me? (Please specify clear location. :)
+  utter_ask_cuisine:
+  - text: What kind of cuisine you wanna eat?
+  utter_ask_location_cuisine:
+  - text: Share your location and the cuisine you wanna gulp!
+  utter_affirm_location:
+  - text: Thank you for sharing your location.
+  utter_affirm:
+  - text: Thanks for sharing, I'll check on what I have! :)
+  utter_default:
+  - text: I didn't get what you said. Come again? -_-
+  utter_restaurants:
+  - text: "Your restaurants are: \n\n {response}"
+  utter_restaurants_noCuisine:
+  - text: "The top restaurants in your area are: \n {response}"
+  utter_menu:
+  - text: "Your list of menu is: \n\n {response}"
+  utter_ask_order:
+  - text: "What do you want to order?"
+  utter_ask_address:
+  - text: "Enter your address: "
+  utter_ask_contact:
+  - text: "Enter your valid contact number: "
+  utter_confirm_order:
+  - text: "Do you confirm your order: \n{response}"
+  utter_ordered:
+  - text: "Your food will be ordered soon, you'll be notified if it was successful!"
+
+actions:
+- utter_greet
+- utter_did_that_help
+- utter_goodbye
+- utter_affirm
+- utter_affirm_location
+- utter_ask_location
+- utter_ask_cuisine
+- utter_ask_location_cuisine
+- action_set_location
+- action_show_restaurants
+- utter_default
+- utter_restaurants
+- utter_cheer_up
+- utter_happy
+- utter_iamabot
+- utter_restaurants_noCuisine
+- action_default_restaurants
+- utter_menu
+- action_menu
+- utter_ask_order
+- action_set_order
+- utter_ask_address
+- action_set_address
+- utter_ask_contact
+- action_set_contact
+- utter_confirm_order
+- action_ask_confirm
+- utter_ordered

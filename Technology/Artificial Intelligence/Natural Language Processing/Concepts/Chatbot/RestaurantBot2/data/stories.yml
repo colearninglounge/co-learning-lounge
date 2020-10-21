@@ -1,0 +1,285 @@
+version: "2.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: say goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: bot challenge
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- story: greet
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: affirm
+  steps:
+  - intent: affirm
+  - action: utter_affirm
+
+- story: restaurant story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set:
+    - location: "Sangli"
+  - action: utter_ask_cuisine
+  - intent: cuisine 
+  - slot_was_set: 
+    - cuisine: "Pizza"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: deny cuisine
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set: 
+    - location: "Mumbai"
+  - action: utter_ask_cuisine
+  - intent: deny
+  - action: utter_affirm
+  - action: action_default_restaurants
+
+- story: location cuisine
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: location_cuisine
+  - slot_was_set:
+    - location: "Sangli"
+    - cuisine: "maharashtrian"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: get menu
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: location_cuisine
+  - slot_was_set:
+    - location: "Sangli"
+    - cuisine: "maharashtrian"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: get_menu
+  - action: action_menu
+  - intent: goodbye
+  - action: utter_goodbye 
+
+- story: get order
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: location_cuisine
+  - slot_was_set: 
+    - location: "Kolhapur"
+    - cuisine: "Pizza"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: get_menu
+  - action: action_menu
+  - intent: order
+  - action: utter_ask_order
+  - intent: get_order
+  - action: action_set_order
+  - slot_was_set:
+    - order: "3 Roti, 1 Paneer Tikka Masala"
+  - action: utter_ask_address
+  - intent: get_address
+  - action: action_set_address
+  - slot_was_set:
+    - address: "405 Red Enclave, Time Society, Kolhapur"
+  - action: utter_ask_contact
+  - intent: get_contact
+  - action: action_set_contact
+  - slot_was_set: 
+    - contact: "9051328610"
+  - action: action_ask_confirm
+  - intent: affirm
+  - action: utter_ordered
+
+- story: some_story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set: 
+    - location: "Mumbai"
+  - action: utter_ask_cuisine
+  - intent: cuisine
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: order story 3
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set: 
+    - location: "Mumbai"
+  - action: utter_ask_cuisine
+  - intent: cuisine
+  - slot_was_set:
+      - cuisine: "maharashtrian"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: get_menu
+  - action: action_menu
+  - intent: order
+  - action: utter_ask_order
+  - intent: get_order
+  - action: action_set_order
+  - slot_was_set: 
+      - order: "3 Chapati, 1 Pithla"
+  - action: utter_ask_address
+  - intent: get_address
+  - action: action_set_address
+  - slot_was_set: 
+      - address: "17 Savlon street, Bhandup"
+  - action: utter_ask_contact
+  - intent: get_contact
+  - action: action_set_contact
+  - slot_was_set:
+      - contact: "8011256493"
+  - action: action_ask_confirm
+  - intent: affirm
+  - action: utter_ordered
+  - intent: affirm
+  - action: utter_affirm
+
+- story: order story 2
+  steps:
+  - intent: order
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set: 
+    - location: "Sangli"
+  - action: utter_ask_cuisine
+  - intent: cuisine
+  - slot_was_set: 
+    - cuisine: "Pizza"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: get_menu
+  - action: action_menu
+  - intent: get_order
+  - action: action_set_order
+  - slot_was_set: 
+    - order: "1 Italian Pizza"
+  - action: utter_ask_address
+  - intent: get_address
+  - action: action_set_address
+  - slot_was_set: 
+    - address: "405 Red Enclave, Time Society, Sangli"
+  - action: utter_ask_contact
+  - intent: get_contact
+  - action: action_set_contact
+  - slot_was_set: 
+    - contact: "9051328610"
+  - action: action_ask_confirm
+  - intent: affirm
+  - action: utter_ordered
+
+
+- story: get order_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: location_cuisine
+  - slot_was_set:
+    - location: "Kolhapur"
+    - cuisine: "Pizza"
+  - action: utter_affirm
+  - action: action_show_restaurants
+  - intent: get_menu
+  - action: action_menu
+  - intent: order
+  - action: utter_ask_order
+  - intent: get_order
+  - action: action_set_order
+  - slot_was_set: 
+    - order: "3 Roti, 1 Paneer Tikka Masala"
+  - action: utter_ask_address
+  - intent: get_address
+  - action: action_set_address
+  - slot_was_set: 
+    - address: "405 Red Enclave, Time Society, Sangli"
+  - action: utter_ask_contact
+  - intent: get_contact
+  - action: action_set_contact
+  - slot_was_set: 
+    - contact: "9051328610"
+  - action: action_ask_confirm
+  - intent: affirm
+  - action: utter_ordered
+  - intent: affirm
+  - action: utter_affirm
+
+- story: default resto_order
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: location
+  - action: action_set_location
+  - slot_was_set: 
+    - location: "Mumbai"
+  - action: utter_ask_cuisine
+  - intent: deny
+  - action: utter_affirm
+  - action: action_default_restaurants
