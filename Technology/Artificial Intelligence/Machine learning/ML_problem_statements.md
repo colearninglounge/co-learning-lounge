@@ -44,6 +44,27 @@ PaySim simulates mobile money transactions based on a sample of real transaction
 - Challenge to make intuition based on features
 - Time factor involved
 
+### Chronic Kidney Disease
+_Data has 25 features which may predict a patient with chronic kidney disease_ <br>
+**Kaggle** : https://www.kaggle.com/colearninglounge/chronic-kidney-disease <br>
+**Problem Statement**: The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not.
+
+- Medical Terminology used
+- High Multicollinearity
+- 24 features (11 numeric, 14 nominal)
+- Binary classification
+- Challenging Exploratory Data Analysis
+
+### Predicting Pulsar Star
+_Pulsar candidates collected during the High Time Resolution Universe Survey_ <br>
+**Kaggle** : https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate <br>
+**Problem Statement**: Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter. Machine learning tools are now being used to automatically label pulsar candidates to facilitate rapid analysis. Classification systems in particular are being widely adopted,which treat the candidate data sets as binary classification problems.
+
+- Astronomical Terminology used
+- HEach candidate is described by 8 continuous variables, and a single class variable
+- Binary classification
+- Challenging Exploratory Data Analysis
+
 ### Google Analytics Customer Revenue Prediction - Regression problem
 _predict revenue per customer_ <br>
 **Kaggle** : https://www.kaggle.com/c/ga-customer-revenue-prediction <br>
