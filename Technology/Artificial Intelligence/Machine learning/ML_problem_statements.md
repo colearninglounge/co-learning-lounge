@@ -44,7 +44,7 @@ Finding a mathematical model to increase the effectiveness of investments in new
 
 ### U.S. News and World Report’s College Data - Clustering Problem
 _Statistics for a large number of US Colleges from the 1995 issue of US News and World Report_ <br>
-**Kaggle** : https://www.kaggle.com/karthickaravindan/k-means-clustering-project <br>
+**Kaggle** : https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data <br>
 **Problem Statement**: You ahve to selecta  college for admission thus need to segreate/rank college overall based on parameters provided. Cluster colleges in different segments in order to select best college for your studies.
 
 - Unsupervised Learning
