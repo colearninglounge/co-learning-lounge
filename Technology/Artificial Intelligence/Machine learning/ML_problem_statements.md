@@ -44,6 +44,17 @@ PaySim simulates mobile money transactions based on a sample of real transaction
 - Challenge to make intuition based on features
 - Time factor involved
 
+### U.S. News and World Report’s College Data - Clustering Problem
+_Statistics for a large number of US Colleges from the 1995 issue of US News and World Report_ <br>
+**Kaggle** : https://www.kaggle.com/karthickaravindan/k-means-clustering-project <br>
+**Problem Statement**: You ahve to selecta  college for admission thus need to segreate/rank college overall based on parameters provided. Cluster colleges in different segments in order to select best college for your studies.
+
+- Unsupervised Learning
+- Checking for variable importance
+- Converting Unsupervised to Supervised Learning
+
+
+
 ### Google Analytics Customer Revenue Prediction - Regression problem
 _predict revenue per customer_ <br>
 **Kaggle** : https://www.kaggle.com/c/ga-customer-revenue-prediction <br>
