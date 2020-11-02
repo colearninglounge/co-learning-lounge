@@ -28,6 +28,40 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 # Intermediate
 
+### Restaurant Revenue Prediction - Regression problem
+_Predict annual restaurant sales based on objective measurements_ <br>
+**Kaggle** : https://www.kaggle.com/c/restaurant-revenue-prediction <br>
+**Problem Statement**: With over 1,200 quick service restaurants across the globe, TFI is the company behind some of the world's most well-known brands: Burger King, Sbarro, Popeyes, Usta Donerci, and Arby’s. They employ over 20,000 people in Europe and Asia and make significant daily investments in developing new restaurant sites.
+
+Right now, deciding when and where to open new restaurants is largely a subjective process based on the personal judgement and experience of development teams. This subjective data is difficult to accurately extrapolate across geographies and cultures. 
+
+New restaurant sites take large investments of time and capital to get up and running. When the wrong location for a restaurant brand is chosen, the site closes within 18 months and operating losses are incurred. 
+
+Finding a mathematical model to increase the effectiveness of investments in new restaurant sites would allow TFI to invest more in other important business areas, like sustainability, innovation, and training for new employees. Using demographic, real estate, and commercial data, this competition challenges you to predict the annual restaurant sales of 100,000 regional locations.
+- Huge Dataset
+- Real time Problem
+-Gives domain knowledge as well
+
+### U.S. News and World Report’s College Data - Clustering Problem
+_Statistics for a large number of US Colleges from the 1995 issue of US News and World Report_ <br>
+**Kaggle** : https://www.kaggle.com/karthickaravindan/k-means-clustering-project <br>
+**Problem Statement**: You ahve to selecta  college for admission thus need to segreate/rank college overall based on parameters provided. Cluster colleges in different segments in order to select best college for your studies.
+
+- Unsupervised Learning
+- Checking for variable importance
+- Converting Unsupervised to Supervised Learning
+
+### Chronic Kidney Disease - Classification Problem
+_Data has 25 features which may predict a patient with chronic kidney disease_ <br>
+**Kaggle** : https://www.kaggle.com/colearninglounge/chronic-kidney-disease<br>
+**Problem Statement**: The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not.
+
+- Binary Classification
+- Medical Terminology used
+- High Multicollinearity in data
+
+
+
 ### Credit Card Fraud Detection
 _Anonymized credit card transactions labeled as fraudulent or genuine_ <br>
 **Kaggle** : https://www.kaggle.com/c/1056lab-fraud-detection-in-credit-card/overview/evaluation <br>
