@@ -50,6 +50,44 @@ _predict revenue per customer_ <br>
 **Problem Statement**: In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. Hopefully, the outcome will be more actionable operational changes and a better use of marketing budgets for those companies who choose to use data analysis on top of GA data.
 - Huge Dataset
 
+### Restaurant Revenue Prediction - Regression problem
+_Predict annual restaurant sales based on objective measurements_ <br>
+**Kaggle** : https://www.kaggle.com/c/restaurant-revenue-prediction <br>
+**Problem Statement**: With over 1,200 quick service restaurants across the globe, TFI is the company behind some of the world's most well-known brands: Burger King, Sbarro, Popeyes, Usta Donerci, and Arby’s. They employ over 20,000 people in Europe and Asia and make significant daily investments in developing new restaurant sites.
+
+Right now, deciding when and where to open new restaurants is largely a subjective process based on the personal judgement and experience of development teams. This subjective data is difficult to accurately extrapolate across geographies and cultures. 
+
+New restaurant sites take large investments of time and capital to get up and running. When the wrong location for a restaurant brand is chosen, the site closes within 18 months and operating losses are incurred. 
+
+Finding a mathematical model to increase the effectiveness of investments in new restaurant sites would allow TFI to invest more in other important business areas, like sustainability, innovation, and training for new employees. Using demographic, real estate, and commercial data, this competition challenges you to predict the annual restaurant sales of 100,000 regional locations.
+- Huge Dataset
+- Real time Problem
+-Gives domain knowledge as well
+
+### Mall Customer Segmentation Data - Clustering Problem
+_Market Basket Analysis_ <br>
+**Kaggle** : https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python <br>
+**Problem Statement**: You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
+Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
+
+- Unsupervised Learning
+- Market Basket Analysis
+- How to achieve customer segmentation using machine learning algorithm (KMeans Clustering) in Python 
+- Who are your target customers with whom you can start marketing strategy [easy to converse]
+- How the marketing strategy works in real world
+- Converting Unsupervised to Supervised Learning
+
+### Chronic Kidney Disease - Classification Problem
+_Data has 25 features which may predict a patient with chronic kidney disease_ <br>
+**Kaggle** : https://www.kaggle.com/colearninglounge/chronic-kidney-disease<br>
+**Problem Statement**: The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not.
+
+- Binary Classification
+- Medical Terminology used
+- High Multicollinearity in data
+
+
+
 # Advance
 
 ### Santander Customer Satisfaction
