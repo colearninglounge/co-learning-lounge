@@ -1,0 +1,125 @@
+session_config:
+  session_expiration_time: 0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- restaurant_search
+- telling_location_cuisine
+- telling_location
+- telling_cuisine
+- telling_phonenum
+- telling_numpeople
+- telling_datetime
+- bot_challenge
+entities:
+- cuisine
+- num_people
+- phone_num
+slots:
+  cuisine:
+    type: text
+  date_slot:
+    type: unfeaturized
+    auto_fill: false
+  location:
+    type: text
+  num_people:
+    type: unfeaturized
+    auto_fill: false
+  phone_num:
+    type: unfeaturized
+    auto_fill: false
+  time:
+    type: unfeaturized
+    auto_fill: false
+  time_slot:
+    type: unfeaturized
+    auto_fill: false
+responses:
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_assist:
+  - text: Great ! I can help you to find restaurants based your preferred location
+      and cuisine.
+  utter_ask_location_cuisine:
+  - text: Please share your location and cuisine you would like to have.
+  utter_ask_location:
+  - text: Can you please help me with your location?
+  utter_ask_cuisine:
+  - text: What cuisine you would like to binge :P.
+  utter_affirm_info:
+  - text: Thanks for sharing the valuable information, let me check what I can find
+      for you.
+  utter_affirm_location:
+  - text: Thanks for sharing your location.
+  utter_goodbye:
+  - text: Bye. Have a great time.
+  - text: Bye Bye. See you soon.
+  utter_itsok:
+  - text: It's completely fine ,I will try to get all types of restaurants for you.
+      Choose the one you like :)
+  utter_enter_cuisine_again:
+  - text: Sorry we couldn't find any {cuisine} cuisine in {location}. Would you like
+      to check some other cuisine?
+  utter_nosuch_cuisine_all_restaurants:
+  - text: We dint find any such cuisine that you are looking for. We will help you
+      by providing all the available restaurants.
+  utter_location_denied:
+  - text: I am sorry I can't help you without location. You can find out the location
+      and share with me else visit https://www.zomato.com/
+  utter_tryAfter_sometime:
+  - text: I am really sorry I can't help without the location. Please visit https://www.zomato.com/
+  - text: Sorry to disappoint you mate because I can't help you without location.
+      Please visit https://www.zomato.com/
+  utter_affirm_cuisine:
+  - text: Ahh, Thanks for sharing the cuisine. You have got a good taste :D
+  - text: Thanks mate, Even I like {cuisine}.
+  utter_ask_for_booking:
+  - text: Would you like to do the table booking ?
+  utter_ask_num_people:
+  - text: please let me know the number of people coming.
+  utter_ask_phone_num:
+  - text: please share your contact number.
+  utter_ask_time:
+  - text: please specify date and time for your visit.
+  utter_slot_values:
+  - text: "The information recorded is:\n - num_people: {num_people}\n - phone_no:\
+      \ {phone_num}\n - date: {date_slot}\n - time: {time_slot}"
+  utter_submit:
+  - text: Thanks for all the booking information
+  utter_default:
+  - text: Sorry, Didn’t understand. Please say again
+actions:
+- action_bot_greet
+- utter_did_that_help
+- utter_goodbye
+- utter_affirm_info
+- utter_affirm_location
+- utter_assist
+- utter_ask_location
+- utter_ask_cuisine
+- utter_ask_location_cuisine
+- action_show_restaurants
+- action_set_location
+- action_restaurants_nocuisine
+- utter_itsok
+- utter_enter_cuisine_again
+- utter_nosuch_cuisine_all_restaurants
+- utter_location_denied
+- utter_tryAfter_sometime
+- utter_affirm_cuisine
+- utter_ask_for_booking
+- utter_ask_num_people
+- utter_ask_phone_num
+- utter_ask_time
+- utter_submit
+- utter_slot_values
+- utter_default
+- action_get_date_time
+forms:
+- restaurant_form

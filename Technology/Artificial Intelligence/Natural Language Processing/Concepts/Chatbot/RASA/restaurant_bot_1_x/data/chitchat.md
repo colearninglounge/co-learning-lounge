@@ -1,0 +1,324 @@
+## intent:chitchat/Introduction
+- who is this
+- who are you
+- who am i talking to
+- what's your name
+- who am i speaking with
+- who r u
+- what's your name bot
+- whats ur name
+- what are you called?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- are you a bot?
+- who is this?
+- hi! what's your name?
+- am i talking to bot?
+- give me your introduction.
+- introduce yourself.
+- give me your intro.
+- knock knock!!who is it?
+- tell me about yourself
+
+## intent:chitchat/AskWhyLocation
+- why are you asking me about the location
+- why are you asking me about my location
+- why should I provide you access to my location
+- why should I provide you my location details
+- what will you do with my location details
+- why are you asking me about the location details
+- tell me why you need my location details
+
+## intent:chitchat/AskHowOld
+- whats your age?
+- how old?
+- what's your age?
+- when were you born?
+- what is your birthday?
+- when is your birthday?
+- how many years old are you?
+- do you know how old you are?
+- what is your exact age?
+- what year were you born?
+- can you tell me your age?
+- What is your age?
+- What is your birthdate?
+- How old will you be on your next birthday?
+- When do you celebrate your day of birth?
+- How old were you on your last birthday?
+- How many candles were on your last birthday cake?
+- Do you have friends the same age as you, if so, how old are they?
+- Tell me your day, month and year of birth.
+- Whats your age?
+- and you are how many years old?
+- whats your birth year?
+- what age were you when you celebrated your last birthday?
+- how old were you when you celebrated your last birthday?
+- tell me your age?
+- how about your age
+- how old were you on your last birthday?
+- what age are you
+- how old will you be this year?
+- What is your age?
+- What year were you born?
+- How long have you been around?
+- How long have you been alive?
+- What was your age on your last birthday?
+- What will be your age on your next birthday?
+- How many years have you lived?
+- How many years have you been alive?
+- How long have you occupied the earth?
+
+## intent: chitchat/AskFromWhere
+- where do you live
+- where are you from?
+- So where are you from
+- Where are you?
+- Where were you born?
+- What city were you born in?
+- Where did you grow up?
+- What state were you born in?
+- What country were you born in?
+- Where do you come from?
+- Where were you at before you were here?
+- Where from?
+- Do you know where you come from?
+- where's your home town?
+- what country are you from?
+- are you from around here?
+- where did you grow up?
+- where are your parents from?
+- where did you spend your youth?
+- where did you come from?
+- Where were you born?
+- Where do you consider home?
+- What city do you claim to for your birth?
+- What citizenship do you lay claim to?
+- What is your heritage?
+- What is your birthplace?
+- Where did you grow up?
+- You were conceived in what location?
+- What is your root?
+- What is your origin?
+- From where did you come?
+- Where did you come from?
+- Where did you originate?
+- Where are your roots?
+- Where are your origins?
+- What area are you from?
+- What location are you from?
+- What's the name of the place you came from?
+
+## intent:chitchat/AskHowDoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+
+## intent:chitchat/Help
+- What can you do?
+- What should I ask you?
+- how can you help me
+- I need help
+- help me
+- I'm stuck
+- i don't know what to do
+- I think you can help me
+- i guess you can help me then
+- i guess you can help
+- Will you help me
+- can you help me
+- Please help me
+- If you don't mind, I really need your help
+- Could you please help me
+- Do you think you can help me?
+- Will you be able to help me?
+- Can you please help me
+
+## intent:chitchat/Annoying
+- you are annoying me so much
+- you're incredibly annoying
+- I find you annoying
+- you are annoying
+- you're so annoying
+- how annoying you are
+- you annoy me
+- you are annoying me
+- you are irritating
+- you are such annoying
+- you're too annoying
+- you are very annoying
+- Why are you annoying me so much
+- How annoying!
+- It's annoying
+- That's annoying
+- It's just annoying
+- That's so annoying
+- You really annoy me
+- You're starting to annoy me
+
+## intent:chitchat/AnswerMyQuestion
+- I want you to answer me
+- answer
+- answer my question
+- answer me
+- give me an answer
+- answer the question
+- can you answer my question
+- tell me the answer
+- answer it
+- give me the answer
+- I have a question
+- I want you to answer my question
+- just answer the question
+- can you answer me
+- answers
+- can you answer a question for me
+- can you answer
+- answering questions
+- I want the answer now
+- just answer my question
+
+## intent:chitchat/YouAreBad
+-  You are bad
+-  You are not good
+-  you are very bad
+-  You're bad
+-  You're not good
+-  you're very bad
+
+## intent:chitchat/Beautiful
+- you're cute
+- you're attractive
+- you are beautiful
+- you're looking good today
+- you are so beautiful
+- you look amazing
+- you look so good
+- you're so gorgeous
+- you are too beautiful
+- you look great
+- you look so well
+- I like the way you look now
+- I think you're beautiful
+- why are you so beautiful
+- you are so beautiful to me
+- you are cute
+- you are gorgeous
+- you are handsome
+- you are looking awesome
+- you look amazing today
+- you are looking beautiful today
+- you are looking great
+- you are looking pretty
+- you are looking so beautiful
+- you are looking so good
+- you are pretty
+- you are really beautiful
+- you are really cute
+- you are really pretty
+- you are so attractive
+- you are so beautiful today
+- you are so cute
+- you are so gorgeous
+- you are so handsome
+- you are so pretty
+- you are very attractive
+- you are very beautiful
+- you are very cute
+- you are very pretty
+- you look awesome
+- you look cool
+- you look fantastic
+- you look gorgeous
+- you look great today
+- you look perfect
+- you look pretty good
+- you look so beautiful
+- you look so beautiful today
+- you look very pretty
+- you look wonderful
+- I like the way you look
+- you look wonderful today
+- you are cutie
+- you're looking good
+- you're pretty
+- how are you so pretty?
+
+## intent:chitchat/BirthDate
+- What is your birth date?
+- When is your birth date?
+- What's your birth date?
+- When's your birth date?
+
+## intent:chitchat/Thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+- Thanks a ton
+- thanks a bunch
+- Thank you very much

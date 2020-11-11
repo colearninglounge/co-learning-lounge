@@ -1,0 +1,108 @@
+
+version: "2.0"
+stories:
+- story: interactive_story_1
+  steps:
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: utter_affirm_cuisine
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Bengaluru, India
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - slot_was_set:
+    - requested_slot: num_people
+  - slot_was_set:
+    - num_people: '3'
+  - slot_was_set:
+    - num_people: '3'
+  - slot_was_set:
+    - requested_slot: phone_num
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - requested_slot: time
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: action_get_date_time
+  - slot_was_set:
+    - date_slot: 12/11/2020
+  - slot_was_set:
+    - time_slot: 21:00
+  - action: utter_slot_values
+  - intent: faq
+  - action: utter_faq
+
+- story: interactive_story_1
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Bengaluru, India
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: chitchat
+  - action: utter_chitchat
+  - intent: telling_numpeople
+    entities:
+    - num_people: '4'
+    - number: 4
+  - slot_was_set:
+    - num_people: '4'
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - slot_was_set:
+    - num_people: '4'
+  - slot_was_set:
+    - num_people: '4'
+  - slot_was_set:
+    - requested_slot: phone_num
+  - slot_was_set:
+    - phone_num: '976543210'
+  - slot_was_set:
+    - phone_num: null
+  - slot_was_set:
+    - requested_slot: phone_num
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - requested_slot: time
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: action_get_date_time
+  - slot_was_set:
+    - date_slot: 12/11/2020
+  - slot_was_set:
+    - time_slot: 21:00
+  - action: utter_slot_values

@@ -1,0 +1,34 @@
+
+
+version: "2.0"
+stories:
+- story: Greet the user
+  metadata:
+    author: Rashmi
+    key: value
+  steps:
+  # list of steps
+  - intent: greet
+  - action: utter_greet
+
+
+
+stories:
+- story: story 1
+  steps:
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+
+
+nlu:
+- intent: greet
+  examples:
+  - text: |
+      hi
+    metadata:
+      sentiment: neutral
+  - text: |
+      hey there!

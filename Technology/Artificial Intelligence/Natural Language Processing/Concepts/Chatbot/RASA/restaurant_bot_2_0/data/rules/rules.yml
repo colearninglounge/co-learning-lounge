@@ -1,0 +1,26 @@
+version: "2.0"
+rules:
+- rule: Rule to handle messages with low NLU confidence (automated conversion from 'FallbackPolicy')
+  steps:
+  - intent: nlu_fallback
+  - action: action_default_fallback
+- rule: Rule to handle greetings
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+- rule: Rule to handle goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+- rule: Fallback Rule
+  steps:
+  - intent: bot_challenge
+  - action: action_default_fallback
+- rule: Chitchat Rule
+  steps:
+  - intent: chitchat
+  - action: utter_chitchat
+- rule: FAQ Rule
+  steps:
+  - intent: faq
+  - action: utter_faq

@@ -1,0 +1,35 @@
+language: en
+pipeline:
+- name: SpacyNLP
+- name: SpacyTokenizer
+- name: SpacyFeaturizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: SklearnIntentClassifier
+- name: DucklingEntityExtractor
+  url: http://localhost:8000
+  dimensions:
+  - time
+  - number
+  - amount-of-money
+  - distance
+  timezone: Asia/Mumbai
+  locale: en_GB
+- name: ResponseSelector
+  retrieval_intent: faq
+  scale_loss: false
+  epochs: 100
+- name: ResponseSelector
+  retrieval_intent: chitchat
+  scale_loss: false
+  epochs: 100
+- name: FallbackClassifier
+  threshold: 0.4
+  ambiguity_threshold: 0.1
+policies:
+- name: MemoizationPolicy
+- name: TEDPolicy
+- name: RulePolicy
+  core_fallback_threshold: 0.3
+  core_fallback_action_name: action_default_fallback
