@@ -1,0 +1,250 @@
+.widget {
+	display: none;
+	width: 400px;
+	right: 15px;
+	height: 600px;
+	bottom: 5%;
+	position: fixed;
+	background: #f6f6f6;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 2px 10px 1px #b5b5b5;
+}
+
+.chat_header {
+	height: 7%;
+	background: #6753dd;
+	/* #6072e6 */
+	border-radius: 10px 10px 0px 0px;
+	padding: 5px;
+	font-size: 20px;
+}
+
+.chats {
+	height: 500px;
+	padding: 5px;
+	margin-top: 5px;
+	border-radius: 1px;
+	overflow-y: scroll;
+	transition: 0.2s;
+}
+
+div.chats::-webkit-scrollbar {
+	width: 3px;
+	/* remove scrollbar space /
+    background: transparent;
+    / optional: just make scrollbar invisible */
+}
+
+
+/* Track */
+
+div.chats::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey;
+	border-radius: 10px;
+}
+
+
+/* Handle */
+
+div.chats::-webkit-scrollbar-thumb {
+	background: #647aed;
+}
+
+
+/* Handle on hover */
+
+div.chats::-webkit-scrollbar-thumb:hover {
+	background: #b30000;
+}
+
+#close {
+	cursor: pointer;
+}
+
+.clearfix {
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.message {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.botAvatar {
+	border-radius: 50%;
+	width: 2em;
+	height: 2em;
+	float: left;
+	margin-left: 5px;
+	/* border: 2px solid #6072e6; */
+}
+
+.botMsg {
+	float: left;
+	margin-top: 5px;
+	background: #ffffff;
+	box-shadow: 2px 5px 5px 1px #efeef5;
+	border: 1px solid #ffffff;
+	margin-left: 0.5em;
+	padding: 0.6em 1em;
+	border-radius: 1.5em;
+	max-width: 65%;
+	min-width: 25%;
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+.userMsg {
+	animation: animateElement linear 0.2s;
+	animation-iteration-count: 1;
+	margin-top: 5px;
+	word-wrap: break-word;
+	padding: 0.6em 1em;
+	float: right;
+	margin-right: 0.5em;
+	background: #6072e6;
+	border: 1px solid #6072e6;
+	color: #fff;
+	border-radius: 1.5em;
+	margin-bottom: 0.15em;
+	font-size: 12px;
+	max-width: 55%;
+	min-width: 25%;
+	line-height: 1.5em;
+}
+
+.userAvatar {
+	animation: animateElement linear 0.3s;
+	animation-iteration-count: 1;
+	border-radius: 50%;
+	width: 1.5em;
+	height: 1.5em;
+	float: right;
+	margin-right: 5px;
+	border: 2px solid #ffd966;
+}
+
+.singleCard {
+	/* height: 200px; */
+	padding-left: 10%;
+	padding-right: 10px;
+}
+
+.suggestions {
+	padding: 5px;
+	width: 80%;
+	border-radius: 10px;
+	background: #ffffff;
+	box-shadow: 2px 5px 5px 1px #dbdade;
+}
+
+.cardsImage {
+	width: 100%;
+	height: 80%;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.keypad {
+	height: 45px;
+	position: absolute;
+	bottom: 10px;
+	width: 400px;
+}
+
+.usrInput {
+	background: #f1f0f0;
+	padding: 0.5em;
+	width: 90%;
+	margin-left: 4%;
+	border-radius: 20px;
+	box-shadow: 0px 2px 10px 1px #b5b5b5;
+	border: 0;
+	padding-left: 15px;
+	height: 40px;
+}
+
+input:focus {
+	outline: none;
+}
+
+video:focus {
+	outline: none;
+}
+
+.menuTitle {
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.menu {
+	padding: 5px;
+}
+
+.menuChips {
+	display: block;
+	background: #6072e6;
+	color: #fff;
+	text-align: center;
+	padding: 5px;
+	margin-bottom: 5px;
+	cursor: pointer;
+	border-radius: 15px;
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+.imgcard {
+	object-fit: cover;
+	width: 45%;
+	height: 90%;
+	border-radius: 10px 10px 10px 10px;
+	margin-left: 1%;
+}
+
+.chip {
+	background-color: #6072e6;
+	color: #fff;
+	font-weight: normal;
+	font-weight: 0;
+	text-align: center;
+}
+
+@keyframes animateElement {
+	0% {
+		opacity: 0;
+		transform: translate(0px, 10px);
+	}
+	100% {
+		opacity: 1;
+		transform: translate(0px, 0px);
+	}
+}
+
+.imgProfile {
+	box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 0.16), 0 0px 10px 0 rgba(0, 0, 0, 0.12);
+	background: white;
+	border-radius: 50px;
+	width: 60%;
+	padding: 2%;
+}
+
+.profile_div {
+	/* display: none; */
+	position: fixed;
+	padding: 5px;
+	width: 8%;
+	bottom: 0;
+	right: 0;
+	cursor: pointer;
+}
+
+.profileIcon {
+	height: 15%;
+	align-items: center;
+	float: left;
+	margin-right: 10px;
+}
