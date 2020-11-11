@@ -1,0 +1,16 @@
+version: "2.0"
+nlu:
+- intent: faq/PayForBooking
+  examples: |
+    - should i pay in cash 
+    - how can i pay 
+    - should i pay by card or cash 
+    - does google pay work 
+    - can i pay by card 
+- intent: faq/CancelBooking
+  examples: |
+    - how can i cancel booking
+    - cancel my booking
+    - i cant make it to the hotel, cancel my reservation
+    - how can i cancel my reservation
+    - i would like to cancel the booking

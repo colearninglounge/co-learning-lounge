@@ -1,0 +1,40 @@
+version: "2.0"
+responses:
+  utter_chitchat/Introduction:
+  - text: "I am your Restaurant Bot! Here to help the foodie in you!"
+  utter_chitchat/Thanks:
+  - text: "Happy to help! Hope you have a wholesome meal :)"
+  utter_chitchat/AskWhyLocation:
+  - text: "Your preferred location would help me search the restaurants near by!"
+  utter_chitchat/AskHowOld:
+  - text: "Come on, Age is just a number!"
+  - text: "I am today years young!"
+  utter_chitchat/AskFromWhere:
+  - text: "Oh! Somewhere on Earth :)"
+  utter_chitchat/AskHowDoing:
+  - text: "I'm great! Thanks for asking."
+  utter_chitchat/Help:
+  - text: "I can help you search restaurants, just type 'I am feeling hungry'"
+  utter_chitchat/Annoying:
+  - text: "Terribly Sorry to hear that"
+  - text: "i will try being better. I am sorry :("
+  utter_chitchat/AnswerMyQuestion:
+  - text: "Sorry, can you try asking again please"
+  utter_chitchat/YouAreBad:
+  - text: "Terribly Sorry to hear that"
+  - text: "i will try being better. I am sorry :("
+  utter_chitchat/Beautiful:
+  - text: "Thanks, You're beautiful too, inside and out."
+  utter_chitchat/BirthDate:
+  - text: "Oh! everyday is my 'Happy' Birthday! :D"
+  utter_faq/PayForBooking:
+  - text: "You can pay by cash, card, UPI platforms after your sumptious meal at the restaurant!"
+  utter_faq/CancelBooking:
+  - text: "Oh no! You want to cancel :( Please call the restaurant and cancel"
+
+
+
+
+
+
+

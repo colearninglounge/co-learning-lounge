@@ -1,0 +1,139 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- telling_phonenum
+- telling_numpeople
+- telling_datetime
+- telling_cuisine
+- chitchat:
+    is_retrieval_intent: true
+- telling_location
+- restaurant_search
+- faq:
+    is_retrieval_intent: true
+- affirm
+- greet
+- goodbye
+- deny
+- mood_great
+- mood_unhappy
+- telling_location_cuisine
+- bot_challenge
+entities:
+- cuisine
+- num_people
+- number
+- phone_num
+- time
+slots:
+  cuisine:
+    type: text
+    influence_conversation: false
+  date_slot:
+    type: any
+    influence_conversation: false
+  location:
+    type: text
+    influence_conversation: true
+  num_people:
+    type: any
+    influence_conversation: false
+  phone_num:
+    type: any
+    influence_conversation: false
+  requested_slot:
+    type: text
+    influence_conversation: false
+  time:
+    type: any
+    influence_conversation: false
+  time_slot:
+    type: any
+    influence_conversation: false
+responses:
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_assist:
+  - text: Great ! I can help you to find restaurants based your preferred location and cuisine.
+  utter_ask_location_cuisine:
+  - text: Please share your location and cuisine you would like to have.
+  utter_ask_location:
+  - text: Can you please help me with your location?
+  utter_ask_cuisine:
+  - text: What cuisine you would like to binge :P.
+  utter_affirm_info:
+  - text: Thanks for sharing the valuable information, let me check what I can find for you.
+  utter_affirm_location:
+  - text: Thanks for sharing your location.
+  utter_goodbye:
+  - text: Bye. Have a great time.
+  - text: Bye Bye. See you soon.
+  utter_itsok:
+  - text: It's completely fine ,I will try to get all types of restaurants for you. Choose the one you like :)
+  utter_enter_cuisine_again:
+  - text: Sorry we couldn't find any {cuisine} cuisine in {location}. Would you like to check some other cuisine?
+  utter_nosuch_cuisine_all_restaurants:
+  - text: We dint find any such cuisine that you are looking for. We will help you by providing all the available restaurants.
+  utter_location_denied:
+  - text: I am sorry I can't help you without location. You can find out the location and share with me else visit https://www.zomato.com/
+  utter_tryAfter_sometime:
+  - text: I am really sorry I can't help without the location. Please visit https://www.zomato.com/
+  - text: Sorry to disappoint you mate because I can't help you without location. Please visit https://www.zomato.com/
+  utter_affirm_cuisine:
+  - text: Ahh, Thanks for sharing the cuisine. You have got a good taste :D
+  - text: Thanks mate, Even I like {cuisine}.
+  utter_ask_for_booking:
+  - text: Would you like to do the table booking ?
+  utter_ask_num_people:
+  - text: please let me know the number of people coming.
+  utter_ask_phone_num:
+  - text: please share your contact number.
+  utter_ask_time:
+  - text: please specify date and time for your visit.
+  utter_slot_values:
+  - text: "The information recorded is:\n - num_people: {num_people}\n - phone_no: {phone_num}\n - date: {date_slot}\n - time: {time_slot}"
+  utter_submit:
+  - text: Thanks for all the booking information
+  utter_default:
+  - text: Sorry, Didn’t understand. Please say again
+actions:
+- action_bot_greet
+- action_get_date_time
+- action_restaurants_nocuisine
+- action_set_location
+- action_show_restaurants
+- utter_affirm_cuisine
+- utter_affirm_info
+- utter_affirm_location
+- utter_ask_cuisine
+- utter_ask_for_booking
+- utter_ask_location
+- utter_ask_location_cuisine
+- utter_ask_num_people
+- utter_ask_phone_num
+- utter_ask_time
+- utter_assist
+- utter_default
+- utter_did_that_help
+- utter_enter_cuisine_again
+- utter_goodbye
+- utter_itsok
+- utter_location_denied
+- utter_nosuch_cuisine_all_restaurants
+- utter_slot_values
+- utter_submit
+- utter_tryAfter_sometime
+- validate_restaurant_form
+forms:
+  restaurant_form:
+    num_people:
+    - type: from_entity
+      entity: num_people
+    phone_num:
+    - type: from_entity
+      entity: phone_num
+    time:
+    - type: from_entity
+      entity: time
+version: '2.0'

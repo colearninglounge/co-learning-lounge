@@ -1,0 +1,34 @@
+version: "2.0"
+nlu:
+- intent: telling_cuisine
+  examples: |
+    - i want to have [italian](cuisine) food
+    - [italian](cuisine)
+- intent: telling_location
+  examples: |
+    - bangalore
+- intent: affirm
+  examples: |
+    - yes
+- intent: telling_numpeople
+  examples: |
+    - [3](num_people)
+    - i would like to book for [4](num_people)
+- intent: telling_phonenum
+  examples: |
+    - [9876543210](phone_num)
+    - [976543210](phone_num)
+    - [9876543210](phone_num)
+- intent: telling_datetime
+  examples: |
+    - tomorrow 9 pm
+    - tomorrow 9pm
+- intent: faq
+  examples: |
+    - how can i cancel
+- intent: restaurant_search
+  examples: |
+    - i am hungry
+- intent: chitchat
+  examples: |
+    - what is your age

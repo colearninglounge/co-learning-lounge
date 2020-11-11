@@ -1,0 +1,624 @@
+version: "2.0"
+stories:
+- story: 2greet_mood_great_restaurantSearch_tellingLocation_tellingCuisine_tablebooking
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 3greet_mood_great_tellingLocationCuisine_bye
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 4restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 5tellingLocationCuisine
+  steps:
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 6greet_restaurantSearch_tellingLocation_denyLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: deny
+  - action: utter_location_denied
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - slot_was_set:
+    - cuisine: chinese
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 7restaurantSearch_denyLocation_tellingLocation_tellingCuisine
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: deny
+  - action: utter_location_denied
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: south indian
+  - slot_was_set:
+    - cuisine: south indian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 8greet_restaurantSearch_tellingLocation_denyCuisine_showRestaurantsWithoutCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Punjab
+  - action: utter_ask_cuisine
+  - intent: deny
+  - action: utter_itsok
+  - action: action_restaurants_nocuisine
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 9greet_restaurantSearch_denyLocation_denyLocation_bye
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: deny
+  - action: utter_location_denied
+  - intent: deny
+  - action: utter_tryAfter_sometime
+  - action: utter_goodbye
+- story: 10tellingLocation_tellingCuisine
+  steps:
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 11tellingCuisine_tellingLocation_showRestaurants
+  steps:
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: utter_affirm_cuisine
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 12greet_restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 13greet_restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 14greet_telling_location_cuisine_affirm_goodbye
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: 15greet_mood_great_restaurantSearch_tellingLocation_tellingCuisine_denytablebooking
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 16greet_mood_great_tellingLocationCuisine_denytablebooking
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 17restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 18tellingLocationCuisine
+  steps:
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 19greet_restaurantSearch_tellingLocation_denyLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: deny
+  - action: utter_location_denied
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 20restaurantSearch_denyLocation_tellingLocation_tellingCuisine
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: deny
+  - action: utter_location_denied
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: south indian
+  - slot_was_set:
+    - cuisine: south indian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 21greet_restaurantSearch_tellingLocation_denyCuisine_showRestaurantsWithoutCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: mood_great
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Punjab
+  - action: utter_ask_cuisine
+  - intent: deny
+  - action: utter_itsok
+  - action: action_restaurants_nocuisine
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 22tellingLocation_tellingCuisine
+  steps:
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Mumbai
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 23tellingCuisine_tellingLocation_showRestaurants
+  steps:
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: utter_affirm_cuisine
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 24greet_restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 25greet_restaurantSearch_tellingLocation_tellingCuisine
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 26greet_telling_location_cuisine_affirm_goodbye
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: telling_location_cuisine
+    entities:
+    - cuisine: chinese
+  - slot_was_set:
+    - cuisine: chinese
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: deny
+  - action: utter_goodbye
+- story: 27greet_deny_bye
+  steps:
+  - intent: greet
+  - action: action_bot_greet
+  - intent: deny
+  - action: utter_goodbye
+- story: chitchat1
+  steps:
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: utter_affirm_cuisine
+  - action: utter_ask_location
+  - intent: chitchat
+  - action: utter_chitchat
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Hyderabad
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - active_loop: null
+  - action: action_get_date_time
+  - action: utter_slot_values
+  - intent: goodbye
+  - action: utter_goodbye
+- story: interactive_story_faq
+  steps:
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: utter_affirm_cuisine
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Bengaluru, India
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: affirm
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - slot_was_set:
+    - requested_slot: num_people
+  - slot_was_set:
+    - num_people: '3'
+  - slot_was_set:
+    - requested_slot: phone_num
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - requested_slot: time
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: action_get_date_time
+  - slot_was_set:
+    - date_slot: 12/11/2020
+  - slot_was_set:
+    - time_slot: 21:00
+  - action: utter_slot_values
+  - intent: faq
+  - action: utter_faq
+- story: interactive_story_chitchat
+  steps:
+  - intent: restaurant_search
+  - action: utter_ask_location
+  - intent: telling_location
+  - action: action_set_location
+  - slot_was_set:
+    - location: Bengaluru, India
+  - action: utter_ask_cuisine
+  - intent: telling_cuisine
+    entities:
+    - cuisine: italian
+  - slot_was_set:
+    - cuisine: italian
+  - action: action_show_restaurants
+  - action: utter_ask_for_booking
+  - intent: chitchat
+  - action: utter_chitchat
+  - intent: telling_numpeople
+    entities:
+    - num_people: '4'
+    - number: 4
+  - slot_was_set:
+    - num_people: '4'
+  - action: restaurant_form
+  - active_loop: restaurant_form
+  - slot_was_set:
+    - num_people: '4'
+  - slot_was_set:
+    - requested_slot: phone_num
+  - slot_was_set:
+    - phone_num: '9876543210'
+  - slot_was_set:
+    - requested_slot: time
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - time: '2020-11-12T21:00:00.000+00:00'
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: action_get_date_time
+  - slot_was_set:
+    - date_slot: 12/11/2020
+  - slot_was_set:
+    - time_slot: 21:00
+  - action: utter_slot_values
