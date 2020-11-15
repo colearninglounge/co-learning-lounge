@@ -46,11 +46,11 @@ loops, lists, tuples, dictionary, functions.*
 
 **In Class**
 
-*Brush up would be done for basic Data Science concept and in class hand-on would be conducted on a dataset. All the models designed here would be on Regression case study.*
+*Brush up would be done for basic Data Science concept and in class hands-on would be conducted on a dataset. All the models designed here would be on Regression case study.*
 
 **Capstone**
 
-*Whatever would be practiced in class that would be under the guided mentorship but knowledge is built up only when practice is done. In this segment an old kaggle problem which is regression based would be alloted to learners to create and practice their own models and be ready to to participate in real time kaggle competetions.*
+*Whatever would be practiced in class that would be under the guided mentorship but knowledge is built up only when practice is done. In this segment an old kaggle problem which is regression based would be alloted to learners to create and practice their own models and be ready to participate in real time kaggle competetions.*
 
 The whole idea is to mentor and guide you well in your Data Science journey. Like others, we don't want to give you **False hopes** and then fail at making a successful career transition. Also, once you join our course and after finishing you can solve plenty of Kaggle problems with help of close and premium community of Kagglers and guidance from mentors.
 
