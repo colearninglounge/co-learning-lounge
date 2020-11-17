@@ -109,7 +109,7 @@ _Disclaimer: the dataset for this competition contains text that may be consider
 
 <U> Learn the concepts to measure the performance of model based on several metrics : </U>
 
-1. -   Traditional ML Models
+1. Traditional ML Models
 -   Classification Reports
 -   F1, Precision/recall, ROC-AUC
 2. Deep Learning Model
