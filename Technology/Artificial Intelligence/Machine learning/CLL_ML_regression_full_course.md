@@ -177,7 +177,7 @@ Develop an intuition to streamline the parameter optimization process.
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you feel you are qualified and are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Kaggle based project learning*"
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Regression - Kaggle based project learning*"
 
 While applying, do let us know:-
 
