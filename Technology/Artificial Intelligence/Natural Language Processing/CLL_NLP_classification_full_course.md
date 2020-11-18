@@ -188,7 +188,7 @@ While applying, do let us know:-
 # <div align="center">Training period fee - ₹ 6999 + 18% GST/- per person</div>
 
 -  Course starts on **5th December 2020 till completion of the challenge OR 10th Jan 2021**. *Whichever comes first.*
--  To maintain the quality of learning **maximum 12 person** in batch is allowed.
+-  To maintain the quality of learning **maximum 15 person** in batch is allowed.
 - Last day to apply is **28th November 2020**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
 
