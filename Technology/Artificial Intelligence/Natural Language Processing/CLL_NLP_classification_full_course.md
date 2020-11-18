@@ -78,7 +78,8 @@ _Disclaimer: the dataset for this competition contains text that may be consider
 
 1. Data loading
 2. Data cleaning and pre-processing
-3. Data splitting - Train & Test
+3. Exploratory Data Analysis 
+4. Data splitting - Train & Test
 
 ## <div align="center"><ins> Feature Engineering & Word embedding  (6 hour)</ins></div>
 
@@ -87,7 +88,7 @@ _Disclaimer: the dataset for this competition contains text that may be consider
 <U> Learn the concepts and process of converting unstructured features to numerical feature to feed algorithm: </U>
 
 1. Learn to create custom embedding using -   Count vectorizer, TF-IDF, word2vec
-2. Understand the Transfer Learning using word2vec(CBOW, Skip gram), Glove, FastText, BERT etc
+2. Understand the Transfer Learning using word2vec(CBOW, Skip gram), Glove, FastText, BERT, GPT-1 etc
 3. Implementation of suitable and latest word embedding using transfer learning
 
 ## <div align="center"><ins> Model building (8 hours)</ins></div>
@@ -184,10 +185,10 @@ While applying, do let us know:-
    2. **What are your expectations from this course?**
    3. **What NLP problem you see yourself solving after the course?**
 
-# <div align="center">Training period fee - ₹ 5999/- per person</div>
+# <div align="center">Training period fee - ₹ 6999 + 18% GST/- per person</div>
 
--  Course starts on **5th December 2020 till completion of the challenge OR 25th October 2020**. *Whichever comes first.*
--  To maintain the quality of learning **maximum 20 person** in batch is allowed.
+-  Course starts on **5th December 2020 till completion of the challenge OR 10th Jan 2021**. *Whichever comes first.*
+-  To maintain the quality of learning **maximum 12 person** in batch is allowed.
 - Last day to apply is **28th November 2020**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
 
