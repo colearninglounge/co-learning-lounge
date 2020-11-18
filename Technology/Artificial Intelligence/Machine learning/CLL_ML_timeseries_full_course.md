@@ -172,20 +172,19 @@ The whole idea is to mentor and guide you well in your Data Science journey. Lik
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you feel you are qualified and are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Kaggle based project learning*"
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Timeseries - Kaggle based project learning*"
 
 While applying, do let us know:-
 
    1. **Why do you want to join this course?**
    2. **What are your expectations from this course?**
 
-# <div align="center">Training period fee - ₹ 5999/- per person</div>
+# <div align="center">Training period fee - ₹ 5999 + 18% GST/- per person</div>
 
--  Course starts on **5th December 2020 till completion of the challenge OR 25th October 2020**. *Whichever comes first.*
--  To maintain the quality of learning **maximum 20 person** in batch is allowed.
+-  Course starts on **5th December 2020 till completion of the challenge OR 10th Jan 2021**. *Whichever comes first.*
+-  To maintain the quality of learning **maximum 12 person** in batch is allowed.
 - Last day to apply is **28th November 2020**.
-- For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
-
+- For any query email us to <ins>**colearninglounge@gmail.com**</ins>.  
 
 
 ## <div align="center"><ins>Scholarship opportunity</ins></div>
