@@ -25,17 +25,11 @@ Kaggle is an amazing Data science community with competition from top companies 
 
 # <div align="center">Course Outline</div>
 
-## <div align="center"><ins>Python brush up with ML concepts and libraries [3 hours - optional]</ins></div>
+## <div align="center"><ins>Prerequisite</ins></div>
 
-*A brief summary on basic concepts of python syntax, data types and in built data structures such as loops, lists, tuples, dictionary, functions.*
-
-<U> Natural Langauage Processing introduction and scope : </U>
-
-1. What is Natural Langauge Processing?
-2. Why it is required?
-3. Applications
-4. Companies - Domains working on solving NLP problems.
-5. Popular NLP libraries
+- Should have basic knowledge of writing Python code.
+- Should have basic hands-on knowledge of Deep Learning framework like [Keras](https://keras.io/examples/nlp/).
+- Should have basic knowledge of Deep Learning concepts (Feed Forward Layer, Training & Evaluation, Loss, Optimizers)
 
 ## <div align="center"><ins>Batch Details</ins></div>
 
@@ -64,6 +58,18 @@ Here's your chance to combat online trolls at scale. Help Quora uphold their pol
 *Discussing things you care about can be difficult. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. <br> <br>In this competition, you’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s  [current models](https://github.com/conversationai/unintended-ml-bias-analysis). You’ll be using a dataset of comments from Wikipedia’s talk page edits. Improvements to the current model will hopefully help online discussion become more productive and respectful. <br>
 _Disclaimer: the dataset for this competition contains text that may be considered profane, vulgar, or offensive._*
 
+## <div align="center"><ins>**NLP Introduction** (1 hours)</ins></div>
+
+*It seems blind to jump right into problem statement without knowing the real and business usecase. Also it is very important to explore the synergy with other NLP related application and latest libraries.*
+
+<U>Introduction and scope:</U>
+
+1. What is Natural Langauge Processing?
+2. Why it is required?
+3. Applications
+4. Companies - Domains working on solving NLP problems.
+5. Popular NLP libraries
+
 ## <div align="center"><ins>**Dataset preparation** (3 hours)</ins></div>
 
 *Unlike other dataset, text data set is hard to deal because it is highly unstructured and messy. Hence dealing it right initiallty is utmost important.*
@@ -73,8 +79,6 @@ _Disclaimer: the dataset for this competition contains text that may be consider
 1. Data loading
 2. Data cleaning and pre-processing
 3. Data splitting - Train & Test
-
-
 
 ## <div align="center"><ins> Feature Engineering & Word embedding  (6 hour)</ins></div>
 
