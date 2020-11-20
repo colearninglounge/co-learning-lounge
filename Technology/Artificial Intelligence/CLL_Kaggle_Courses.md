@@ -233,11 +233,9 @@ Solve below advance and industry based Kaggle problems end to end while explorin
 
 ## <div align="center"><ins> Want to participate?</ins></div>
 
-Check [here](https://bit.ly/nlpoc-kaggle) to know more about **NLP** Kaggle course
-
-Check [here](https://bit.ly/time-series-kaggle) to know more about **Time Series** Kaggle course
-
-Check [here](https://bit.ly/regression-kaggle) to know more about **Regression** Kaggle course
+Check [here](https://bit.ly/time-series-kaggle) to know more about **Time Series** Kaggle course <br>
+Check [here](https://bit.ly/regression-kaggle) to know more about **Regression** Kaggle course <br>
+Check [here](https://bit.ly/nlpoc-kaggle) to know more about **NLP** Kaggle course <br>
 
 ## <div align="center"><ins>What will you get out of this course?</ins></div>
 
