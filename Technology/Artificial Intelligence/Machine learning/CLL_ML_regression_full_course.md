@@ -60,7 +60,7 @@ The whole idea is to mentor and guide you well in your Data Science journey. Lik
 
 *The dataset consists of prices and other attributes of around 27000 cubic zirconia gemstones, which is an inexpensive alternative of the diamond. You are hired by the gemstone manufacturing company to predict the price of the stones on the basis of details provided and help distinguish between the higher profitable stones and lower profitable stones by analyzing the dataset so as to have a better profit share.*
 
-**2. [Used Cars Price Prediction(Capstone)](https://www.kaggle.com/avikasliwal/used-cars-price-prediction)**
+**2. [Used Cars Price Prediction(Capstone)](https://www.kaggle.com/colearninglounge/used-cars-price-prediction)**
 
 *Predict the price of an unknown car. Build your own Algo for cars 24 !!. This is real time competition and gives a sneek peak in automobiles and retail domain together. Challeging data in terms of practical approach and multicollinearity in the data.*
 
