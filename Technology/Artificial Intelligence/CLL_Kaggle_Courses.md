@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
 </p>
@@ -237,6 +238,20 @@ Check [here](https://bit.ly/time-series-kaggle) to know more about **Time Series
 Check [here](https://bit.ly/regression-kaggle) to know more about **Regression** Kaggle course <br>
 Check [here](https://bit.ly/nlpoc-kaggle) to know more about **NLP** Kaggle course <br>
 
+# <div align="center"> When it stars?</div>
+
+-  Course starts on **5th December 2020 till completion of the challenge OR 10th Jan 2021**. *Whichever comes first.*
+-  To maintain the quality of learning **maximum 15 person** in batch is allowed.
+-  Last day to apply is **28th November 2020**.
+-  For any query email us to <ins>**colearninglounge@gmail.com**</ins>.
+
+## <div align="center"><ins>Scholarship opportunity</ins></div>
+
+During the span of the course, if you help us in creating content (learning material) for the course, then based on your contribution we will return the fees.<Br>
+You will get free Resume and LinkedIn review if you are top performer in the course.
+
+##### <div align="center">It's our sole decision about contribution and reward.</div>
+
 ## <div align="center"><ins>What will you get out of this course?</ins></div>
 
 -  You’ll get to understand the entire **Problem solving** pipeline.
@@ -270,4 +285,4 @@ Check [here](https://bit.ly/nlpoc-kaggle) to know more about **NLP** Kaggle cour
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins> as mentioned [here](https://github.com/colearninglounge/co-learning-lounge/blob/master/Technology/Artificial%20Intelligence/CLL_Kaggle_Courses.md#-want-to-participate)
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> as mentioned [here](https://github.com/colearninglounge/co-learning-lounge/blob/master/Technology/Artificial%20Intelligence/CLL_Kaggle_Courses.md#-want-to-participate).
