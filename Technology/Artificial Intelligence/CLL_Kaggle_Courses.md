@@ -272,4 +272,4 @@ Check [here](https://bit.ly/regression-kaggle) to know more about **Regression**
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins> as mentioned here
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> as mentioned [here](https://github.com/colearninglounge/co-learning-lounge/blob/master/Technology/Artificial%20Intelligence/CLL_Kaggle_Courses.md#-want-to-participate)
