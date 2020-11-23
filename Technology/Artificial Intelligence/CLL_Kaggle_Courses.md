@@ -26,6 +26,10 @@ Kaggle is an amazing Data science community with competition from top companies 
 
 ##  <div align="center"> NLP </div>
 Solve below advance NLP Kaggle problems end to end while exploring latest industry adopted state of the art algorithms.
+
+##  <div align="center"> Mentoring Session Schedule </div>
+Saturday and Sunday - 2 to 5 pm IST
+
 ### Kaggle Problems to be solved:
 
  1. **[**Quora Insincere Questions Classification**](https://www.kaggle.com/c/quora-insincere-questions-classification)**
@@ -104,6 +108,9 @@ Solve below advance NLP Kaggle problems end to end while exploring latest indust
 ##  <div align="center"> Time Series</div>
 Solve below advance and burning Time Series Kaggle problems end to end while exploring latest industry adopted state of the art algorithms.
 
+##  <div align="center"> Mentoring Session Schedule </div>
+Saturday and Sunday - 6 to 8 pm IST
+
 ### Kaggle Problems to be solved:
 
  1. **[COVID-19 Global Forecasting(In Class)](https://www.kaggle.com/c/covid19-global-forecasting-week-5/overview)**
@@ -170,6 +177,9 @@ Solve below advance and burning Time Series Kaggle problems end to end while exp
 
 ##  <div align="center"> Regression</div>
 Solve below advance and industry based Kaggle problems end to end while exploring all algorithms.
+
+##  <div align="center"> Mentoring Session Schedule </div>
+Saturday and Sunday - 12 to 2 pm IST
 
 ### Kaggle Problems to be solved:
 
