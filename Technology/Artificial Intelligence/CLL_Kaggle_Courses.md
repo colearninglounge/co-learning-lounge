@@ -27,9 +27,6 @@ Kaggle is an amazing Data science community with competition from top companies 
 ##  <div align="center"> NLP </div>
 Solve below advance NLP Kaggle problems end to end while exploring latest industry adopted state of the art algorithms.
 
-##  <div align="center"> Mentoring Session Schedule </div>
-Saturday and Sunday - 2 to 5 pm IST
-
 ### Kaggle Problems to be solved:
 
  1. **[**Quora Insincere Questions Classification**](https://www.kaggle.com/c/quora-insincere-questions-classification)**
@@ -105,11 +102,11 @@ Saturday and Sunday - 2 to 5 pm IST
 -   Weights and Biases
 </details>
 
+###  <div align="center"> Mentoring Session Schedule </div>
+Saturday and Sunday - 2 to 5 pm IST
+
 ##  <div align="center"> Time Series</div>
 Solve below advance and burning Time Series Kaggle problems end to end while exploring latest industry adopted state of the art algorithms.
-
-##  <div align="center"> Mentoring Session Schedule </div>
-Saturday and Sunday - 6 to 8 pm IST
 
 ### Kaggle Problems to be solved:
 
@@ -175,72 +172,8 @@ Saturday and Sunday - 6 to 8 pm IST
  - Algorithimc Generalisation
 </details>
 
-##  <div align="center"> Regression</div>
-Solve below advance and industry based Kaggle problems end to end while exploring all algorithms.
-
-##  <div align="center"> Mentoring Session Schedule </div>
-Saturday and Sunday - 12 to 2 pm IST
-
-### Kaggle Problems to be solved:
-
- 1. **Gemstone Price Prediction (In Class)**
- 2. **[Used Cars Price Prediction(Capstone)](https://www.kaggle.com/colearninglounge/used-cars-price-prediction)**
-
-### Quick overview of concepts to be taught:
-<details>
-  <summary> Indepth Exploratory Data Analysis </summary>
-  
-- Understanding the data.
-- Identifying variables and checking data types.
-- Analyzing the basic metrics of different data types.
-- Univariate Analysis- Non-Graphical.
-- Univariate Analysis-Graphical (VDA).
-- Bivariate Analysis.
-- Pair Plot Analysis
-- Missing value treatment.
-- Outlier treatment.
-- Correlation Analysis.
-- Dimensionality Reduction.
-- Binning
-- Log Transformation
-- Scaling
-
-</details>
-
-<details>
-  <summary> ML Algorithms </summary>
-
-- Linear Regression
-- Decision Tree Regressor
-- Ridge Regression
-- Lasso Regression
-- Support Vector Regressor
-- Artificial Neural Network Regressor
-</details>
-
-
-<details>
-  <summary> Evaluation metrics </summary>
-  
-- Mean Square Error
-- Root Mean Square Error
-- Mean Absolute Error
-- Mean Absolute Percentage Error
-</details>
-
-<details>
-  <summary> ML Explainability </summary>
-
- - LIME 
- - Algorithimc Generalisation
-</details>
-
-<details>
-  <summary> Hyperparameter tuning </summary>
-  
--   Grid Search
--   Randomized Search
-</details>
+###  <div align="center"> Mentoring Session Schedule </div>
+Saturday and Sunday - 6 to 8 pm IST
 
 ## <div align="center"><ins> Want to participate?</ins></div>
 
