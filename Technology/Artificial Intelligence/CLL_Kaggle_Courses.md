@@ -174,7 +174,7 @@ Solve below advance and burning Time Series Kaggle problems end to end while exp
 </details>
 
 ###  <div align="center"> Mentoring Session Schedule </div>
-**Saturday and Sunday**: 6 to 8 pm IST
+**Saturday and Sunday**: 6 to 8 pm IST <br>
 **Monday - Friday**: The candidate needs to solve the problem over weekdays. Mentor will continuously monitor the progress and feedback about the work on Wednesday and Friday.
 
 ## <div align="center"><ins> Want to participate?</ins></div>
