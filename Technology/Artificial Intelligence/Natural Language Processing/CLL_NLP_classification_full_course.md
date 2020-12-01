@@ -58,6 +58,10 @@ Here's your chance to combat online trolls at scale. Help Quora uphold their pol
 *Discussing things you care about can be difficult. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. <br> <br>In this competition, you’re challenged to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s  [current models](https://github.com/conversationai/unintended-ml-bias-analysis). You’ll be using a dataset of comments from Wikipedia’s talk page edits. Improvements to the current model will hopefully help online discussion become more productive and respectful. <br>
 _Disclaimer: the dataset for this competition contains text that may be considered profane, vulgar, or offensive._*
 
+**3. [**GitHub Bugs Prediction**](https://www.kaggle.com/anmolkumar/github-bugs-prediction)**
+
+*Foreseeing bugs, features, and questions on GitHub can be fun, especially when one is provided with a colossal dataset containing the GitHub issues. In this hackathon, we are challenging the MachineHack community to come up with an algorithm that can predict the bugs, features, and questions based on GitHub titles and the text body. With text data, there can be a lot of challenges especially when the dataset is big. Analyzing such a dataset requires a lot to be taken into account mainly due to the preprocessing involved to represent raw text and make them machine-understandable. Usually, we stem and lemmatize the raw information and then represent it using TF-IDF, Word Embeddings, etc.*
+
 ## <div align="center"><ins>**NLP Introduction** (1 hours)</ins></div>
 
 *It seems blind to jump right into problem statement without knowing the real and business usecase. Also it is very important to explore the synergy with other NLP related application and latest libraries.*
