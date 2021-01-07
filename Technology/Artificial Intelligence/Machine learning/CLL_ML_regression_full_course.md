@@ -186,9 +186,9 @@ While applying, do let us know:-
 
 # <div align="center">Training period fee - ₹ 5999 + 18% GST/- per person</div>
 
--  Course starts on **16th January 2021 till 14th Feb 2021**. 
+-  Course starts on **30th January 2021 till 28th Feb 2021**. 
 -  To maintain the quality of learning **maximum 15 person** in batch is allowed.
-- Last day to apply is **9th January 2021**.
+- Last day to apply is **24th January 2021**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
 
 ## <div align="center"><ins>Scholarship opportunity</ins></div>
