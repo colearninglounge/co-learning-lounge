@@ -84,6 +84,8 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [oneorigin](https://www.oneorigin.us/careers/)
 - [sharechat](https://www.linkedin.com/company/sharechat)
 - [jina.ai](https://jina.ai/#/jobs)
+- [humanloop.com](https://angel.co/company/humanloop/jobs)
+- [expert.ai](https://www.expert.ai/careers/)
 
 ## Computer vision
 - [NetraDyne](https://www.netradyne.com/careers/)
