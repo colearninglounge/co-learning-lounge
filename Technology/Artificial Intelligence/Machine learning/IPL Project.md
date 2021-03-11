@@ -4,15 +4,15 @@
   <img src="https://s3.ap-south-1.amazonaws.com/townscript-production/images/2545d2c7-a6e8-486e-97e6-737c42cef670.jpg" />
 </p>
 
-Thanks for showing interest in taking part in our Co-learning activity. We assure you the journey full of learning by solving some problems. To get into the Data Science field, the first and the last thing you need is the portfolio where you have solved a problem using data science. Ask any good Data Scientist and they will tell you the same.
+Thanks for showing interest in taking part in our Co-learning activity. We assure you the journey full of learning by working on live sports analytics project. To get into the Data Science field, the first and the last thing you need is the portfolio where you have solved a problem using data science. Ask any good Data Scientist and they will tell you the same.
 
 #### <div align="center">“Let’s put theory into practice”</div>
   
 
-In this activity, we will solve old Kaggle problems to enable you to participate in ongoing Kaggle competitions.
+In this project, we will create statistical solution for predicting fantasy team for each and every cricket match. This project is live project being tested on IPL 2021.
 
-#### **Why Old Kaggle problems?**
-Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
+#### **Why to test on IPL series?**
+Any solution being created need to be tested well before deployment. Here we are trying to create a solution to predict Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
 
 # <div align="center"> Testimonial (Click to Watch Video)</div>
 
