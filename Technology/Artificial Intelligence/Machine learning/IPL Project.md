@@ -23,7 +23,7 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 </p>
 
 
-# <div align="center">Course Outline</div>
+# <div align="center">Project Plan</div>
 
 ## <div align="center"><ins>Python brush up with ML concepts and libraries [3 hours - optional]</ins></div>
 
