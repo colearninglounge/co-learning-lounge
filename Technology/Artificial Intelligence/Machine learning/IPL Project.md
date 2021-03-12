@@ -12,7 +12,7 @@ Thanks for showing interest in taking part in our Co-learning activity. We assur
 In this project, we will create statistical solution for predicting fantasy team for each and every cricket match. This project is live project being tested on IPL 2021.
 
 #### **Why to test on IPL series?**
-Any solution being created need to be tested well before deployment. Here we are trying to create a solution to predict Kaggle is an amazing Data science community with competition from top companies that has a close to the real dataset, Quality discussion, and Solution. A gold mine of knowledge is already there we just need to dig it :)
+Any solution needs to be tested well before deployment. Here we are trying to create a solution to predict fantasy team for cricket matches irrespective of toyrnament. This would help users to minimize their loss probability. IPL is one of the most loved competitive form of cricket tournament. It has a mix of players from various nations coming to play together, this makes it even more competitive in every sense. IPL is an annual series and thus ideally suited for testing of this live project. A perfect use case is already in hand, we just need to use it wisely :)
 
 # <div align="center"> Testimonial (Click to Watch Video)</div>
 
