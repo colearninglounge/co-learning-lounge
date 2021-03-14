@@ -61,17 +61,20 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 
 ## <div align="center"><ins>Possible data that would give an edge</ins></div>
 
-*Right data is key to success but selection of right data starts happens only with proper analysis. Datasets ahve been collated by our team to make this process easier for all the participants.*
+*Right data is essence but selection of right data happens only with proper analysis. Datasets ahve been collated by our team to make this process easier for all the participants.Datasets collected are keeping in mind below points:*
 
-**2. [Used Cars Price Prediction(Capstone)](https://www.kaggle.com/colearninglounge/used-cars-price-prediction)**
+1. All IPL season data matchwise.
+2. Ball by Ball delivery data for all IPL matches.
+3. Venue details for all matches along with scorecard.
+4. Bowling style deatils for bowlers and all rounders.
+5. Other 20-20 format series details.
+6. Recent and career statistics performance of all players.
 
-*Predict the price of an unknown car. Build your own Algo for cars 24 !!. This is real time competition and gives a sneek peak in automobiles and retail domain together. Challeging data in terms of practical approach and multicollinearity in the data.*
+## <div align="center"><ins>Exploratory Data Analysis</ins></div>
 
-## <div align="center"><ins>Exploratory Data Analysis Syllabus (6-7 hours)</ins></div>
+*To delve into Data Science, the first step is to identify and analyze our dataset in order to ascertain  different patterns, detect missing values and anomalies and identify different characteristics of our data. In other words, we attempt to understand what the data is trying to tell us.*
 
-*To delve into machine learning, the first step is to identify and analyze our dataset in order to ascertain  different patterns, detect missing values and anomalies and identify different characteristics of our data. In other words, we attempt to understand what the data is trying to tell us.*
-
-<U>Understand the different approaches to implement EDA :</U>
+<U>Analyze the data based on different aspects :</U>
 
 1. Understanding the data.
 2. Identifying variables and checking data types.
