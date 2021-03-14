@@ -85,69 +85,57 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 7. Analyze toss winning aspect for team and player as well to asses the performance.
 8. Segreate the players who behave like an outlier or for whom performance pattern can't be detected.
 
-## <div align="center"><ins>Dataset split- (1 hour)</ins></div>
+## <div align="center"><ins>Variable Importance</ins></div>
 
-*It is a common practice in machine learning to split data into training, testing and validation set allowing us to calibrate our model and test it’s performance on unseen data*
+*In the field of sports analytics variables are highly correlated. We know that for any model to perform well correlation needs to be handled.*
 
-<U> Learn the concepts and significance of data splitting in model development : </U>
+<U> Approaches to handle correlation: </U>
 
-1. Train
-2. Test
-3. Validation (different types) 
+1. AHP technique to assign weights to variables.
+2. Assigning weights to recent and career statitics columns seperately.
+3. Using Dreams 11 poin system to calculate scores.
+4. Using Monte Carlo simulator to generate scores for each player.
+5. USing ELO scoree for players.
 
-## <div align="center"><ins>ML Algorithms- Supervised learning- Regression (6-8 hours)</ins></div>
+## <div align="center"><ins>Anlytical Model creation and testing</ins></div>
 
-*Understanding the theoretical and mathematical of machine learning algorithms is the crux of developing accurate predictive models for Regression problem. Different machine learning algorithms are suited for different types and distribution of data*
+*Sports Analytics is more about statistical approach than Machine Learning Approach alone. So based on analysis model needs to be created to predict fantasy team players for each match of the series. Without testing no model is complete, so a thorough round of testing needs to be performed.*
 
-<U> Delve into the intricacies of the mathematics and mechanism of the functioning of these algorithms: </U>
 
-   1. Linear Regression
-   2. Decision Tree Regressor
-   3. Ridge Regression
-   4. Lasso Regression
-   5. Support Vector Regressor
-   6. Artificial Neural Network Regressor
-    
-## <div align="center"><ins>Evaluation metrics (1 hours)</ins></div>
+   1. Test the model performance on 2nd half of IPL 2020 matches.
+   2. Test the model on 1st half of IPL 2021 matches.
+   3. Tweak the model (if required) and test on 2nd half of IPL 2021 matches.
+       
+## <div align="center"><ins>Model Evaluation</ins></div>
 
 *A developed model needs to be evaluated for it’s performance before being actually deployed in real time environment.*
 
-<U> Learn the concepts to measure the performance of model based on several metrics : </U>
+1. Create fantasy team as per model for each and every match.
+2. Record the accuracy of model by checking how many predicted players made to Dream Team.
+3. Goal is to achieve an accuracy of more than 8 players correct prediction in fantasy team.
 
-1. Mean Square Error
-2. Root Mean Square Error
-3. Mean Absolute Error
-4. Mean Absolute Percentage Error
+## <div align="center"><ins>Project Wrap up</ins></div>
 
-## <div align="center"><ins>ML Explainability (3-4 hours)</ins></div>
+*Concluding a project and presenting to stakeholders is an importanat step for closure.*
 
-*Towards a better understanding of why machine learning models make the decisions they do, and why it matters*
 
-<U> Learn the concepts to measure the interpretability of the ML models : </U>
+1. Detailed approach needs to be documented.
+2. All dream team and predicted team should be maintained.
+3. FInal business presentation needs to be created mentioning project outcome.
+4. All code needs to be alligned and complied in a folder properly.
 
-1. LIME
-2. Algorithimc Generalisation
 
-## <div align="center"><ins>Hyperparameter tuning (2-3 hours)</ins></div>
+## <div align="center"><ins>What will you get out of this live project?</ins></div>
 
-*Once a machine learning algorithm has been identified, it is imperative to choose an optimal set of parameters to tune the model to better fit the data. Such parameters can’t be learn’t during the training process and thus requires an expertise for model tuning.*
-
-Develop an intuition to streamline the parameter optimization process.
-
-## <div align="center"><ins>What will you get out of this course?</ins></div>
-
--  You’ll get to understand the entire **Machine Learning** pipeline.
--  You’ll get to learn abstract topics such as **Statistics** & **Exploratory Data Analysis**.
--  You’ll learn methods to identify **Outliers** and methods to eliminate it’s effects.
--  You’ll get to learn **Dimensionality Reduction**.
--  You’ll be delving into the **intricacies** of different ML algorithms.
--  You’ll get to understand the nuances of **Hyperparameter tuning**.
--  You’ll be getting hands on experience through Weekly Assignments.
--  You’ll be able to reach out to peers and mentors through sync ups every Wednesday and Friday.
--  You’ll get to submit your work on **Kaggle** as a notebook.
--  You’ll be building a strong **LinkedIn profile** visible to recruiters.
--  We will teach you to **create the content** and increase LinkedIn presence to **build your self-brand** during the course(If you are interested)
--  This course should give enough **confidence to solve** the ML/DL assignments given by company's for the ML role.
+-  You’ll get to understand the entire **Cricket Analytics** pipeline.
+-  You’ll get to learn about additional techniques such as **Monte Carlo Simulation** & **ELO Score Calculation**.
+-  You’ll learn methods to handle **Correlation** and methods to assign weights to variables accordingly.
+-  You’ll be getting hands on live project experience for cricket analystics.
+-  You’ll be able to intract with mentors and last year IPL project team.
+-  You’ll get to test your model on real time data of **IPL 2021**.
+-  You’ll be building a strong **LinkedIn profile** visible to sports analytics companies.
+-  We will teach you to **create the content** and increase LinkedIn presence to **build your self-brand** during this project(If you are interested).
+-  This project should give enough **confidence to handle** projects in Sports Analytics Domain.
 
 ## <div align="center"><ins>Post - course benefits</ins></div>
 
