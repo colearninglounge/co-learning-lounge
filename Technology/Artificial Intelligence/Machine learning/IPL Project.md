@@ -25,20 +25,23 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 
 # <div align="center">Project Plan</div>
 
-## <div align="center"><ins>Python brush up with ML concepts and libraries [3 hours - optional]</ins></div>
+## <div align="center"><ins>Step wise project execution plan</ins></div>
 
-*A brief summary on basic concepts of python syntax, data types and in built data structures such as 
-loops, lists, tuples, dictionary, functions.*
+*Goal of this project is to achieve an accuracy of more than 8 players prediction in Fanstasy team for IPL 2021 batches.*
 
-<U> Understanding basic Machine Learning concepts : </U>
+<U> How to achieve higher prediction accuracy? : </U>
 
-1. What is machine learning?
-2. Supervised and Unsupervised machine learning concept.
-3. Bias - Variance trade-off.
-4. Overfitting and Underfitting in machine learning.
-5. Understanding classification and regression.
-6. Brief summary of ‘Scikit learn’.
-7. Understanding the problem statement for Kaggle problems.
+1. Analyze the data and decide on segregation factors.
+2. Approach to accomodate all rounder in the process.
+3. Consideration for venue and other external factors.
+4. Analysis of any other important series which can add value for new players and uncapped players assesment.
+5. Prepare statistical approach for player selection considering all above factors.
+6. Add head to head player statistics to above match to add intutive insighth in terms of data.
+7. Test the above model on previous matches played.
+8. Try out Monte Carlo simulator or any other technique to improve accuracy.
+9. Test it on ongoing IPL 2021 matches by creaing your own dream team based on model.
+10. Tweak the model as per requirement to achieve as high accuracy as possible (benchmark accuracy is 8 players).
+11. Preparing a process document and business report to be submitted along with code at the completion of project.
 
 ## <div align="center"><ins>Batch Details</ins></div>
 
