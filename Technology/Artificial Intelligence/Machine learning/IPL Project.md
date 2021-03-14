@@ -37,25 +37,25 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 4. Analysis of any other important series which can add value for new players and uncapped players assesment.
 5. Prepare statistical approach for player selection considering all above factors.
 6. Add head to head player statistics to above match to add intutive insighth in terms of data.
-7. Test the above model on previous matches played.
+7. Test the above model on previous matches played by creating team as per dreams 11 point system.
 8. Try out Monte Carlo simulator or any other technique to improve accuracy.
 9. Test it on ongoing IPL 2021 matches by creaing your own dream team based on model.
 10. Tweak the model as per requirement to achieve as high accuracy as possible (benchmark accuracy is 8 players).
 11. Preparing a process document and business report to be submitted along with code at the completion of project.
 
-## <div align="center"><ins>Batch Details</ins></div>
+## <div align="center"><ins>Project Details</ins></div>
 
-*For enrollment into any batch a one on one discussion session would be scheduled with our team where our team will understand your aspiration for joining this course and your understanding about field of Data Science and Kaggle.*
+*For enrollment into live project a one on one discussion session would be scheduled with our team where our team will understand your aspiration for joining this project and your understanding about field of Data Science and Cricket.*
 
-**In Class**
+**Mentor driven project**
 
-*Brush up would be done for basic Data Science concept and in class hands-on would be conducted on a dataset. All the models designed here would be on Regression case study.*
+*Mentor would have alternate day check-in to keep track of the progress and also discuss approach taken by the team. Since, this is time bound project thus a team of 4 each would be created who all will have a designated task and need to co-ordinate for task completion.*
 
-**Capstone**
+**Team task**
 
-*Whatever would be practiced in class that would be under the guided mentorship but knowledge is built up only when practice is done. In this segment an old kaggle problem which is regression based would be alloted to learners to create and practice their own models and be ready to participate in real time kaggle competetions.*
+*Approach would be discussed along with mentor and same needs to be implemented in stipulated timeframe in co-ordination with other team members. Time commitment is the key to success for this project completion.*
 
-The whole idea is to mentor and guide you well in your Data Science journey. Like others, we don't want to give you **False hopes** and then fail at making a successful career transition. Also, once you join our course and after finishing you can solve plenty of Kaggle problems with help of close and premium community of Kagglers and guidance from mentors.
+The whole idea is to mentor and guide you well in this learning journey. Like others, we don't want to give you **False hopes** and then fail at making a successful career transition. Also, once you join this live project and after finishing you can showcase this in your profile and apply with sports analytics company as well scale the same approach for other sports as well.
 
 ## <div align="center"><ins>Problems to be undertaken</ins></div>
 
