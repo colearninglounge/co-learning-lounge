@@ -76,20 +76,14 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 
 <U>Analyze the data based on different aspects :</U>
 
-1. Understanding the data.
-2. Identifying variables and checking data types.
-3. Analyzing the basic metrics of different data types.
-4. Univariate Analysis- Non-Graphical.
-5. Univariate Analysis-Graphical (VDA).
-6. Bivariate Analysis.
-7. Pair Plot Analysis
-8. Missing value treatment.
-9. Outlier treatment.
-10. Correlation Analysis.
-11. Dimensionality Reduction.
-12. Binning
-13. Log Transformation
-14. Scaling
+1. Categorise players based on their strength.
+2. Categorise venues based on pitch and boundary capability.
+3. Come up with new features based on game format like hard hiiting capability, Short per Index, etc.
+4. Categorize players based on Dreams 11 point system.
+5. Analyze fitness level of player based on recent and career statistics.
+6. Analyze player to player combination.
+7. Analyze toss winning aspect for team and player as well to asses the performance.
+8. Segreate the players who behave like an outlier or for whom performance pattern can't be detected.
 
 ## <div align="center"><ins>Dataset split- (1 hour)</ins></div>
 
