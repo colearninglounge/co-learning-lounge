@@ -43,6 +43,8 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 10. Tweak the model as per requirement to achieve as high accuracy as possible (benchmark accuracy is 8 players).
 11. Preparing a process document and business report to be submitted along with code at the completion of project.
 
+https://medium.com/analytics-vidhya/dream11-team-predictor-with-python-and-machine-learning-f0dfce1489eb
+
 ## <div align="center"><ins>Project Details</ins></div>
 
 *For enrollment into live project a one on one discussion session would be scheduled with our team where our team will understand your aspiration for joining this project and your understanding about field of Data Science and Cricket.*
@@ -57,11 +59,9 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 
 The whole idea is to mentor and guide you well in this learning journey. Like others, we don't want to give you **False hopes** and then fail at making a successful career transition. Also, once you join this live project and after finishing you can showcase this in your profile and apply with sports analytics company as well scale the same approach for other sports as well.
 
-## <div align="center"><ins>Problems to be undertaken</ins></div>
+## <div align="center"><ins>Possible data that would give an edge</ins></div>
 
-**1. [Gemstone Price Prediction (In Class)]**
-
-*The dataset consists of prices and other attributes of around 27000 cubic zirconia gemstones, which is an inexpensive alternative of the diamond. You are hired by the gemstone manufacturing company to predict the price of the stones on the basis of details provided and help distinguish between the higher profitable stones and lower profitable stones by analyzing the dataset so as to have a better profit share.*
+*Right data is key to success but selection of right data starts happens only with proper analysis. Datasets ahve been collated by our team to make this process easier for all the participants.*
 
 **2. [Used Cars Price Prediction(Capstone)](https://www.kaggle.com/colearninglounge/used-cars-price-prediction)**
 
