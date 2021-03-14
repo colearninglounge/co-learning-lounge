@@ -14,15 +14,6 @@ In this project, we will create statistical solution for predicting fantasy team
 #### **Why to test on IPL series?**
 Any solution needs to be tested well before deployment. Here we are trying to create a solution to predict fantasy team for cricket matches irrespective of toyrnament. This would help users to minimize their loss probability. IPL is one of the most loved competitive form of cricket tournament. It has a mix of players from various nations coming to play together, this makes it even more competitive in every sense. IPL is an annual series and thus ideally suited for testing of this live project. A perfect use case is already in hand, we just need to use it wisely :)
 
-# <div align="center"> Testimonial (Click to Watch Video)</div>
-
-<p align="center">
- <img>
-  <a href="http://www.youtube.com/watch?v=6o_htflJWtc"> <img src="http://img.youtube.com/vi/6o_htflJWtc/0.jpg" /></a>
-  </img>
-</p>
-
-
 # <div align="center">Project Plan</div>
 
 ## <div align="center"><ins>Step wise project execution plan</ins></div>
@@ -140,11 +131,11 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 ## <div align="center"><ins>Post - course benefits</ins></div>
 
 -  Get your Resume and GitHub reviewed by experts. *[Additional service at cheaper price]*
--  Once you have undertaken and completed the course, you will get full-fledged support from our mentors from the community for any technical help, guidance, etc.
+-  Once you have undertaken and completed the project, you will get a project completion certificate and full-fledged support from our mentors from the community for any technical help, guidance, etc.
 - As most of the company prefer giving assignment to the candidate for ML role, we can help you to mentor for same.
-- As we have mentored and we know your skills and achievement, we will refer you for any AI/ML job which fits your profile.
+- As we have mentored and we know your skills and achievement, we will refer you for any AI/ML job in sports analytics companies which fits your profile.
 - As we know LinkedIn is the platform to catch recruiters' attention, we will shout out your achievements, help to boost your work on LinkedIn to get visibility.
-- You will be eligible for intermediate and advance concepts in the same series.
+- You will be eligible for future sports analytics projects.
 
 ## <div align="center"><ins>Resume and LinkedIn Review</ins></div>
 -	Design and formatting 
@@ -157,31 +148,31 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 
 ## <div align="center"><ins>Rules and Regulations</ins></div>
 
-- Since the course time-lines are fixed, you will have to submit the assigned learning module and work within a given time.
--  Please join the course based on your available bandwidth. Course fees is non-refundable.
--  Classes will mostly be held during the weekends (Saturday, Sunday) for 2 hours per day.
--  This course does not provide any certificate. Only certificate won't give you a job. Knowledge and projects will. That is what we primarily focus on.
+- Since the project time-lines are fixed, you will have to submit the assigned task within a given time.
+-  Please join the project based on your available bandwidth. Project learning fees is non-refundable.
+-  Project meeting will happen every alternate day.
+-  Time commitment required would be atleast 3 hours per day without fail till project wrap up (approx 3 months).
 
 ## <div align="center"><ins>How to apply?</ins></div>
 
 If you feel you are qualified and are up for the learning ride, please send your profile (Resume, LinkedIn, 
-GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*Regression - Kaggle based project learning*"
+GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*IPL 2021 - Live Project*"
 
 While applying, do let us know:-
 
-   1. **Why do you want to join this course?**
-   2. **What are your expectations from this course?**
+   1. **Why do you want to jbe a part of this project.**
+   2. **What are your expectations from this cproject?**
 
-# <div align="center">Training period fee - ₹ 5999 + 18% GST/- per person</div>
+# <div align="center">Project fee - ₹ 6999 + 18% GST/- per person</div>
 
--  Course starts on **30th January 2021 till 28th Feb 2021**. 
--  To maintain the quality of learning **maximum 15 person** in batch is allowed.
-- Last day to apply is **24th January 2021**.
+-  Course starts on **25th March 2021 till 10th June 2021**. 
+-  To maintain the quality of project **maximum 12 person** in batch is allowed forming 3 teams of 4 each.
+- Last day to apply is **22nd March 2021**.
 - For any query email us to <ins>**colearninglounge@gmail.com**</ins>. 
 
-## <div align="center"><ins>Scholarship opportunity</ins></div>
+## <div align="center"><ins>Mentorship opportunity</ins></div>
 
-During the span of the course, if you help us in creating content (learning material) for the course, then based on your contribution we will return the fees.
+During the span of the project, if you help us in creating content (learning material) for the project, then based on your contribution we will consider you for further projects as mentor/assistant mentor.
 
 #### <div align="center">It's our sole decision about contribution and reward.</div>
 
