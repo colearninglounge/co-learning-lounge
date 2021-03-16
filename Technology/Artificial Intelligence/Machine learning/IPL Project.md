@@ -12,7 +12,7 @@ Thanks for showing interest in taking part in our Co-learning activity. We assur
 In this project, we will create statistical solution for predicting fantasy team for each and every cricket match. This project is live project being tested on IPL 2021.
 
 #### **Why to test on IPL series?**
-Any solution needs to be tested well before deployment. Here we are trying to create a solution to predict fantasy team for cricket matches irrespective of toyrnament. This would help users to minimize their loss probability. IPL is one of the most loved competitive form of cricket tournament. It has a mix of players from various nations coming to play together, this makes it even more competitive in every sense. IPL is an annual series and thus ideally suited for testing of this live project. A perfect use case is already in hand, we just need to use it wisely :)
+Any solution needs to be tested well before deployment. Here we are trying to create a solution to predict fantasy team for cricket matches irrespective of tournament. This would help users to minimize their loss probability. IPL is one of the most loved competitive form of cricket tournament. It has a mix of players from various nations coming to play together, this makes it even more competitive in every sense. IPL is an annual series and thus ideally suited for testing of this live project. A perfect use case is already in hand, we just need to use it wisely :)
 
 # <div align="center">Prerequisites for Participation</div>
 
@@ -24,7 +24,7 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 
 ## <div align="center"><ins>Step wise project execution plan</ins></div>
 
-*Goal of this project is to achieve an accuracy of more than 8 players prediction in Fanstasy team for IPL 2021 batches.*
+*Goal of this project is to achieve an accuracy of more than 8 players prediction in Fanstasy team for IPL 2021 matches.*
 
 <U> How to achieve higher prediction accuracy? : </U>
 
@@ -33,7 +33,7 @@ Any solution needs to be tested well before deployment. Here we are trying to cr
 3. Consideration for venue and other external factors.
 4. Analysis of any other important series which can add value for new players and uncapped players assesment.
 5. Prepare statistical approach for player selection considering all above factors.
-6. Add head to head player statistics to above match to add intutive insighth in terms of data.
+6. Add head to head player statistics to above match to add intutive insight in terms of data.
 7. Test the above model on previous matches played by creating team as per dreams 11 point system.
 8. Try out Monte Carlo simulator or any other technique to improve accuracy.
 9. Test it on ongoing IPL 2021 matches by creaing your own dream team based on model.
@@ -92,7 +92,7 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 2. Assigning weights to recent and career statitics columns seperately.
 3. Using Dreams 11 poin system to calculate scores.
 4. Using Monte Carlo simulator to generate scores for each player.
-5. USing ELO scoree for players.
+5. Using ELO scores for players.
 
 ## <div align="center"><ins>Anlytical Model creation and testing</ins></div>
 
@@ -118,7 +118,7 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 
 1. Detailed approach needs to be documented.
 2. All dream team and predicted team should be maintained.
-3. FInal business presentation needs to be created mentioning project outcome.
+3. Final business presentation needs to be created mentioning project outcome.
 4. All code needs to be alligned and complied in a folder properly.
 
 
