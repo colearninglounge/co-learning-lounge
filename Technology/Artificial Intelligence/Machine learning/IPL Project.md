@@ -14,6 +14,12 @@ In this project, we will create statistical solution for predicting fantasy team
 #### **Why to test on IPL series?**
 Any solution needs to be tested well before deployment. Here we are trying to create a solution to predict fantasy team for cricket matches irrespective of toyrnament. This would help users to minimize their loss probability. IPL is one of the most loved competitive form of cricket tournament. It has a mix of players from various nations coming to play together, this makes it even more competitive in every sense. IPL is an annual series and thus ideally suited for testing of this live project. A perfect use case is already in hand, we just need to use it wisely :)
 
+# <div align="center">Prerequisites for Participation</div>
+
+1. Need to be passionate about cricket as domain knowledge plays a critical role in success of any project.
+2. Working proficiency in tools like EXcel, Python, etc.
+3. Participant should be passionate about data and should know tricks to make data speak efficiently.
+
 # <div align="center">Project Plan</div>
 
 ## <div align="center"><ins>Step wise project execution plan</ins></div>
@@ -137,14 +143,6 @@ The whole idea is to mentor and guide you well in this learning journey. Like ot
 - As we know LinkedIn is the platform to catch recruiters' attention, we will shout out your achievements, help to boost your work on LinkedIn to get visibility.
 - You will be eligible for future sports analytics projects.
 
-## <div align="center"><ins>Resume and LinkedIn Review</ins></div>
--	Design and formatting 
--	Content, Buzzwords, Matrix
--	Objective/Summary strength
--	ATS Score (With screenshot) & how to Improve
--	LinkedIn Profile strength review
--	Activity/Content review 
--	LinkedIn Profile score (With screenshot) & How to Improve
 
 ## <div align="center"><ins>Rules and Regulations</ins></div>
 
@@ -160,8 +158,8 @@ GitHub) to <ins>**colearninglounge@gmail.com**</ins> with subject line "*IPL 202
 
 While applying, do let us know:-
 
-   1. **Why do you want to jbe a part of this project.**
-   2. **What are your expectations from this cproject?**
+   1. **Why do you want to be a part of this project.**
+   2. **What are your expectations from this project?**
 
 # <div align="center">Project fee - ₹ 6999 + 18% GST/- per person</div>
 
