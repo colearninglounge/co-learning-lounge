@@ -8,7 +8,7 @@ jsonpickle==1.1
 redis==3.3.6
 fakeredis==1.0.3
 pymongo==3.8.0
-numpy==1.16.3
+numpy==1.22.0
 scipy==1.2.1
 tensorflow==1.13.1
 apscheduler==3.6.0
