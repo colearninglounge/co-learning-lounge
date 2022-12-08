@@ -3,7 +3,7 @@ ask-sdk-model==1.20.2
 ask-sdk-runtime==1.13.0
 boto3==1.12.5
 botocore==1.15.5
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 docutils==0.15.2
 idna==2.9
